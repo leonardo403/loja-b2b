@@ -11,6 +11,8 @@ use App\Models\Order;
 use App\Models\User;
 use App\Repositories\Contracts\OrderRepositoryInterface;
 use App\Repositories\Contracts\StockRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
 
 class OrderService
@@ -108,6 +110,8 @@ class OrderService
             return $order;
         });
 
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
+
         return OrderDTO::fromModel($order);
     }
 
@@ -174,6 +178,8 @@ class OrderService
 
             $this->orders->updateStatus($locked, $status);
         });
+
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
 
         return $this->find($order->id);
     }

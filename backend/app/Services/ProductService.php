@@ -11,6 +11,8 @@ use App\Models\User;
 use App\Repositories\Contracts\PriceTableRepositoryInterface;
 use App\Repositories\Contracts\ProductRepositoryInterface;
 use App\Repositories\Contracts\StockRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
 
 class ProductService
@@ -30,12 +32,7 @@ class ProductService
         return PaginatedDTO::fromPaginator(
             $paginator,
             fn (Product $product) => $this->toDto($product, $customer),
-            [
-                'filters' => [
-                    'categories' => $this->products->categories(),
-                    'brands' => $this->products->brands(),
-                ],
-            ],
+            ['filters' => $this->filters()],
         );
     }
 
@@ -45,6 +42,7 @@ class ProductService
 
         return $this->products->featured($limit)
             ->map(fn (Product $product) => $this->toDto($product, $customer)->toArray())
+            ->values()
             ->all();
     }
 
@@ -53,10 +51,10 @@ class ProductService
      */
     public function filters(): array
     {
-        return [
+        return Cache::remember(CacheKeys::CATALOG_FILTERS, now()->addHours(6), fn () => [
             'categories' => $this->products->categories(),
             'brands' => $this->products->brands(),
-        ];
+        ]);
     }
 
     public function detail(int $id, ?User $user): ProductDTO
@@ -106,6 +104,10 @@ class ProductService
             return $product;
         });
 
+        $this->forgetCatalogCaches();
+        $this->forgetDashboardCache();
+        Cache::forget(CacheKeys::ADMIN_PRICE_TABLES);
+
         return $this->toDto($this->products->find($product->id), null);
     }
 
@@ -119,6 +121,9 @@ class ProductService
             }
         });
 
+        $this->forgetCatalogCaches();
+        $this->forgetDashboardCache();
+
         return $this->toDto($this->products->find($product->id), null);
     }
 
@@ -129,6 +134,20 @@ class ProductService
         }
 
         $this->products->delete($product);
+
+        $this->forgetCatalogCaches();
+        $this->forgetDashboardCache();
+        Cache::forget(CacheKeys::ADMIN_PRICE_TABLES);
+    }
+
+    private function forgetCatalogCaches(): void
+    {
+        Cache::forget(CacheKeys::CATALOG_FILTERS);
+    }
+
+    private function forgetDashboardCache(): void
+    {
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
     }
 
     private function customerFor(?User $user): ?Customer

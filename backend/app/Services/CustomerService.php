@@ -9,6 +9,8 @@ use App\Exceptions\BusinessException;
 use App\Models\Customer;
 use App\Models\User;
 use App\Repositories\Contracts\CustomerRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
 
 class CustomerService
@@ -50,6 +52,8 @@ class CustomerService
             return $customer;
         });
 
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
+
         return $this->find($customer->id);
     }
 
@@ -79,6 +83,8 @@ class CustomerService
             }
         });
 
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
+
         return $this->find($customer->id);
     }
 
@@ -92,6 +98,8 @@ class CustomerService
             $customer->users()->delete();
             $this->customers->delete($customer);
         });
+
+        Cache::forget(CacheKeys::ADMIN_DASHBOARD_STATS);
     }
 
     private function toDto(Customer $customer): CustomerDTO

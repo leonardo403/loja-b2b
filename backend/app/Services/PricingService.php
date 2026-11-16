@@ -10,6 +10,8 @@ use App\Models\PriceTableItem;
 use App\Models\Product;
 use App\Models\Promotion;
 use App\Repositories\Contracts\PriceTableRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 
 class PricingService
 {
@@ -58,7 +60,17 @@ class PricingService
 
     public function defaultTable(): PriceTable
     {
-        return $this->defaultTable ??= $this->priceTables->defaultTable();
+        if ($this->defaultTable !== null) {
+            return $this->defaultTable;
+        }
+
+        $attributes = Cache::remember(
+            CacheKeys::DEFAULT_PRICE_TABLE,
+            now()->addHour(),
+            fn () => $this->priceTables->defaultTable()->getAttributes(),
+        );
+
+        return $this->defaultTable = (new PriceTable)->newFromBuilder($attributes);
     }
 
     public function activePromotion(Product $product): ?Promotion

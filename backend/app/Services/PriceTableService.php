@@ -8,6 +8,8 @@ use App\DTO\PriceTableItemDTO;
 use App\Models\PriceTable;
 use App\Models\PriceTableItem;
 use App\Repositories\Contracts\PriceTableRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 
 class PriceTableService
 {
@@ -20,9 +22,13 @@ class PriceTableService
      */
     public function tables(): array
     {
-        return $this->priceTables->all()
-            ->map(fn (PriceTable $table) => PriceTableDTO::fromModel($table)->toArray())
-            ->all();
+        return Cache::remember(
+            CacheKeys::ADMIN_PRICE_TABLES,
+            now()->addHour(),
+            fn () => $this->priceTables->all()
+                ->map(fn (PriceTable $table) => PriceTableDTO::fromModel($table)->toArray())
+                ->all(),
+        );
     }
 
     public function items(PriceTable $priceTable, array $filters, int $perPage): PaginatedDTO
@@ -40,6 +46,8 @@ class PriceTableService
             'wholesale_price' => $data['wholesale_price'] ?? null,
             'wholesale_min_quantity' => $data['wholesale_min_quantity'] ?? null,
         ]);
+
+        Cache::forget(CacheKeys::ADMIN_PRICE_TABLES);
 
         return PriceTableItemDTO::fromModel($item);
     }

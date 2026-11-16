@@ -7,6 +7,8 @@ use App\DTO\PaymentConditionDTO;
 use App\Exceptions\BusinessException;
 use App\Models\PaymentCondition;
 use App\Repositories\Contracts\PaymentConditionRepositoryInterface;
+use App\Support\CacheKeys;
+use Illuminate\Support\Facades\Cache;
 
 class PaymentConditionService
 {
@@ -24,19 +26,31 @@ class PaymentConditionService
 
     public function all(): array
     {
-        return $this->paymentConditions->all()
-            ->map(fn (PaymentCondition $condition) => PaymentConditionDTO::fromModel($condition)->toArray())
-            ->all();
+        return Cache::remember(
+            CacheKeys::CATALOG_PAYMENT_CONDITIONS,
+            now()->addHour(),
+            fn () => $this->paymentConditions->all()
+                ->map(fn (PaymentCondition $condition) => PaymentConditionDTO::fromModel($condition)->toArray())
+                ->all(),
+        );
     }
 
     public function create(array $data): PaymentConditionDTO
     {
-        return PaymentConditionDTO::fromModel($this->paymentConditions->create($data));
+        $condition = $this->paymentConditions->create($data);
+
+        Cache::forget(CacheKeys::CATALOG_PAYMENT_CONDITIONS);
+
+        return PaymentConditionDTO::fromModel($condition);
     }
 
     public function update(PaymentCondition $condition, array $data): PaymentConditionDTO
     {
-        return PaymentConditionDTO::fromModel($this->paymentConditions->update($condition, $data));
+        $updated = $this->paymentConditions->update($condition, $data);
+
+        Cache::forget(CacheKeys::CATALOG_PAYMENT_CONDITIONS);
+
+        return PaymentConditionDTO::fromModel($updated);
     }
 
     public function delete(PaymentCondition $condition): void
@@ -46,5 +60,7 @@ class PaymentConditionService
         }
 
         $this->paymentConditions->delete($condition);
+
+        Cache::forget(CacheKeys::CATALOG_PAYMENT_CONDITIONS);
     }
 }

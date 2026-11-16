@@ -10,7 +10,7 @@ use Illuminate\Database\Eloquent\Collection;
 
 class ProductRepository implements ProductRepositoryInterface
 {
-    private const RELATIONS = ['stock', 'priceItems.priceTable', 'promotions'];
+    private const RELATIONS = ['stock', 'priceItems', 'promotions'];
 
     public function paginate(array $filters, int $perPage, bool $onlyActive = true): LengthAwarePaginator
     {
