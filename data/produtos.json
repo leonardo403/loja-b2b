@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1001,
+    "sku": "SKU-1001",
+    "ean": "7899525652780",
+    "nome": "Refrigerante Guaraná São João 350ml",
+    "descricao": "Refrigerante Guaraná da marca São João, apresentação 350ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1002,
+    "sku": "SKU-1002",
+    "ean": "7894120827028",
+    "nome": "Desinfetante Lavanda Serrana 500ml",
+    "descricao": "Desinfetante Lavanda da marca Serrana, apresentação 500ml.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1003,
+    "sku": "SKU-1003",
+    "ean": "7897944767454",
+    "nome": "Água Sanitária Bom Grão 2L",
+    "descricao": "Água Sanitária da marca Bom Grão, apresentação 2L.",
+    "marca": "Bom Grão",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1004,
+    "sku": "SKU-1004",
+    "ean": "7896788752914",
+    "nome": "Café Torrado e Moído Vale Verde 250g",
+    "descricao": "Café Torrado e Moído da marca Vale Verde, apresentação 250g.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1005,
+    "sku": "SKU-1005",
+    "ean": "7893228857618",
+    "nome": "Desodorante Aerossol Serrana 150ml",
+    "descricao": "Desodorante Aerossol da marca Serrana, apresentação 150ml.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1006,
+    "sku": "SKU-1006",
+    "ean": "7897808876829",
+    "nome": "Iogurte Natural Do Campo 170g",
+    "descricao": "Iogurte Natural da marca Do Campo, apresentação 170g.",
+    "marca": "Do Campo",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1007,
+    "sku": "SKU-1007",
+    "ean": "7896635109742",
+    "nome": "Suco de Uva Integral Nobre 1L",
+    "descricao": "Suco de Uva Integral da marca Nobre, apresentação 1L.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1008,
+    "sku": "SKU-1008",
+    "ean": "7891970868432",
+    "nome": "Manteiga com Sal Ouro Fino 200g",
+    "descricao": "Manteiga com Sal da marca Ouro Fino, apresentação 200g.",
+    "marca": "Ouro Fino",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1009,
+    "sku": "SKU-1009",
+    "ean": "7896719662239",
+    "nome": "Desinfetante Lavanda São João 2L",
+    "descricao": "Desinfetante Lavanda da marca São João, apresentação 2L.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1010,
+    "sku": "SKU-1010",
+    "ean": "7898976833782",
+    "nome": "Farinha de Trigo Pureza 5kg",
+    "descricao": "Farinha de Trigo da marca Pureza, apresentação 5kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1011,
+    "sku": "SKU-1011",
+    "ean": "7891759106547",
+    "nome": "Desinfetante Lavanda Primor 500ml",
+    "descricao": "Desinfetante Lavanda da marca Primor, apresentação 500ml.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1012,
+    "sku": "SKU-1012",
+    "ean": "7898675896781",
+    "nome": "Feijão Preto São João 1kg",
+    "descricao": "Feijão Preto da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1013,
+    "sku": "SKU-1013",
+    "ean": "7892639078152",
+    "nome": "Macarrão Espaguete Estrela 1kg",
+    "descricao": "Macarrão Espaguete da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1014,
+    "sku": "SKU-1014",
+    "ean": "7895842936560",
+    "nome": "Molho de Tomate Nobre 340g",
+    "descricao": "Molho de Tomate da marca Nobre, apresentação 340g.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1015,
+    "sku": "SKU-1015",
+    "ean": "7894589072595",
+    "nome": "Limpador Multiuso Aurora 500ml",
+    "descricao": null,
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1016,
+    "sku": "SKU-1016",
+    "ean": "7897203861863",
+    "nome": "Açúcar Refinado Vale Verde 5kg",
+    "descricao": "Açúcar Refinado da marca Vale Verde, apresentação 5kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1017,
+    "sku": "SKU-1017",
+    "ean": "7897987382701",
+    "nome": "Açúcar Refinado Primor 1kg",
+    "descricao": "Açúcar Refinado da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1018,
+    "sku": "SKU-1018",
+    "ean": "7895175779953",
+    "nome": "Requeijão Cremoso Aurora 200g",
+    "descricao": "Requeijão Cremoso da marca Aurora, apresentação 200g.",
+    "marca": "Aurora",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1019,
+    "sku": "SKU-1019",
+    "ean": "7895824262765",
+    "nome": "Macarrão Espaguete Do Campo 1kg",
+    "descricao": "Macarrão Espaguete da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1020,
+    "sku": "SKU-1020",
+    "ean": "7897018300812",
+    "nome": "Feijão Carioca Pureza 2kg",
+    "descricao": "Feijão Carioca da marca Pureza, apresentação 2kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1021,
+    "sku": "SKU-1021",
+    "ean": "7898372149396",
+    "nome": "Molho de Tomate Primor 340g",
+    "descricao": "Molho de Tomate da marca Primor, apresentação 340g.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1022,
+    "sku": "SKU-1022",
+    "ean": "7892446704254",
+    "nome": "Sabonete em Barra Pureza 90g",
+    "descricao": "Sabonete em Barra da marca Pureza, apresentação 90g.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1023,
+    "sku": "SKU-1023",
+    "ean": "7899258767211",
+    "nome": "Iogurte Natural Brilhante 170g",
+    "descricao": "Iogurte Natural da marca Brilhante, apresentação 170g.",
+    "marca": "Brilhante",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1024,
+    "sku": "SKU-1024",
+    "ean": "7896196537660",
+    "nome": "Esponja Multiuso Pureza unidade",
+    "descricao": "Esponja Multiuso da marca Pureza, apresentação unidade.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1025,
+    "sku": "SKU-1025",
+    "ean": "7892419252491",
+    "nome": "Água Mineral sem Gás Vale Verde 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Vale Verde, apresentação 1,5L.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1026,
+    "sku": "SKU-1026",
+    "ean": "7894111429280",
+    "nome": "Café Torrado e Moído Vale Verde 500g",
+    "descricao": "Café Torrado e Moído da marca Vale Verde, apresentação 500g.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1027,
+    "sku": "SKU-1027",
+    "ean": "7892083079146",
+    "nome": "Café Torrado e Moído Nobre 250g",
+    "descricao": "Café Torrado e Moído da marca Nobre, apresentação 250g.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1028,
+    "sku": "SKU-1028",
+    "ean": "7899113986788",
+    "nome": "Sal Refinado Aurora 1kg",
+    "descricao": "Sal Refinado da marca Aurora, apresentação 1kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1029,
+    "sku": "SKU-1029",
+    "ean": "7896448785199",
+    "nome": "Cerveja Pilsen Bom Grão 600ml",
+    "descricao": "Cerveja Pilsen da marca Bom Grão, apresentação 600ml.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1030,
+    "sku": "SKU-1030",
+    "ean": "7898001526225",
+    "nome": "Energético Pureza 250ml",
+    "descricao": "Energético da marca Pureza, apresentação 250ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1031,
+    "sku": "SKU-1031",
+    "ean": "7893973980878",
+    "nome": "Desodorante Aerossol Aurora 150ml",
+    "descricao": "Desodorante Aerossol da marca Aurora, apresentação 150ml.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1032,
+    "sku": "SKU-1032",
+    "ean": "7891410566847",
+    "nome": "Desinfetante Lavanda Pureza 500ml",
+    "descricao": "Desinfetante Lavanda da marca Pureza, apresentação 500ml.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1033,
+    "sku": "SKU-1033",
+    "ean": "7892990562316",
+    "nome": "Desinfetante Lavanda Aurora 500ml",
+    "descricao": "Desinfetante Lavanda da marca Aurora, apresentação 500ml.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1034,
+    "sku": "SKU-1034",
+    "ean": "7892329069563",
+    "nome": "Arroz Tipo 1 Pureza 1kg",
+    "descricao": "Arroz Tipo 1 da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1035,
+    "sku": "SKU-1035",
+    "ean": "7893401562955",
+    "nome": "Sal Refinado Ouro Fino 1kg",
+    "descricao": "Sal Refinado da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1036,
+    "sku": "SKU-1036",
+    "ean": "7892801892057",
+    "nome": "Refrigerante Cola São João 350ml",
+    "descricao": "Refrigerante Cola da marca São João, apresentação 350ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1037,
+    "sku": "SKU-1037",
+    "ean": "7895245578895",
+    "nome": "Iogurte Natural Estrela 170g",
+    "descricao": "Iogurte Natural da marca Estrela, apresentação 170g.",
+    "marca": "Estrela",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1038,
+    "sku": "SKU-1038",
+    "ean": "7899205367514",
+    "nome": "Manteiga com Sal Nobre 200g",
+    "descricao": "Manteiga com Sal da marca Nobre, apresentação 200g.",
+    "marca": "Nobre",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1039,
+    "sku": "SKU-1039",
+    "ean": "7896760693957",
+    "nome": "Arroz Tipo 1 Ouro Fino 5kg",
+    "descricao": null,
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1040,
+    "sku": "SKU-1040",
+    "ean": "7897900321546",
+    "nome": "Feijão Preto Estrela 1kg",
+    "descricao": "Feijão Preto da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1041,
+    "sku": "SKU-1041",
+    "ean": "7899088541620",
+    "nome": "Açúcar Refinado Primor 5kg",
+    "descricao": "Açúcar Refinado da marca Primor, apresentação 5kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1042,
+    "sku": "SKU-1042",
+    "ean": "7899747626297",
+    "nome": "Shampoo Anticaspa Primor 400ml",
+    "descricao": "Shampoo Anticaspa da marca Primor, apresentação 400ml.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": false
+  },
+  {
+    "id": 1043,
+    "sku": "SKU-1043",
+    "ean": "7895388486486",
+    "nome": "Refrigerante Cola Primor 350ml",
+    "descricao": "Refrigerante Cola da marca Primor, apresentação 350ml.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1044,
+    "sku": "SKU-1044",
+    "ean": "7898537507772",
+    "nome": "Refrigerante Guaraná Do Campo 350ml",
+    "descricao": "Refrigerante Guaraná da marca Do Campo, apresentação 350ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1045,
+    "sku": "SKU-1045",
+    "ean": "7897012636212",
+    "nome": "Desodorante Aerossol São João 150ml",
+    "descricao": "Desodorante Aerossol da marca São João, apresentação 150ml.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1046,
+    "sku": "SKU-1046",
+    "ean": "7899867193182",
+    "nome": "Óleo de Soja São João 900ml",
+    "descricao": "Óleo de Soja da marca São João, apresentação 900ml.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1047,
+    "sku": "SKU-1047",
+    "ean": "7896691250393",
+    "nome": "Arroz Tipo 1 São João 5kg",
+    "descricao": "Arroz Tipo 1 da marca São João, apresentação 5kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1048,
+    "sku": "SKU-1048",
+    "ean": "7896753577956",
+    "nome": "Feijão Preto Aurora 1kg",
+    "descricao": "Feijão Preto da marca Aurora, apresentação 1kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1049,
+    "sku": "SKU-1049",
+    "ean": "7891922746587",
+    "nome": "Farinha de Trigo Brilhante 1kg",
+    "descricao": "Farinha de Trigo da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1050,
+    "sku": "SKU-1050",
+    "ean": "7896195493696",
+    "nome": "Macarrão Espaguete Brilhante 1kg",
+    "descricao": "Macarrão Espaguete da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1051,
+    "sku": "SKU-1051",
+    "ean": "7893261629669",
+    "nome": "Água Mineral sem Gás Nobre 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Nobre, apresentação 1,5L.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1052,
+    "sku": "SKU-1052",
+    "ean": "7893098450434",
+    "nome": "Shampoo Anticaspa Aurora 200ml",
+    "descricao": "Shampoo Anticaspa da marca Aurora, apresentação 200ml.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1053,
+    "sku": "SKU-1053",
+    "ean": "7896694098402",
+    "nome": "Farinha de Trigo Serrana 1kg",
+    "descricao": "Farinha de Trigo da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1054,
+    "sku": "SKU-1054",
+    "ean": "7893315390044",
+    "nome": "Refrigerante Cola Brilhante 2L",
+    "descricao": "Refrigerante Cola da marca Brilhante, apresentação 2L.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1055,
+    "sku": "SKU-1055",
+    "ean": "7895207995890",
+    "nome": "Esponja Multiuso São João unidade",
+    "descricao": "Esponja Multiuso da marca São João, apresentação unidade.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1056,
+    "sku": "SKU-1056",
+    "ean": "7895443246171",
+    "nome": "Suco de Uva Integral São João 1L",
+    "descricao": "Suco de Uva Integral da marca São João, apresentação 1L.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1057,
+    "sku": "SKU-1057",
+    "ean": "7891768740410",
+    "nome": "Detergente Líquido Nobre 500ml",
+    "descricao": "Detergente Líquido da marca Nobre, apresentação 500ml.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1058,
+    "sku": "SKU-1058",
+    "ean": "7892531803746",
+    "nome": "Açúcar Refinado Pureza 1kg",
+    "descricao": "Açúcar Refinado da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1059,
+    "sku": "SKU-1059",
+    "ean": "7895955956153",
+    "nome": "Feijão Carioca Nobre 1kg",
+    "descricao": "Feijão Carioca da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1060,
+    "sku": "SKU-1060",
+    "ean": "7895419562802",
+    "nome": "Esponja Multiuso Ouro Fino unidade",
+    "descricao": "Esponja Multiuso da marca Ouro Fino, apresentação unidade.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1061,
+    "sku": "SKU-1061",
+    "ean": "7893331075915",
+    "nome": "Energético Primor 250ml",
+    "descricao": "Energético da marca Primor, apresentação 250ml.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1062,
+    "sku": "SKU-1062",
+    "ean": "7898503940413",
+    "nome": "Água Sanitária Bom Grão 1L",
+    "descricao": "Água Sanitária da marca Bom Grão, apresentação 1L.",
+    "marca": "Bom Grão",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1063,
+    "sku": "SKU-1063",
+    "ean": "7892393731277",
+    "nome": "Feijão Carioca Bom Grão 2kg",
+    "descricao": "Feijão Carioca da marca Bom Grão, apresentação 2kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1064,
+    "sku": "SKU-1064",
+    "ean": "7895467938517",
+    "nome": "Macarrão Espaguete Do Campo 500g",
+    "descricao": "Macarrão Espaguete da marca Do Campo, apresentação 500g.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1065,
+    "sku": "SKU-1065",
+    "ean": "7895701511909",
+    "nome": "Shampoo Anticaspa Serrana 200ml",
+    "descricao": "Shampoo Anticaspa da marca Serrana, apresentação 200ml.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1066,
+    "sku": "SKU-1066",
+    "ean": "7896399751868",
+    "nome": "Cerveja Pilsen Vale Verde 350ml",
+    "descricao": "Cerveja Pilsen da marca Vale Verde, apresentação 350ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1067,
+    "sku": "SKU-1067",
+    "ean": "7894506645091",
+    "nome": "Arroz Tipo 1 Bom Grão 5kg",
+    "descricao": "Arroz Tipo 1 da marca Bom Grão, apresentação 5kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1068,
+    "sku": "SKU-1068",
+    "ean": "7892860287782",
+    "nome": "Detergente Líquido Aurora 500ml",
+    "descricao": "Detergente Líquido da marca Aurora, apresentação 500ml.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1069,
+    "sku": "SKU-1069",
+    "ean": "7891733018210",
+    "nome": "Macarrão Espaguete Bom Grão 1kg",
+    "descricao": "Macarrão Espaguete da marca Bom Grão, apresentação 1kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1070,
+    "sku": "SKU-1070",
+    "ean": "7899452182322",
+    "nome": "Requeijão Cremoso Pureza 200g",
+    "descricao": "Requeijão Cremoso da marca Pureza, apresentação 200g.",
+    "marca": "Pureza",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1071,
+    "sku": "SKU-1071",
+    "ean": "7897112500925",
+    "nome": "Feijão Carioca Serrana 2kg",
+    "descricao": "Feijão Carioca da marca Serrana, apresentação 2kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1072,
+    "sku": "SKU-1072",
+    "ean": "7894028133988",
+    "nome": "Detergente Líquido Serrana 500ml",
+    "descricao": "Detergente Líquido da marca Serrana, apresentação 500ml.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1073,
+    "sku": "SKU-1073",
+    "ean": "7897900331946",
+    "nome": "Água Mineral sem Gás Do Campo 500ml",
+    "descricao": "Água Mineral sem Gás da marca Do Campo, apresentação 500ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1074,
+    "sku": "SKU-1074",
+    "ean": "7894852301672",
+    "nome": "Sabonete em Barra Bom Grão 90g",
+    "descricao": "Sabonete em Barra da marca Bom Grão, apresentação 90g.",
+    "marca": "Bom Grão",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1075,
+    "sku": "SKU-1075",
+    "ean": "7895633491256",
+    "nome": "Desodorante Aerossol Brilhante 150ml",
+    "descricao": "Desodorante Aerossol da marca Brilhante, apresentação 150ml.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1076,
+    "sku": "SKU-1076",
+    "ean": "7891678890499",
+    "nome": "Escova de Dentes Macia Primor unidade",
+    "descricao": "Escova de Dentes Macia da marca Primor, apresentação unidade.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1077,
+    "sku": "SKU-1077",
+    "ean": "7898048493739",
+    "nome": "Farinha de Trigo São João 1kg",
+    "descricao": "Farinha de Trigo da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1078,
+    "sku": "SKU-1078",
+    "ean": "7899517083174",
+    "nome": "Papel Higiênico Folha Dupla São João 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca São João, apresentação 30m.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1079,
+    "sku": "SKU-1079",
+    "ean": "7895170386351",
+    "nome": "Sabão em Pó Nobre 1,6kg",
+    "descricao": "Sabão em Pó da marca Nobre, apresentação 1,6kg.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1080,
+    "sku": "SKU-1080",
+    "ean": "7898685632353",
+    "nome": "Escova de Dentes Macia Vale Verde unidade",
+    "descricao": "Escova de Dentes Macia da marca Vale Verde, apresentação unidade.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1081,
+    "sku": "SKU-1081",
+    "ean": "7896863605366",
+    "nome": "Escova de Dentes Macia Aurora unidade",
+    "descricao": "Escova de Dentes Macia da marca Aurora, apresentação unidade.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1082,
+    "sku": "SKU-1082",
+    "ean": "7897532720393",
+    "nome": "Requeijão Cremoso Ouro Fino 200g",
+    "descricao": "Requeijão Cremoso da marca Ouro Fino, apresentação 200g.",
+    "marca": "Ouro Fino",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1083,
+    "sku": "SKU-1083",
+    "ean": "7898904753396",
+    "nome": "Arroz Tipo 1 Pureza 5kg",
+    "descricao": "Arroz Tipo 1 da marca Pureza, apresentação 5kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1084,
+    "sku": "SKU-1084",
+    "ean": "7891592479925",
+    "nome": "Refrigerante Guaraná Serrana 350ml",
+    "descricao": "Refrigerante Guaraná da marca Serrana, apresentação 350ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1085,
+    "sku": "SKU-1085",
+    "ean": "7893403664427",
+    "nome": "Feijão Carioca Primor 2kg",
+    "descricao": "Feijão Carioca da marca Primor, apresentação 2kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1086,
+    "sku": "SKU-1086",
+    "ean": "7897253544696",
+    "nome": "Cerveja Pilsen Ouro Fino 350ml",
+    "descricao": "Cerveja Pilsen da marca Ouro Fino, apresentação 350ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1087,
+    "sku": "SKU-1087",
+    "ean": "7893547078406",
+    "nome": "Sal Refinado Estrela 1kg",
+    "descricao": "Sal Refinado da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1088,
+    "sku": "SKU-1088",
+    "ean": "7893929292945",
+    "nome": "Desodorante Aerossol Ouro Fino 150ml",
+    "descricao": "Desodorante Aerossol da marca Ouro Fino, apresentação 150ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1089,
+    "sku": "SKU-1089",
+    "ean": "7896480877059",
+    "nome": "Sal Refinado Nobre 1kg",
+    "descricao": "Sal Refinado da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1090,
+    "sku": "SKU-1090",
+    "ean": "7893534926235",
+    "nome": "Creme Dental São João 90g",
+    "descricao": "Creme Dental da marca São João, apresentação 90g.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1091,
+    "sku": "SKU-1091",
+    "ean": "7899257338392",
+    "nome": "Óleo de Soja Nobre 900ml",
+    "descricao": "Óleo de Soja da marca Nobre, apresentação 900ml.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1092,
+    "sku": "SKU-1092",
+    "ean": "7891094344765",
+    "nome": "Refrigerante Cola Vale Verde 350ml",
+    "descricao": "Refrigerante Cola da marca Vale Verde, apresentação 350ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1093,
+    "sku": "SKU-1093",
+    "ean": "7891576902591",
+    "nome": "Shampoo Anticaspa Ouro Fino 200ml",
+    "descricao": "Shampoo Anticaspa da marca Ouro Fino, apresentação 200ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1094,
+    "sku": "SKU-1094",
+    "ean": "7891394530142",
+    "nome": "Leite Integral UHT Estrela 1L",
+    "descricao": "Leite Integral UHT da marca Estrela, apresentação 1L.",
+    "marca": "Estrela",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1095,
+    "sku": "SKU-1095",
+    "ean": "7892094994316",
+    "nome": "Requeijão Cremoso Nobre 200g",
+    "descricao": "Requeijão Cremoso da marca Nobre, apresentação 200g.",
+    "marca": "Nobre",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1096,
+    "sku": "SKU-1096",
+    "ean": "7899182263243",
+    "nome": "Macarrão Espaguete Nobre 1kg",
+    "descricao": "Macarrão Espaguete da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1097,
+    "sku": "SKU-1097",
+    "ean": "7893021988496",
+    "nome": "Açúcar Refinado Aurora 1kg",
+    "descricao": "Açúcar Refinado da marca Aurora, apresentação 1kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1098,
+    "sku": "SKU-1098",
+    "ean": "7899146057427",
+    "nome": "Feijão Carioca Estrela 1kg",
+    "descricao": "Feijão Carioca da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1099,
+    "sku": "SKU-1099",
+    "ean": "7892718152512",
+    "nome": "Farinha de Trigo Vale Verde 1kg",
+    "descricao": "Farinha de Trigo da marca Vale Verde, apresentação 1kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1100,
+    "sku": "SKU-1100",
+    "ean": "7898938970554",
+    "nome": "Refrigerante Cola Estrela 2L",
+    "descricao": "Refrigerante Cola da marca Estrela, apresentação 2L.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1101,
+    "sku": "SKU-1101",
+    "ean": "7893100041964",
+    "nome": "Água Mineral sem Gás Pureza 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Pureza, apresentação 1,5L.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1102,
+    "sku": "SKU-1102",
+    "ean": "7892883441628",
+    "nome": "Macarrão Espaguete Brilhante 500g",
+    "descricao": "Macarrão Espaguete da marca Brilhante, apresentação 500g.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1103,
+    "sku": "SKU-1103",
+    "ean": "7897822011447",
+    "nome": "Arroz Tipo 1 Brilhante 5kg",
+    "descricao": "Arroz Tipo 1 da marca Brilhante, apresentação 5kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1104,
+    "sku": "SKU-1104",
+    "ean": "7895365187175",
+    "nome": "Cerveja Pilsen Brilhante 600ml",
+    "descricao": "Cerveja Pilsen da marca Brilhante, apresentação 600ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1105,
+    "sku": "SKU-1105",
+    "ean": "7899736143208",
+    "nome": "Café Torrado e Moído Serrana 250g",
+    "descricao": "Café Torrado e Moído da marca Serrana, apresentação 250g.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1106,
+    "sku": "SKU-1106",
+    "ean": "7895897499988",
+    "nome": "Molho de Tomate Bom Grão 340g",
+    "descricao": "Molho de Tomate da marca Bom Grão, apresentação 340g.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1107,
+    "sku": "SKU-1107",
+    "ean": "7897534146428",
+    "nome": "Iogurte Natural Aurora 170g",
+    "descricao": "Iogurte Natural da marca Aurora, apresentação 170g.",
+    "marca": "Aurora",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1108,
+    "sku": "SKU-1108",
+    "ean": "7895407915255",
+    "nome": "Sabonete em Barra Vale Verde 90g",
+    "descricao": "Sabonete em Barra da marca Vale Verde, apresentação 90g.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1109,
+    "sku": "SKU-1109",
+    "ean": "7893233414843",
+    "nome": "Detergente Líquido Primor 500ml",
+    "descricao": "Detergente Líquido da marca Primor, apresentação 500ml.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1110,
+    "sku": "SKU-1110",
+    "ean": "7899916269586",
+    "nome": "Macarrão Espaguete Aurora 1kg",
+    "descricao": null,
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1111,
+    "sku": "SKU-1111",
+    "ean": "7899546727296",
+    "nome": "Arroz Tipo 1 Vale Verde 1kg",
+    "descricao": "Arroz Tipo 1 da marca Vale Verde, apresentação 1kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": false
+  },
+  {
+    "id": 1112,
+    "sku": "SKU-1112",
+    "ean": "7891024787672",
+    "nome": "Refrigerante Cola Nobre 350ml",
+    "descricao": "Refrigerante Cola da marca Nobre, apresentação 350ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1113,
+    "sku": "SKU-1113",
+    "ean": "7894437697473",
+    "nome": "Sal Refinado Vale Verde 1kg",
+    "descricao": "Sal Refinado da marca Vale Verde, apresentação 1kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1114,
+    "sku": "SKU-1114",
+    "ean": "7899212705772",
+    "nome": "Molho de Tomate Serrana 340g",
+    "descricao": "Molho de Tomate da marca Serrana, apresentação 340g.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1115,
+    "sku": "SKU-1115",
+    "ean": "7894914895252",
+    "nome": "Desinfetante Lavanda Ouro Fino 500ml",
+    "descricao": "Desinfetante Lavanda da marca Ouro Fino, apresentação 500ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1116,
+    "sku": "SKU-1116",
+    "ean": "7893415238342",
+    "nome": "Água Mineral sem Gás Bom Grão 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Bom Grão, apresentação 1,5L.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1117,
+    "sku": "SKU-1117",
+    "ean": "7895447754750",
+    "nome": "Água Mineral sem Gás Vale Verde 500ml",
+    "descricao": "Água Mineral sem Gás da marca Vale Verde, apresentação 500ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1118,
+    "sku": "SKU-1118",
+    "ean": "7898275091848",
+    "nome": "Refrigerante Guaraná Brilhante 2L",
+    "descricao": "Refrigerante Guaraná da marca Brilhante, apresentação 2L.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1119,
+    "sku": "SKU-1119",
+    "ean": "7895011407445",
+    "nome": "Queijo Muçarela Fatiado Vale Verde 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Vale Verde, apresentação 150g.",
+    "marca": "Vale Verde",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1120,
+    "sku": "SKU-1120",
+    "ean": "7895154995083",
+    "nome": "Sabonete em Barra Do Campo 90g",
+    "descricao": "Sabonete em Barra da marca Do Campo, apresentação 90g.",
+    "marca": "Do Campo",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1121,
+    "sku": "SKU-1121",
+    "ean": "7899465477528",
+    "nome": "Feijão Carioca São João 1kg",
+    "descricao": "Feijão Carioca da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1122,
+    "sku": "SKU-1122",
+    "ean": "7891391227025",
+    "nome": "Café Torrado e Moído Pureza 500g",
+    "descricao": "Café Torrado e Moído da marca Pureza, apresentação 500g.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1123,
+    "sku": "SKU-1123",
+    "ean": "7892198822540",
+    "nome": "Cerveja Pilsen Estrela 350ml",
+    "descricao": "Cerveja Pilsen da marca Estrela, apresentação 350ml.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1124,
+    "sku": "SKU-1124",
+    "ean": "7895482248323",
+    "nome": "Esponja Multiuso Do Campo unidade",
+    "descricao": "Esponja Multiuso da marca Do Campo, apresentação unidade.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1125,
+    "sku": "SKU-1125",
+    "ean": "7893347321624",
+    "nome": "Macarrão Espaguete Primor 1kg",
+    "descricao": "Macarrão Espaguete da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1126,
+    "sku": "SKU-1126",
+    "ean": "7893320211987",
+    "nome": "Shampoo Anticaspa Bom Grão 400ml",
+    "descricao": "Shampoo Anticaspa da marca Bom Grão, apresentação 400ml.",
+    "marca": "Bom Grão",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1127,
+    "sku": "SKU-1127",
+    "ean": "7899818525947",
+    "nome": "Açúcar Refinado Aurora 5kg",
+    "descricao": "Açúcar Refinado da marca Aurora, apresentação 5kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1128,
+    "sku": "SKU-1128",
+    "ean": "7897600332231",
+    "nome": "Farinha de Trigo Brilhante 5kg",
+    "descricao": "Farinha de Trigo da marca Brilhante, apresentação 5kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1129,
+    "sku": "SKU-1129",
+    "ean": "7892040615443",
+    "nome": "Feijão Carioca São João 2kg",
+    "descricao": "Feijão Carioca da marca São João, apresentação 2kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1130,
+    "sku": "SKU-1130",
+    "ean": "7895678824979",
+    "nome": "Esponja Multiuso Primor unidade",
+    "descricao": "Esponja Multiuso da marca Primor, apresentação unidade.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1131,
+    "sku": "SKU-1131",
+    "ean": "7891766524505",
+    "nome": "Água Sanitária Serrana 1L",
+    "descricao": "Água Sanitária da marca Serrana, apresentação 1L.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1132,
+    "sku": "SKU-1132",
+    "ean": "7893401633998",
+    "nome": "Refrigerante Cola Aurora 350ml",
+    "descricao": "Refrigerante Cola da marca Aurora, apresentação 350ml.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1133,
+    "sku": "SKU-1133",
+    "ean": "7896742766243",
+    "nome": "Manteiga com Sal Pureza 200g",
+    "descricao": "Manteiga com Sal da marca Pureza, apresentação 200g.",
+    "marca": "Pureza",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1134,
+    "sku": "SKU-1134",
+    "ean": "7896020455627",
+    "nome": "Farinha de Trigo Primor 5kg",
+    "descricao": null,
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1135,
+    "sku": "SKU-1135",
+    "ean": "7892478887984",
+    "nome": "Macarrão Espaguete Serrana 1kg",
+    "descricao": "Macarrão Espaguete da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1136,
+    "sku": "SKU-1136",
+    "ean": "7894345607400",
+    "nome": "Desinfetante Lavanda Brilhante 500ml",
+    "descricao": "Desinfetante Lavanda da marca Brilhante, apresentação 500ml.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1137,
+    "sku": "SKU-1137",
+    "ean": "7893978292621",
+    "nome": "Shampoo Anticaspa Pureza 400ml",
+    "descricao": "Shampoo Anticaspa da marca Pureza, apresentação 400ml.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1138,
+    "sku": "SKU-1138",
+    "ean": "7892384670819",
+    "nome": "Sabão em Pó Aurora 800g",
+    "descricao": "Sabão em Pó da marca Aurora, apresentação 800g.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1139,
+    "sku": "SKU-1139",
+    "ean": "7891495511122",
+    "nome": "Feijão Preto Nobre 1kg",
+    "descricao": "Feijão Preto da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1140,
+    "sku": "SKU-1140",
+    "ean": "7892630125547",
+    "nome": "Sabão em Pó Brilhante 800g",
+    "descricao": null,
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1141,
+    "sku": "SKU-1141",
+    "ean": "7897729162090",
+    "nome": "Creme Dental Nobre 90g",
+    "descricao": "Creme Dental da marca Nobre, apresentação 90g.",
+    "marca": "Nobre",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1142,
+    "sku": "SKU-1142",
+    "ean": "7892528848097",
+    "nome": "Esponja Multiuso Brilhante unidade",
+    "descricao": "Esponja Multiuso da marca Brilhante, apresentação unidade.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1143,
+    "sku": "SKU-1143",
+    "ean": "7893539443922",
+    "nome": "Manteiga com Sal Primor 200g",
+    "descricao": "Manteiga com Sal da marca Primor, apresentação 200g.",
+    "marca": "Primor",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1144,
+    "sku": "SKU-1144",
+    "ean": "7892022174849",
+    "nome": "Refrigerante Cola Serrana 2L",
+    "descricao": "Refrigerante Cola da marca Serrana, apresentação 2L.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1145,
+    "sku": "SKU-1145",
+    "ean": "7893432808710",
+    "nome": "Refrigerante Cola Estrela 350ml",
+    "descricao": "Refrigerante Cola da marca Estrela, apresentação 350ml.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1146,
+    "sku": "SKU-1146",
+    "ean": "7893281705089",
+    "nome": "Feijão Carioca Nobre 2kg",
+    "descricao": "Feijão Carioca da marca Nobre, apresentação 2kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1147,
+    "sku": "SKU-1147",
+    "ean": "7894162146861",
+    "nome": "Farinha de Trigo Nobre 1kg",
+    "descricao": "Farinha de Trigo da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1148,
+    "sku": "SKU-1148",
+    "ean": "7893533635658",
+    "nome": "Água Sanitária Nobre 1L",
+    "descricao": "Água Sanitária da marca Nobre, apresentação 1L.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1149,
+    "sku": "SKU-1149",
+    "ean": "7895045293297",
+    "nome": "Café Torrado e Moído Aurora 500g",
+    "descricao": "Café Torrado e Moído da marca Aurora, apresentação 500g.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1150,
+    "sku": "SKU-1150",
+    "ean": "7898138827768",
+    "nome": "Cerveja Pilsen Pureza 350ml",
+    "descricao": "Cerveja Pilsen da marca Pureza, apresentação 350ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1151,
+    "sku": "SKU-1151",
+    "ean": "7891546208772",
+    "nome": "Água Sanitária Serrana 2L",
+    "descricao": "Água Sanitária da marca Serrana, apresentação 2L.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1152,
+    "sku": "SKU-1152",
+    "ean": "7892336098318",
+    "nome": "Café Torrado e Moído Serrana 500g",
+    "descricao": "Café Torrado e Moído da marca Serrana, apresentação 500g.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1153,
+    "sku": "SKU-1153",
+    "ean": "7892082559947",
+    "nome": "Refrigerante Cola Primor 2L",
+    "descricao": "Refrigerante Cola da marca Primor, apresentação 2L.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1154,
+    "sku": "SKU-1154",
+    "ean": "7895941638633",
+    "nome": "Sal Refinado Pureza 1kg",
+    "descricao": "Sal Refinado da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1155,
+    "sku": "SKU-1155",
+    "ean": "7895316479569",
+    "nome": "Creme Dental Estrela 90g",
+    "descricao": "Creme Dental da marca Estrela, apresentação 90g.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1156,
+    "sku": "SKU-1156",
+    "ean": "7891413318790",
+    "nome": "Desinfetante Lavanda Vale Verde 500ml",
+    "descricao": "Desinfetante Lavanda da marca Vale Verde, apresentação 500ml.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1157,
+    "sku": "SKU-1157",
+    "ean": "7896470550616",
+    "nome": "Macarrão Espaguete Bom Grão 500g",
+    "descricao": "Macarrão Espaguete da marca Bom Grão, apresentação 500g.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1158,
+    "sku": "SKU-1158",
+    "ean": "7898863425575",
+    "nome": "Requeijão Cremoso São João 200g",
+    "descricao": "Requeijão Cremoso da marca São João, apresentação 200g.",
+    "marca": "São João",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1159,
+    "sku": "SKU-1159",
+    "ean": "7897057800562",
+    "nome": "Açúcar Refinado Estrela 5kg",
+    "descricao": "Açúcar Refinado da marca Estrela, apresentação 5kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1160,
+    "sku": "SKU-1160",
+    "ean": "7891722207821",
+    "nome": "Refrigerante Cola Pureza 350ml",
+    "descricao": "Refrigerante Cola da marca Pureza, apresentação 350ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1161,
+    "sku": "SKU-1161",
+    "ean": "7891131578374",
+    "nome": "Cerveja Pilsen Vale Verde 600ml",
+    "descricao": "Cerveja Pilsen da marca Vale Verde, apresentação 600ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1162,
+    "sku": "SKU-1162",
+    "ean": "7898297384028",
+    "nome": "Papel Higiênico Folha Dupla Primor 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Primor, apresentação 30m.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1163,
+    "sku": "SKU-1163",
+    "ean": "7892732465373",
+    "nome": "Sabonete em Barra Serrana 90g",
+    "descricao": "Sabonete em Barra da marca Serrana, apresentação 90g.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1164,
+    "sku": "SKU-1164",
+    "ean": "7898149795791",
+    "nome": "Água Mineral sem Gás São João 500ml",
+    "descricao": "Água Mineral sem Gás da marca São João, apresentação 500ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1165,
+    "sku": "SKU-1165",
+    "ean": "7891435967896",
+    "nome": "Queijo Muçarela Fatiado Primor 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Primor, apresentação 150g.",
+    "marca": "Primor",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1166,
+    "sku": "SKU-1166",
+    "ean": "7897878613997",
+    "nome": "Molho de Tomate Aurora 340g",
+    "descricao": null,
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1167,
+    "sku": "SKU-1167",
+    "ean": "7892694821354",
+    "nome": "Farinha de Trigo Serrana 5kg",
+    "descricao": "Farinha de Trigo da marca Serrana, apresentação 5kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1168,
+    "sku": "SKU-1168",
+    "ean": "7899464434481",
+    "nome": "Refrigerante Guaraná Pureza 2L",
+    "descricao": "Refrigerante Guaraná da marca Pureza, apresentação 2L.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1169,
+    "sku": "SKU-1169",
+    "ean": "7899255721240",
+    "nome": "Feijão Carioca Do Campo 1kg",
+    "descricao": "Feijão Carioca da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1170,
+    "sku": "SKU-1170",
+    "ean": "7897479690956",
+    "nome": "Sal Refinado Brilhante 1kg",
+    "descricao": "Sal Refinado da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1171,
+    "sku": "SKU-1171",
+    "ean": "7896134162263",
+    "nome": "Refrigerante Guaraná Bom Grão 350ml",
+    "descricao": "Refrigerante Guaraná da marca Bom Grão, apresentação 350ml.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1172,
+    "sku": "SKU-1172",
+    "ean": "7893493082297",
+    "nome": "Creme Dental Serrana 90g",
+    "descricao": "Creme Dental da marca Serrana, apresentação 90g.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1173,
+    "sku": "SKU-1173",
+    "ean": "7899844085815",
+    "nome": "Desodorante Aerossol Estrela 150ml",
+    "descricao": "Desodorante Aerossol da marca Estrela, apresentação 150ml.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1174,
+    "sku": "SKU-1174",
+    "ean": "7892778220868",
+    "nome": "Óleo de Soja Ouro Fino 900ml",
+    "descricao": "Óleo de Soja da marca Ouro Fino, apresentação 900ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1175,
+    "sku": "SKU-1175",
+    "ean": "7897468332405",
+    "nome": "Água Sanitária Pureza 2L",
+    "descricao": "Água Sanitária da marca Pureza, apresentação 2L.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1176,
+    "sku": "SKU-1176",
+    "ean": "7891947264380",
+    "nome": "Farinha de Trigo Estrela 1kg",
+    "descricao": "Farinha de Trigo da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1177,
+    "sku": "SKU-1177",
+    "ean": "7897138635668",
+    "nome": "Sabão em Pó São João 1,6kg",
+    "descricao": "Sabão em Pó da marca São João, apresentação 1,6kg.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": false
+  },
+  {
+    "id": 1178,
+    "sku": "SKU-1178",
+    "ean": "7899201446236",
+    "nome": "Refrigerante Guaraná Nobre 350ml",
+    "descricao": "Refrigerante Guaraná da marca Nobre, apresentação 350ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1179,
+    "sku": "SKU-1179",
+    "ean": "7894437462172",
+    "nome": "Sabão em Pó Serrana 1,6kg",
+    "descricao": "Sabão em Pó da marca Serrana, apresentação 1,6kg.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1180,
+    "sku": "SKU-1180",
+    "ean": "7896918083335",
+    "nome": "Escova de Dentes Macia Pureza unidade",
+    "descricao": "Escova de Dentes Macia da marca Pureza, apresentação unidade.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1181,
+    "sku": "SKU-1181",
+    "ean": "7891125144520",
+    "nome": "Queijo Muçarela Fatiado Ouro Fino 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Ouro Fino, apresentação 150g.",
+    "marca": "Ouro Fino",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1182,
+    "sku": "SKU-1182",
+    "ean": "7896045818470",
+    "nome": "Café Torrado e Moído Bom Grão 250g",
+    "descricao": "Café Torrado e Moído da marca Bom Grão, apresentação 250g.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1183,
+    "sku": "SKU-1183",
+    "ean": "7894496334586",
+    "nome": "Esponja Multiuso Serrana unidade",
+    "descricao": "Esponja Multiuso da marca Serrana, apresentação unidade.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1184,
+    "sku": "SKU-1184",
+    "ean": "7896108908247",
+    "nome": "Escova de Dentes Macia Ouro Fino unidade",
+    "descricao": "Escova de Dentes Macia da marca Ouro Fino, apresentação unidade.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1185,
+    "sku": "SKU-1185",
+    "ean": "7891435933020",
+    "nome": "Arroz Tipo 1 Ouro Fino 1kg",
+    "descricao": "Arroz Tipo 1 da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1186,
+    "sku": "SKU-1186",
+    "ean": "7895823780871",
+    "nome": "Energético Aurora 250ml",
+    "descricao": "Energético da marca Aurora, apresentação 250ml.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": false
+  },
+  {
+    "id": 1187,
+    "sku": "SKU-1187",
+    "ean": "7893689732331",
+    "nome": "Sal Refinado Primor 1kg",
+    "descricao": "Sal Refinado da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1188,
+    "sku": "SKU-1188",
+    "ean": "7896674493371",
+    "nome": "Creme Dental Vale Verde 90g",
+    "descricao": "Creme Dental da marca Vale Verde, apresentação 90g.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1189,
+    "sku": "SKU-1189",
+    "ean": "7895942136308",
+    "nome": "Manteiga com Sal Aurora 200g",
+    "descricao": "Manteiga com Sal da marca Aurora, apresentação 200g.",
+    "marca": "Aurora",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1190,
+    "sku": "SKU-1190",
+    "ean": "7894514882435",
+    "nome": "Desinfetante Lavanda Do Campo 2L",
+    "descricao": "Desinfetante Lavanda da marca Do Campo, apresentação 2L.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1191,
+    "sku": "SKU-1191",
+    "ean": "7897381088494",
+    "nome": "Limpador Multiuso Pureza 500ml",
+    "descricao": "Limpador Multiuso da marca Pureza, apresentação 500ml.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": false
+  },
+  {
+    "id": 1192,
+    "sku": "SKU-1192",
+    "ean": "7891535215003",
+    "nome": "Açúcar Refinado Do Campo 1kg",
+    "descricao": "Açúcar Refinado da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1193,
+    "sku": "SKU-1193",
+    "ean": "7895936627452",
+    "nome": "Molho de Tomate Ouro Fino 340g",
+    "descricao": "Molho de Tomate da marca Ouro Fino, apresentação 340g.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1194,
+    "sku": "SKU-1194",
+    "ean": "7895068352001",
+    "nome": "Desodorante Aerossol Primor 150ml",
+    "descricao": "Desodorante Aerossol da marca Primor, apresentação 150ml.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1195,
+    "sku": "SKU-1195",
+    "ean": "7898240252309",
+    "nome": "Desinfetante Lavanda Nobre 2L",
+    "descricao": "Desinfetante Lavanda da marca Nobre, apresentação 2L.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1196,
+    "sku": "SKU-1196",
+    "ean": "7895258567986",
+    "nome": "Energético Do Campo 250ml",
+    "descricao": "Energético da marca Do Campo, apresentação 250ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1197,
+    "sku": "SKU-1197",
+    "ean": "7895558429138",
+    "nome": "Feijão Carioca Ouro Fino 1kg",
+    "descricao": "Feijão Carioca da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1198,
+    "sku": "SKU-1198",
+    "ean": "7894209117998",
+    "nome": "Molho de Tomate Estrela 340g",
+    "descricao": "Molho de Tomate da marca Estrela, apresentação 340g.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1199,
+    "sku": "SKU-1199",
+    "ean": "7892750853864",
+    "nome": "Energético Nobre 250ml",
+    "descricao": "Energético da marca Nobre, apresentação 250ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1200,
+    "sku": "SKU-1200",
+    "ean": "7895589977923",
+    "nome": "Papel Higiênico Folha Dupla Pureza 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Pureza, apresentação 30m.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1201,
+    "sku": "SKU-1201",
+    "ean": "7893250465216",
+    "nome": "Farinha de Trigo Pureza 1kg",
+    "descricao": "Farinha de Trigo da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1202,
+    "sku": "SKU-1202",
+    "ean": "7891725358491",
+    "nome": "Feijão Preto Brilhante 1kg",
+    "descricao": "Feijão Preto da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1203,
+    "sku": "SKU-1203",
+    "ean": "7898693171103",
+    "nome": "Sabão em Pó Do Campo 1,6kg",
+    "descricao": "Sabão em Pó da marca Do Campo, apresentação 1,6kg.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1204,
+    "sku": "SKU-1204",
+    "ean": "7898737521934",
+    "nome": "Sabão em Pó Aurora 1,6kg",
+    "descricao": "Sabão em Pó da marca Aurora, apresentação 1,6kg.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1205,
+    "sku": "SKU-1205",
+    "ean": "7893984410613",
+    "nome": "Manteiga com Sal Do Campo 200g",
+    "descricao": "Manteiga com Sal da marca Do Campo, apresentação 200g.",
+    "marca": "Do Campo",
+    "categoria": "Frios e Laticínios",
+    "ativo": false
+  },
+  {
+    "id": 1206,
+    "sku": "SKU-1206",
+    "ean": "7894231617791",
+    "nome": "Arroz Tipo 1 São João 1kg",
+    "descricao": "Arroz Tipo 1 da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1207,
+    "sku": "SKU-1207",
+    "ean": "7893721921317",
+    "nome": "Papel Higiênico Folha Dupla Aurora 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Aurora, apresentação 30m.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1208,
+    "sku": "SKU-1208",
+    "ean": "7897948454685",
+    "nome": "Shampoo Anticaspa Primor 200ml",
+    "descricao": "Shampoo Anticaspa da marca Primor, apresentação 200ml.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1209,
+    "sku": "SKU-1209",
+    "ean": "7892334769381",
+    "nome": "Água Sanitária Nobre 2L",
+    "descricao": "Água Sanitária da marca Nobre, apresentação 2L.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1210,
+    "sku": "SKU-1210",
+    "ean": "7897094818232",
+    "nome": "Desinfetante Lavanda Estrela 2L",
+    "descricao": "Desinfetante Lavanda da marca Estrela, apresentação 2L.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1211,
+    "sku": "SKU-1211",
+    "ean": "7897913169536",
+    "nome": "Desodorante Aerossol Pureza 150ml",
+    "descricao": "Desodorante Aerossol da marca Pureza, apresentação 150ml.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1212,
+    "sku": "SKU-1212",
+    "ean": "7896541096990",
+    "nome": "Macarrão Espaguete Pureza 500g",
+    "descricao": "Macarrão Espaguete da marca Pureza, apresentação 500g.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1213,
+    "sku": "SKU-1213",
+    "ean": "7899027825358",
+    "nome": "Água Sanitária Do Campo 1L",
+    "descricao": "Água Sanitária da marca Do Campo, apresentação 1L.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1214,
+    "sku": "SKU-1214",
+    "ean": "7892897390253",
+    "nome": "Desinfetante Lavanda Serrana 2L",
+    "descricao": "Desinfetante Lavanda da marca Serrana, apresentação 2L.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1215,
+    "sku": "SKU-1215",
+    "ean": "7897516366228",
+    "nome": "Cerveja Pilsen Pureza 600ml",
+    "descricao": "Cerveja Pilsen da marca Pureza, apresentação 600ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1216,
+    "sku": "SKU-1216",
+    "ean": "7892336988894",
+    "nome": "Cerveja Pilsen Primor 600ml",
+    "descricao": null,
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1217,
+    "sku": "SKU-1217",
+    "ean": "7892059970775",
+    "nome": "Cerveja Pilsen Aurora 350ml",
+    "descricao": "Cerveja Pilsen da marca Aurora, apresentação 350ml.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1218,
+    "sku": "SKU-1218",
+    "ean": "7893739509892",
+    "nome": "Cerveja Pilsen Estrela 600ml",
+    "descricao": "Cerveja Pilsen da marca Estrela, apresentação 600ml.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1219,
+    "sku": "SKU-1219",
+    "ean": "7898214774149",
+    "nome": "Iogurte Natural Serrana 170g",
+    "descricao": "Iogurte Natural da marca Serrana, apresentação 170g.",
+    "marca": "Serrana",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1220,
+    "sku": "SKU-1220",
+    "ean": "7897740516075",
+    "nome": "Feijão Carioca Brilhante 1kg",
+    "descricao": "Feijão Carioca da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1221,
+    "sku": "SKU-1221",
+    "ean": "7898561836909",
+    "nome": "Desinfetante Lavanda Brilhante 2L",
+    "descricao": "Desinfetante Lavanda da marca Brilhante, apresentação 2L.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1222,
+    "sku": "SKU-1222",
+    "ean": "7893060745180",
+    "nome": "Arroz Tipo 1 Estrela 1kg",
+    "descricao": "Arroz Tipo 1 da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1223,
+    "sku": "SKU-1223",
+    "ean": "7893001356588",
+    "nome": "Açúcar Refinado Bom Grão 1kg",
+    "descricao": null,
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1224,
+    "sku": "SKU-1224",
+    "ean": "7894406874123",
+    "nome": "Escova de Dentes Macia São João unidade",
+    "descricao": "Escova de Dentes Macia da marca São João, apresentação unidade.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1225,
+    "sku": "SKU-1225",
+    "ean": "7896715993448",
+    "nome": "Arroz Tipo 1 Serrana 5kg",
+    "descricao": "Arroz Tipo 1 da marca Serrana, apresentação 5kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1226,
+    "sku": "SKU-1226",
+    "ean": "7898342866074",
+    "nome": "Suco de Uva Integral Aurora 1L",
+    "descricao": "Suco de Uva Integral da marca Aurora, apresentação 1L.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1227,
+    "sku": "SKU-1227",
+    "ean": "7891937519156",
+    "nome": "Café Torrado e Moído Nobre 500g",
+    "descricao": "Café Torrado e Moído da marca Nobre, apresentação 500g.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1228,
+    "sku": "SKU-1228",
+    "ean": "7891758254545",
+    "nome": "Água Sanitária Estrela 1L",
+    "descricao": "Água Sanitária da marca Estrela, apresentação 1L.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1229,
+    "sku": "SKU-1229",
+    "ean": "7897612974269",
+    "nome": "Refrigerante Cola Ouro Fino 350ml",
+    "descricao": "Refrigerante Cola da marca Ouro Fino, apresentação 350ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1230,
+    "sku": "SKU-1230",
+    "ean": "7893651753580",
+    "nome": "Leite Integral UHT Pureza 1L",
+    "descricao": "Leite Integral UHT da marca Pureza, apresentação 1L.",
+    "marca": "Pureza",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1231,
+    "sku": "SKU-1231",
+    "ean": "7892796879815",
+    "nome": "Papel Higiênico Folha Dupla Vale Verde 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Vale Verde, apresentação 30m.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1232,
+    "sku": "SKU-1232",
+    "ean": "7895287091707",
+    "nome": "Água Sanitária São João 1L",
+    "descricao": "Água Sanitária da marca São João, apresentação 1L.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1233,
+    "sku": "SKU-1233",
+    "ean": "7892667073133",
+    "nome": "Arroz Tipo 1 Primor 1kg",
+    "descricao": "Arroz Tipo 1 da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1234,
+    "sku": "SKU-1234",
+    "ean": "7896527945503",
+    "nome": "Cerveja Pilsen Serrana 600ml",
+    "descricao": "Cerveja Pilsen da marca Serrana, apresentação 600ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1235,
+    "sku": "SKU-1235",
+    "ean": "7892894885055",
+    "nome": "Açúcar Refinado Estrela 1kg",
+    "descricao": "Açúcar Refinado da marca Estrela, apresentação 1kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1236,
+    "sku": "SKU-1236",
+    "ean": "7897075889775",
+    "nome": "Detergente Líquido Vale Verde 500ml",
+    "descricao": "Detergente Líquido da marca Vale Verde, apresentação 500ml.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1237,
+    "sku": "SKU-1237",
+    "ean": "7891209698997",
+    "nome": "Feijão Carioca Estrela 2kg",
+    "descricao": "Feijão Carioca da marca Estrela, apresentação 2kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1238,
+    "sku": "SKU-1238",
+    "ean": "7897760859199",
+    "nome": "Água Sanitária Aurora 2L",
+    "descricao": "Água Sanitária da marca Aurora, apresentação 2L.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1239,
+    "sku": "SKU-1239",
+    "ean": "7893731439424",
+    "nome": "Shampoo Anticaspa Bom Grão 200ml",
+    "descricao": "Shampoo Anticaspa da marca Bom Grão, apresentação 200ml.",
+    "marca": "Bom Grão",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1240,
+    "sku": "SKU-1240",
+    "ean": "7894354032698",
+    "nome": "Shampoo Anticaspa Brilhante 400ml",
+    "descricao": "Shampoo Anticaspa da marca Brilhante, apresentação 400ml.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1241,
+    "sku": "SKU-1241",
+    "ean": "7892845769831",
+    "nome": "Refrigerante Cola Nobre 2L",
+    "descricao": "Refrigerante Cola da marca Nobre, apresentação 2L.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1242,
+    "sku": "SKU-1242",
+    "ean": "7898474814629",
+    "nome": "Sabonete em Barra São João 90g",
+    "descricao": "Sabonete em Barra da marca São João, apresentação 90g.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1243,
+    "sku": "SKU-1243",
+    "ean": "7891647442154",
+    "nome": "Energético São João 250ml",
+    "descricao": "Energético da marca São João, apresentação 250ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1244,
+    "sku": "SKU-1244",
+    "ean": "7898257314162",
+    "nome": "Cerveja Pilsen Brilhante 350ml",
+    "descricao": "Cerveja Pilsen da marca Brilhante, apresentação 350ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1245,
+    "sku": "SKU-1245",
+    "ean": "7891442623664",
+    "nome": "Macarrão Espaguete São João 1kg",
+    "descricao": "Macarrão Espaguete da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1246,
+    "sku": "SKU-1246",
+    "ean": "7895625935487",
+    "nome": "Feijão Carioca Primor 1kg",
+    "descricao": "Feijão Carioca da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1247,
+    "sku": "SKU-1247",
+    "ean": "7895270814004",
+    "nome": "Farinha de Trigo Estrela 5kg",
+    "descricao": "Farinha de Trigo da marca Estrela, apresentação 5kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1248,
+    "sku": "SKU-1248",
+    "ean": "7893877734269",
+    "nome": "Farinha de Trigo São João 5kg",
+    "descricao": "Farinha de Trigo da marca São João, apresentação 5kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1249,
+    "sku": "SKU-1249",
+    "ean": "7891939960470",
+    "nome": "Cerveja Pilsen Bom Grão 350ml",
+    "descricao": "Cerveja Pilsen da marca Bom Grão, apresentação 350ml.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1250,
+    "sku": "SKU-1250",
+    "ean": "7895693683091",
+    "nome": "Papel Higiênico Folha Dupla Serrana 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Serrana, apresentação 30m.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1251,
+    "sku": "SKU-1251",
+    "ean": "7893334388230",
+    "nome": "Leite Integral UHT Vale Verde 1L",
+    "descricao": "Leite Integral UHT da marca Vale Verde, apresentação 1L.",
+    "marca": "Vale Verde",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1252,
+    "sku": "SKU-1252",
+    "ean": "7891591342975",
+    "nome": "Manteiga com Sal Brilhante 200g",
+    "descricao": "Manteiga com Sal da marca Brilhante, apresentação 200g.",
+    "marca": "Brilhante",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1253,
+    "sku": "SKU-1253",
+    "ean": "7897667054612",
+    "nome": "Refrigerante Cola Serrana 350ml",
+    "descricao": "Refrigerante Cola da marca Serrana, apresentação 350ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1254,
+    "sku": "SKU-1254",
+    "ean": "7896971488175",
+    "nome": "Arroz Tipo 1 Primor 5kg",
+    "descricao": "Arroz Tipo 1 da marca Primor, apresentação 5kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": false
+  },
+  {
+    "id": 1255,
+    "sku": "SKU-1255",
+    "ean": "7897317450122",
+    "nome": "Molho de Tomate Brilhante 340g",
+    "descricao": "Molho de Tomate da marca Brilhante, apresentação 340g.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1256,
+    "sku": "SKU-1256",
+    "ean": "7894264441505",
+    "nome": "Papel Higiênico Folha Dupla Ouro Fino 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Ouro Fino, apresentação 30m.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1257,
+    "sku": "SKU-1257",
+    "ean": "7893034537748",
+    "nome": "Água Sanitária Vale Verde 2L",
+    "descricao": "Água Sanitária da marca Vale Verde, apresentação 2L.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1258,
+    "sku": "SKU-1258",
+    "ean": "7893556547010",
+    "nome": "Refrigerante Guaraná Brilhante 350ml",
+    "descricao": "Refrigerante Guaraná da marca Brilhante, apresentação 350ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1259,
+    "sku": "SKU-1259",
+    "ean": "7893294999968",
+    "nome": "Limpador Multiuso São João 500ml",
+    "descricao": "Limpador Multiuso da marca São João, apresentação 500ml.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1260,
+    "sku": "SKU-1260",
+    "ean": "7895017987234",
+    "nome": "Óleo de Soja Primor 900ml",
+    "descricao": "Óleo de Soja da marca Primor, apresentação 900ml.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1261,
+    "sku": "SKU-1261",
+    "ean": "7894959270853",
+    "nome": "Feijão Preto Primor 1kg",
+    "descricao": "Feijão Preto da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1262,
+    "sku": "SKU-1262",
+    "ean": "7895947151869",
+    "nome": "Manteiga com Sal Bom Grão 200g",
+    "descricao": "Manteiga com Sal da marca Bom Grão, apresentação 200g.",
+    "marca": "Bom Grão",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1263,
+    "sku": "SKU-1263",
+    "ean": "7894065365221",
+    "nome": "Esponja Multiuso Bom Grão unidade",
+    "descricao": "Esponja Multiuso da marca Bom Grão, apresentação unidade.",
+    "marca": "Bom Grão",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1264,
+    "sku": "SKU-1264",
+    "ean": "7895825593262",
+    "nome": "Shampoo Anticaspa Aurora 400ml",
+    "descricao": "Shampoo Anticaspa da marca Aurora, apresentação 400ml.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1265,
+    "sku": "SKU-1265",
+    "ean": "7898825894722",
+    "nome": "Desinfetante Lavanda São João 500ml",
+    "descricao": "Desinfetante Lavanda da marca São João, apresentação 500ml.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1266,
+    "sku": "SKU-1266",
+    "ean": "7896653074178",
+    "nome": "Óleo de Soja Aurora 900ml",
+    "descricao": "Óleo de Soja da marca Aurora, apresentação 900ml.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1267,
+    "sku": "SKU-1267",
+    "ean": "7894578276697",
+    "nome": "Feijão Preto Pureza 1kg",
+    "descricao": null,
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1268,
+    "sku": "SKU-1268",
+    "ean": "7892868357737",
+    "nome": "Macarrão Espaguete Serrana 500g",
+    "descricao": "Macarrão Espaguete da marca Serrana, apresentação 500g.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1269,
+    "sku": "SKU-1269",
+    "ean": "7893809616195",
+    "nome": "Suco de Uva Integral Ouro Fino 1L",
+    "descricao": "Suco de Uva Integral da marca Ouro Fino, apresentação 1L.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1270,
+    "sku": "SKU-1270",
+    "ean": "7891048666531",
+    "nome": "Açúcar Refinado Pureza 5kg",
+    "descricao": "Açúcar Refinado da marca Pureza, apresentação 5kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1271,
+    "sku": "SKU-1271",
+    "ean": "7891867846415",
+    "nome": "Sabão em Pó Primor 800g",
+    "descricao": "Sabão em Pó da marca Primor, apresentação 800g.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1272,
+    "sku": "SKU-1272",
+    "ean": "7892367494156",
+    "nome": "Sabão em Pó Vale Verde 800g",
+    "descricao": "Sabão em Pó da marca Vale Verde, apresentação 800g.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1273,
+    "sku": "SKU-1273",
+    "ean": "7898895281248",
+    "nome": "Sabonete em Barra Ouro Fino 90g",
+    "descricao": "Sabonete em Barra da marca Ouro Fino, apresentação 90g.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1274,
+    "sku": "SKU-1274",
+    "ean": "7893643778409",
+    "nome": "Refrigerante Cola Do Campo 2L",
+    "descricao": null,
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1275,
+    "sku": "SKU-1275",
+    "ean": "7898237807259",
+    "nome": "Molho de Tomate Vale Verde 340g",
+    "descricao": "Molho de Tomate da marca Vale Verde, apresentação 340g.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1276,
+    "sku": "SKU-1276",
+    "ean": "7899857475615",
+    "nome": "Refrigerante Guaraná Do Campo 2L",
+    "descricao": "Refrigerante Guaraná da marca Do Campo, apresentação 2L.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1277,
+    "sku": "SKU-1277",
+    "ean": "7899047966686",
+    "nome": "Limpador Multiuso Serrana 500ml",
+    "descricao": "Limpador Multiuso da marca Serrana, apresentação 500ml.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1278,
+    "sku": "SKU-1278",
+    "ean": "7899322325570",
+    "nome": "Desinfetante Lavanda Ouro Fino 2L",
+    "descricao": "Desinfetante Lavanda da marca Ouro Fino, apresentação 2L.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1279,
+    "sku": "SKU-1279",
+    "ean": "7897548922493",
+    "nome": "Macarrão Espaguete Nobre 500g",
+    "descricao": "Macarrão Espaguete da marca Nobre, apresentação 500g.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1280,
+    "sku": "SKU-1280",
+    "ean": "7894277607315",
+    "nome": "Macarrão Espaguete Vale Verde 500g",
+    "descricao": "Macarrão Espaguete da marca Vale Verde, apresentação 500g.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1281,
+    "sku": "SKU-1281",
+    "ean": "7894380994416",
+    "nome": "Feijão Preto Bom Grão 1kg",
+    "descricao": "Feijão Preto da marca Bom Grão, apresentação 1kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1282,
+    "sku": "SKU-1282",
+    "ean": "7899814608163",
+    "nome": "Óleo de Soja Pureza 900ml",
+    "descricao": "Óleo de Soja da marca Pureza, apresentação 900ml.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1283,
+    "sku": "SKU-1283",
+    "ean": "7893028994626",
+    "nome": "Suco de Uva Integral Do Campo 1L",
+    "descricao": "Suco de Uva Integral da marca Do Campo, apresentação 1L.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1284,
+    "sku": "SKU-1284",
+    "ean": "7897326835025",
+    "nome": "Suco de Uva Integral Estrela 1L",
+    "descricao": "Suco de Uva Integral da marca Estrela, apresentação 1L.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1285,
+    "sku": "SKU-1285",
+    "ean": "7898997714562",
+    "nome": "Leite Integral UHT Aurora 1L",
+    "descricao": "Leite Integral UHT da marca Aurora, apresentação 1L.",
+    "marca": "Aurora",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1286,
+    "sku": "SKU-1286",
+    "ean": "7892134792585",
+    "nome": "Refrigerante Guaraná Aurora 350ml",
+    "descricao": "Refrigerante Guaraná da marca Aurora, apresentação 350ml.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1287,
+    "sku": "SKU-1287",
+    "ean": "7896186619688",
+    "nome": "Escova de Dentes Macia Estrela unidade",
+    "descricao": "Escova de Dentes Macia da marca Estrela, apresentação unidade.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1288,
+    "sku": "SKU-1288",
+    "ean": "7893941915648",
+    "nome": "Suco de Uva Integral Vale Verde 1L",
+    "descricao": "Suco de Uva Integral da marca Vale Verde, apresentação 1L.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1289,
+    "sku": "SKU-1289",
+    "ean": "7897560653695",
+    "nome": "Leite Integral UHT Bom Grão 1L",
+    "descricao": "Leite Integral UHT da marca Bom Grão, apresentação 1L.",
+    "marca": "Bom Grão",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1290,
+    "sku": "SKU-1290",
+    "ean": "7893760168115",
+    "nome": "Café Torrado e Moído Ouro Fino 250g",
+    "descricao": "Café Torrado e Moído da marca Ouro Fino, apresentação 250g.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1291,
+    "sku": "SKU-1291",
+    "ean": "7892295165561",
+    "nome": "Refrigerante Guaraná Aurora 2L",
+    "descricao": "Refrigerante Guaraná da marca Aurora, apresentação 2L.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1292,
+    "sku": "SKU-1292",
+    "ean": "7897145231843",
+    "nome": "Farinha de Trigo Primor 1kg",
+    "descricao": "Farinha de Trigo da marca Primor, apresentação 1kg.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1293,
+    "sku": "SKU-1293",
+    "ean": "7892857657881",
+    "nome": "Shampoo Anticaspa Estrela 400ml",
+    "descricao": "Shampoo Anticaspa da marca Estrela, apresentação 400ml.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1294,
+    "sku": "SKU-1294",
+    "ean": "7899407663889",
+    "nome": "Água Sanitária Estrela 2L",
+    "descricao": "Água Sanitária da marca Estrela, apresentação 2L.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1295,
+    "sku": "SKU-1295",
+    "ean": "7894067426448",
+    "nome": "Refrigerante Guaraná São João 2L",
+    "descricao": "Refrigerante Guaraná da marca São João, apresentação 2L.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1296,
+    "sku": "SKU-1296",
+    "ean": "7892150994409",
+    "nome": "Óleo de Soja Serrana 900ml",
+    "descricao": "Óleo de Soja da marca Serrana, apresentação 900ml.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1297,
+    "sku": "SKU-1297",
+    "ean": "7891755099620",
+    "nome": "Café Torrado e Moído Estrela 250g",
+    "descricao": "Café Torrado e Moído da marca Estrela, apresentação 250g.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1298,
+    "sku": "SKU-1298",
+    "ean": "7897039811397",
+    "nome": "Molho de Tomate Pureza 340g",
+    "descricao": "Molho de Tomate da marca Pureza, apresentação 340g.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1299,
+    "sku": "SKU-1299",
+    "ean": "7899984120689",
+    "nome": "Energético Brilhante 250ml",
+    "descricao": "Energético da marca Brilhante, apresentação 250ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1300,
+    "sku": "SKU-1300",
+    "ean": "7898635819237",
+    "nome": "Sabonete em Barra Aurora 90g",
+    "descricao": "Sabonete em Barra da marca Aurora, apresentação 90g.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1301,
+    "sku": "SKU-1301",
+    "ean": "7894476539622",
+    "nome": "Refrigerante Cola Do Campo 350ml",
+    "descricao": "Refrigerante Cola da marca Do Campo, apresentação 350ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1302,
+    "sku": "SKU-1302",
+    "ean": "7897490091177",
+    "nome": "Feijão Carioca Do Campo 2kg",
+    "descricao": "Feijão Carioca da marca Do Campo, apresentação 2kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1303,
+    "sku": "SKU-1303",
+    "ean": "7892799261312",
+    "nome": "Refrigerante Cola Pureza 2L",
+    "descricao": "Refrigerante Cola da marca Pureza, apresentação 2L.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1304,
+    "sku": "SKU-1304",
+    "ean": "7898240736771",
+    "nome": "Suco de Uva Integral Pureza 1L",
+    "descricao": "Suco de Uva Integral da marca Pureza, apresentação 1L.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1305,
+    "sku": "SKU-1305",
+    "ean": "7899826839909",
+    "nome": "Creme Dental Brilhante 90g",
+    "descricao": "Creme Dental da marca Brilhante, apresentação 90g.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1306,
+    "sku": "SKU-1306",
+    "ean": "7896265079003",
+    "nome": "Óleo de Soja Brilhante 900ml",
+    "descricao": "Óleo de Soja da marca Brilhante, apresentação 900ml.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1307,
+    "sku": "SKU-1307",
+    "ean": "7892160479231",
+    "nome": "Iogurte Natural Vale Verde 170g",
+    "descricao": "Iogurte Natural da marca Vale Verde, apresentação 170g.",
+    "marca": "Vale Verde",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1308,
+    "sku": "SKU-1308",
+    "ean": "7894910049739",
+    "nome": "Café Torrado e Moído Aurora 250g",
+    "descricao": "Café Torrado e Moído da marca Aurora, apresentação 250g.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1309,
+    "sku": "SKU-1309",
+    "ean": "7897361131746",
+    "nome": "Requeijão Cremoso Bom Grão 200g",
+    "descricao": "Requeijão Cremoso da marca Bom Grão, apresentação 200g.",
+    "marca": "Bom Grão",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1310,
+    "sku": "SKU-1310",
+    "ean": "7894185486691",
+    "nome": "Açúcar Refinado Nobre 1kg",
+    "descricao": "Açúcar Refinado da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1311,
+    "sku": "SKU-1311",
+    "ean": "7895848404105",
+    "nome": "Queijo Muçarela Fatiado Bom Grão 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Bom Grão, apresentação 150g.",
+    "marca": "Bom Grão",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1312,
+    "sku": "SKU-1312",
+    "ean": "7892707864895",
+    "nome": "Macarrão Espaguete Primor 500g",
+    "descricao": "Macarrão Espaguete da marca Primor, apresentação 500g.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1313,
+    "sku": "SKU-1313",
+    "ean": "7895136842938",
+    "nome": "Suco de Uva Integral Brilhante 1L",
+    "descricao": "Suco de Uva Integral da marca Brilhante, apresentação 1L.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1314,
+    "sku": "SKU-1314",
+    "ean": "7899622642779",
+    "nome": "Açúcar Refinado Ouro Fino 1kg",
+    "descricao": "Açúcar Refinado da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1315,
+    "sku": "SKU-1315",
+    "ean": "7891298550278",
+    "nome": "Arroz Tipo 1 Nobre 1kg",
+    "descricao": "Arroz Tipo 1 da marca Nobre, apresentação 1kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1316,
+    "sku": "SKU-1316",
+    "ean": "7899774321927",
+    "nome": "Água Mineral sem Gás Brilhante 500ml",
+    "descricao": "Água Mineral sem Gás da marca Brilhante, apresentação 500ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1317,
+    "sku": "SKU-1317",
+    "ean": "7891562930887",
+    "nome": "Café Torrado e Moído Bom Grão 500g",
+    "descricao": "Café Torrado e Moído da marca Bom Grão, apresentação 500g.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1318,
+    "sku": "SKU-1318",
+    "ean": "7899665892086",
+    "nome": "Queijo Muçarela Fatiado Brilhante 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Brilhante, apresentação 150g.",
+    "marca": "Brilhante",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1319,
+    "sku": "SKU-1319",
+    "ean": "7891218500322",
+    "nome": "Feijão Carioca Bom Grão 1kg",
+    "descricao": "Feijão Carioca da marca Bom Grão, apresentação 1kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1320,
+    "sku": "SKU-1320",
+    "ean": "7893552786683",
+    "nome": "Cerveja Pilsen Serrana 350ml",
+    "descricao": "Cerveja Pilsen da marca Serrana, apresentação 350ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1321,
+    "sku": "SKU-1321",
+    "ean": "7895168365924",
+    "nome": "Arroz Tipo 1 Aurora 5kg",
+    "descricao": "Arroz Tipo 1 da marca Aurora, apresentação 5kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1322,
+    "sku": "SKU-1322",
+    "ean": "7892945521843",
+    "nome": "Café Torrado e Moído Do Campo 250g",
+    "descricao": "Café Torrado e Moído da marca Do Campo, apresentação 250g.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1323,
+    "sku": "SKU-1323",
+    "ean": "7897345604273",
+    "nome": "Leite Integral UHT Primor 1L",
+    "descricao": "Leite Integral UHT da marca Primor, apresentação 1L.",
+    "marca": "Primor",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1324,
+    "sku": "SKU-1324",
+    "ean": "7898347023191",
+    "nome": "Creme Dental Pureza 90g",
+    "descricao": "Creme Dental da marca Pureza, apresentação 90g.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1325,
+    "sku": "SKU-1325",
+    "ean": "7894857365145",
+    "nome": "Refrigerante Cola Bom Grão 2L",
+    "descricao": "Refrigerante Cola da marca Bom Grão, apresentação 2L.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1326,
+    "sku": "SKU-1326",
+    "ean": "7896318435551",
+    "nome": "Papel Higiênico Folha Dupla Nobre 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Nobre, apresentação 30m.",
+    "marca": "Nobre",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1327,
+    "sku": "SKU-1327",
+    "ean": "7891021549893",
+    "nome": "Feijão Carioca Aurora 1kg",
+    "descricao": "Feijão Carioca da marca Aurora, apresentação 1kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1328,
+    "sku": "SKU-1328",
+    "ean": "7893197781270",
+    "nome": "Queijo Muçarela Fatiado Estrela 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Estrela, apresentação 150g.",
+    "marca": "Estrela",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1329,
+    "sku": "SKU-1329",
+    "ean": "7892311732439",
+    "nome": "Desinfetante Lavanda Do Campo 500ml",
+    "descricao": "Desinfetante Lavanda da marca Do Campo, apresentação 500ml.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1330,
+    "sku": "SKU-1330",
+    "ean": "7895324904026",
+    "nome": "Creme Dental Do Campo 90g",
+    "descricao": "Creme Dental da marca Do Campo, apresentação 90g.",
+    "marca": "Do Campo",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1331,
+    "sku": "SKU-1331",
+    "ean": "7897145531089",
+    "nome": "Molho de Tomate Do Campo 340g",
+    "descricao": null,
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1332,
+    "sku": "SKU-1332",
+    "ean": "7899196321929",
+    "nome": "Detergente Líquido Brilhante 500ml",
+    "descricao": "Detergente Líquido da marca Brilhante, apresentação 500ml.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1333,
+    "sku": "SKU-1333",
+    "ean": "7893540806030",
+    "nome": "Creme Dental Aurora 90g",
+    "descricao": "Creme Dental da marca Aurora, apresentação 90g.",
+    "marca": "Aurora",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1334,
+    "sku": "SKU-1334",
+    "ean": "7895287611629",
+    "nome": "Requeijão Cremoso Brilhante 200g",
+    "descricao": "Requeijão Cremoso da marca Brilhante, apresentação 200g.",
+    "marca": "Brilhante",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1335,
+    "sku": "SKU-1335",
+    "ean": "7899771401034",
+    "nome": "Sabão em Pó Vale Verde 1,6kg",
+    "descricao": "Sabão em Pó da marca Vale Verde, apresentação 1,6kg.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1336,
+    "sku": "SKU-1336",
+    "ean": "7894360166375",
+    "nome": "Energético Serrana 250ml",
+    "descricao": "Energético da marca Serrana, apresentação 250ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1337,
+    "sku": "SKU-1337",
+    "ean": "7897224502137",
+    "nome": "Manteiga com Sal São João 200g",
+    "descricao": "Manteiga com Sal da marca São João, apresentação 200g.",
+    "marca": "São João",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1338,
+    "sku": "SKU-1338",
+    "ean": "7894102021985",
+    "nome": "Café Torrado e Moído Primor 250g",
+    "descricao": "Café Torrado e Moído da marca Primor, apresentação 250g.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1339,
+    "sku": "SKU-1339",
+    "ean": "7893658582360",
+    "nome": "Manteiga com Sal Serrana 200g",
+    "descricao": "Manteiga com Sal da marca Serrana, apresentação 200g.",
+    "marca": "Serrana",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1340,
+    "sku": "SKU-1340",
+    "ean": "7899880025073",
+    "nome": "Cerveja Pilsen Do Campo 600ml",
+    "descricao": "Cerveja Pilsen da marca Do Campo, apresentação 600ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1341,
+    "sku": "SKU-1341",
+    "ean": "7891817226837",
+    "nome": "Shampoo Anticaspa Estrela 200ml",
+    "descricao": "Shampoo Anticaspa da marca Estrela, apresentação 200ml.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1342,
+    "sku": "SKU-1342",
+    "ean": "7894606655979",
+    "nome": "Shampoo Anticaspa Vale Verde 200ml",
+    "descricao": "Shampoo Anticaspa da marca Vale Verde, apresentação 200ml.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1343,
+    "sku": "SKU-1343",
+    "ean": "7892801746978",
+    "nome": "Leite Integral UHT Do Campo 1L",
+    "descricao": "Leite Integral UHT da marca Do Campo, apresentação 1L.",
+    "marca": "Do Campo",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1344,
+    "sku": "SKU-1344",
+    "ean": "7894755562633",
+    "nome": "Farinha de Trigo Nobre 5kg",
+    "descricao": "Farinha de Trigo da marca Nobre, apresentação 5kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1345,
+    "sku": "SKU-1345",
+    "ean": "7893572929005",
+    "nome": "Queijo Muçarela Fatiado Nobre 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Nobre, apresentação 150g.",
+    "marca": "Nobre",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1346,
+    "sku": "SKU-1346",
+    "ean": "7899526073995",
+    "nome": "Farinha de Trigo Aurora 1kg",
+    "descricao": "Farinha de Trigo da marca Aurora, apresentação 1kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1347,
+    "sku": "SKU-1347",
+    "ean": "7898151955849",
+    "nome": "Farinha de Trigo Aurora 5kg",
+    "descricao": "Farinha de Trigo da marca Aurora, apresentação 5kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1348,
+    "sku": "SKU-1348",
+    "ean": "7896758734678",
+    "nome": "Água Mineral sem Gás Primor 500ml",
+    "descricao": "Água Mineral sem Gás da marca Primor, apresentação 500ml.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1349,
+    "sku": "SKU-1349",
+    "ean": "7899177938155",
+    "nome": "Shampoo Anticaspa Do Campo 200ml",
+    "descricao": "Shampoo Anticaspa da marca Do Campo, apresentação 200ml.",
+    "marca": "Do Campo",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1350,
+    "sku": "SKU-1350",
+    "ean": "7895152316752",
+    "nome": "Sabão em Pó Serrana 800g",
+    "descricao": "Sabão em Pó da marca Serrana, apresentação 800g.",
+    "marca": "Serrana",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1351,
+    "sku": "SKU-1351",
+    "ean": "7895708991138",
+    "nome": "Arroz Tipo 1 Vale Verde 5kg",
+    "descricao": "Arroz Tipo 1 da marca Vale Verde, apresentação 5kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1352,
+    "sku": "SKU-1352",
+    "ean": "7893225687827",
+    "nome": "Sal Refinado Bom Grão 1kg",
+    "descricao": "Sal Refinado da marca Bom Grão, apresentação 1kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1353,
+    "sku": "SKU-1353",
+    "ean": "7898789061900",
+    "nome": "Água Sanitária Ouro Fino 1L",
+    "descricao": "Água Sanitária da marca Ouro Fino, apresentação 1L.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1354,
+    "sku": "SKU-1354",
+    "ean": "7896136562421",
+    "nome": "Molho de Tomate São João 340g",
+    "descricao": "Molho de Tomate da marca São João, apresentação 340g.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1355,
+    "sku": "SKU-1355",
+    "ean": "7891391278587",
+    "nome": "Feijão Carioca Serrana 1kg",
+    "descricao": "Feijão Carioca da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1356,
+    "sku": "SKU-1356",
+    "ean": "7895986632583",
+    "nome": "Feijão Carioca Vale Verde 2kg",
+    "descricao": "Feijão Carioca da marca Vale Verde, apresentação 2kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1357,
+    "sku": "SKU-1357",
+    "ean": "7897041751087",
+    "nome": "Sabão em Pó Primor 1,6kg",
+    "descricao": "Sabão em Pó da marca Primor, apresentação 1,6kg.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1358,
+    "sku": "SKU-1358",
+    "ean": "7895213795841",
+    "nome": "Feijão Preto Ouro Fino 1kg",
+    "descricao": "Feijão Preto da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1359,
+    "sku": "SKU-1359",
+    "ean": "7898391391779",
+    "nome": "Shampoo Anticaspa Vale Verde 400ml",
+    "descricao": "Shampoo Anticaspa da marca Vale Verde, apresentação 400ml.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1360,
+    "sku": "SKU-1360",
+    "ean": "7891664683610",
+    "nome": "Refrigerante Cola Bom Grão 350ml",
+    "descricao": "Refrigerante Cola da marca Bom Grão, apresentação 350ml.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1361,
+    "sku": "SKU-1361",
+    "ean": "7895879235624",
+    "nome": "Iogurte Natural São João 170g",
+    "descricao": "Iogurte Natural da marca São João, apresentação 170g.",
+    "marca": "São João",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1362,
+    "sku": "SKU-1362",
+    "ean": "7895200566117",
+    "nome": "Suco de Uva Integral Serrana 1L",
+    "descricao": null,
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1363,
+    "sku": "SKU-1363",
+    "ean": "7898298091551",
+    "nome": "Shampoo Anticaspa Ouro Fino 400ml",
+    "descricao": "Shampoo Anticaspa da marca Ouro Fino, apresentação 400ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1364,
+    "sku": "SKU-1364",
+    "ean": "7897678001960",
+    "nome": "Refrigerante Cola Brilhante 350ml",
+    "descricao": "Refrigerante Cola da marca Brilhante, apresentação 350ml.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1365,
+    "sku": "SKU-1365",
+    "ean": "7895819559524",
+    "nome": "Limpador Multiuso Ouro Fino 500ml",
+    "descricao": "Limpador Multiuso da marca Ouro Fino, apresentação 500ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1366,
+    "sku": "SKU-1366",
+    "ean": "7891452034296",
+    "nome": "Água Mineral sem Gás Brilhante 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Brilhante, apresentação 1,5L.",
+    "marca": "Brilhante",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1367,
+    "sku": "SKU-1367",
+    "ean": "7893685255839",
+    "nome": "Farinha de Trigo Bom Grão 5kg",
+    "descricao": "Farinha de Trigo da marca Bom Grão, apresentação 5kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1368,
+    "sku": "SKU-1368",
+    "ean": "7896059588323",
+    "nome": "Energético Bom Grão 250ml",
+    "descricao": "Energético da marca Bom Grão, apresentação 250ml.",
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1369,
+    "sku": "SKU-1369",
+    "ean": "7895061981839",
+    "nome": "Escova de Dentes Macia Serrana unidade",
+    "descricao": "Escova de Dentes Macia da marca Serrana, apresentação unidade.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1370,
+    "sku": "SKU-1370",
+    "ean": "7894453509497",
+    "nome": "Açúcar Refinado São João 5kg",
+    "descricao": "Açúcar Refinado da marca São João, apresentação 5kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1371,
+    "sku": "SKU-1371",
+    "ean": "7899731011756",
+    "nome": "Desinfetante Lavanda Aurora 2L",
+    "descricao": "Desinfetante Lavanda da marca Aurora, apresentação 2L.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1372,
+    "sku": "SKU-1372",
+    "ean": "7891468995662",
+    "nome": "Refrigerante Cola São João 2L",
+    "descricao": "Refrigerante Cola da marca São João, apresentação 2L.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1373,
+    "sku": "SKU-1373",
+    "ean": "7896778748319",
+    "nome": "Feijão Carioca Brilhante 2kg",
+    "descricao": "Feijão Carioca da marca Brilhante, apresentação 2kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1374,
+    "sku": "SKU-1374",
+    "ean": "7891179786105",
+    "nome": "Creme Dental Ouro Fino 90g",
+    "descricao": "Creme Dental da marca Ouro Fino, apresentação 90g.",
+    "marca": "Ouro Fino",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1375,
+    "sku": "SKU-1375",
+    "ean": "7897785940292",
+    "nome": "Água Mineral sem Gás Ouro Fino 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Ouro Fino, apresentação 1,5L.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1376,
+    "sku": "SKU-1376",
+    "ean": "7892436196289",
+    "nome": "Iogurte Natural Pureza 170g",
+    "descricao": "Iogurte Natural da marca Pureza, apresentação 170g.",
+    "marca": "Pureza",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1377,
+    "sku": "SKU-1377",
+    "ean": "7895838132163",
+    "nome": "Energético Ouro Fino 250ml",
+    "descricao": "Energético da marca Ouro Fino, apresentação 250ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1378,
+    "sku": "SKU-1378",
+    "ean": "7892376824172",
+    "nome": "Açúcar Refinado Brilhante 1kg",
+    "descricao": "Açúcar Refinado da marca Brilhante, apresentação 1kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1379,
+    "sku": "SKU-1379",
+    "ean": "7898499724673",
+    "nome": "Energético Vale Verde 250ml",
+    "descricao": "Energético da marca Vale Verde, apresentação 250ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1380,
+    "sku": "SKU-1380",
+    "ean": "7895521750154",
+    "nome": "Água Mineral sem Gás Serrana 500ml",
+    "descricao": "Água Mineral sem Gás da marca Serrana, apresentação 500ml.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1381,
+    "sku": "SKU-1381",
+    "ean": "7899895064023",
+    "nome": "Macarrão Espaguete Ouro Fino 500g",
+    "descricao": "Macarrão Espaguete da marca Ouro Fino, apresentação 500g.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1382,
+    "sku": "SKU-1382",
+    "ean": "7893038135521",
+    "nome": "Esponja Multiuso Vale Verde unidade",
+    "descricao": "Esponja Multiuso da marca Vale Verde, apresentação unidade.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1383,
+    "sku": "SKU-1383",
+    "ean": "7891532278316",
+    "nome": "Açúcar Refinado São João 1kg",
+    "descricao": "Açúcar Refinado da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1384,
+    "sku": "SKU-1384",
+    "ean": "7898985972083",
+    "nome": "Sabão em Pó Pureza 1,6kg",
+    "descricao": "Sabão em Pó da marca Pureza, apresentação 1,6kg.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1385,
+    "sku": "SKU-1385",
+    "ean": "7898000298335",
+    "nome": "Sabão em Pó Estrela 800g",
+    "descricao": "Sabão em Pó da marca Estrela, apresentação 800g.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1386,
+    "sku": "SKU-1386",
+    "ean": "7892576948595",
+    "nome": "Água Mineral sem Gás Aurora 500ml",
+    "descricao": "Água Mineral sem Gás da marca Aurora, apresentação 500ml.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1387,
+    "sku": "SKU-1387",
+    "ean": "7893342330029",
+    "nome": "Manteiga com Sal Estrela 200g",
+    "descricao": "Manteiga com Sal da marca Estrela, apresentação 200g.",
+    "marca": "Estrela",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1388,
+    "sku": "SKU-1388",
+    "ean": "7896689887079",
+    "nome": "Cerveja Pilsen Nobre 600ml",
+    "descricao": "Cerveja Pilsen da marca Nobre, apresentação 600ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1389,
+    "sku": "SKU-1389",
+    "ean": "7892661770367",
+    "nome": "Água Sanitária Do Campo 2L",
+    "descricao": "Água Sanitária da marca Do Campo, apresentação 2L.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1390,
+    "sku": "SKU-1390",
+    "ean": "7895006981881",
+    "nome": "Farinha de Trigo Do Campo 5kg",
+    "descricao": "Farinha de Trigo da marca Do Campo, apresentação 5kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1391,
+    "sku": "SKU-1391",
+    "ean": "7892506720926",
+    "nome": "Requeijão Cremoso Vale Verde 200g",
+    "descricao": "Requeijão Cremoso da marca Vale Verde, apresentação 200g.",
+    "marca": "Vale Verde",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1392,
+    "sku": "SKU-1392",
+    "ean": "7891680127576",
+    "nome": "Açúcar Refinado Brilhante 5kg",
+    "descricao": "Açúcar Refinado da marca Brilhante, apresentação 5kg.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1393,
+    "sku": "SKU-1393",
+    "ean": "7894083600411",
+    "nome": "Sal Refinado Serrana 1kg",
+    "descricao": "Sal Refinado da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1394,
+    "sku": "SKU-1394",
+    "ean": "7898094097757",
+    "nome": "Água Sanitária Vale Verde 1L",
+    "descricao": "Água Sanitária da marca Vale Verde, apresentação 1L.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1395,
+    "sku": "SKU-1395",
+    "ean": "7895233953870",
+    "nome": "Desinfetante Lavanda Primor 2L",
+    "descricao": "Desinfetante Lavanda da marca Primor, apresentação 2L.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1396,
+    "sku": "SKU-1396",
+    "ean": "7893436965031",
+    "nome": "Desodorante Aerossol Bom Grão 150ml",
+    "descricao": null,
+    "marca": "Bom Grão",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1397,
+    "sku": "SKU-1397",
+    "ean": "7897481547040",
+    "nome": "Shampoo Anticaspa São João 400ml",
+    "descricao": "Shampoo Anticaspa da marca São João, apresentação 400ml.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1398,
+    "sku": "SKU-1398",
+    "ean": "7896270353834",
+    "nome": "Iogurte Natural Primor 170g",
+    "descricao": "Iogurte Natural da marca Primor, apresentação 170g.",
+    "marca": "Primor",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1399,
+    "sku": "SKU-1399",
+    "ean": "7894144334003",
+    "nome": "Desinfetante Lavanda Bom Grão 2L",
+    "descricao": "Desinfetante Lavanda da marca Bom Grão, apresentação 2L.",
+    "marca": "Bom Grão",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1400,
+    "sku": "SKU-1400",
+    "ean": "7891561551732",
+    "nome": "Arroz Tipo 1 Nobre 5kg",
+    "descricao": "Arroz Tipo 1 da marca Nobre, apresentação 5kg.",
+    "marca": "Nobre",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1401,
+    "sku": "SKU-1401",
+    "ean": "7892621417960",
+    "nome": "Detergente Líquido Estrela 500ml",
+    "descricao": "Detergente Líquido da marca Estrela, apresentação 500ml.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1402,
+    "sku": "SKU-1402",
+    "ean": "7897288000115",
+    "nome": "Açúcar Refinado Vale Verde 1kg",
+    "descricao": "Açúcar Refinado da marca Vale Verde, apresentação 1kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1403,
+    "sku": "SKU-1403",
+    "ean": "7895346219458",
+    "nome": "Macarrão Espaguete Ouro Fino 1kg",
+    "descricao": "Macarrão Espaguete da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1404,
+    "sku": "SKU-1404",
+    "ean": "7896031038691",
+    "nome": "Café Torrado e Moído Estrela 500g",
+    "descricao": "Café Torrado e Moído da marca Estrela, apresentação 500g.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1405,
+    "sku": "SKU-1405",
+    "ean": "7896690935391",
+    "nome": "Detergente Líquido Bom Grão 500ml",
+    "descricao": "Detergente Líquido da marca Bom Grão, apresentação 500ml.",
+    "marca": "Bom Grão",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1406,
+    "sku": "SKU-1406",
+    "ean": "7892099340883",
+    "nome": "Feijão Carioca Ouro Fino 2kg",
+    "descricao": "Feijão Carioca da marca Ouro Fino, apresentação 2kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": false
+  },
+  {
+    "id": 1407,
+    "sku": "SKU-1407",
+    "ean": "7897143760196",
+    "nome": "Desodorante Aerossol Do Campo 150ml",
+    "descricao": "Desodorante Aerossol da marca Do Campo, apresentação 150ml.",
+    "marca": "Do Campo",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1408,
+    "sku": "SKU-1408",
+    "ean": "7899892471860",
+    "nome": "Cerveja Pilsen São João 600ml",
+    "descricao": "Cerveja Pilsen da marca São João, apresentação 600ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1409,
+    "sku": "SKU-1409",
+    "ean": "7897400475081",
+    "nome": "Sabonete em Barra Brilhante 90g",
+    "descricao": "Sabonete em Barra da marca Brilhante, apresentação 90g.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1410,
+    "sku": "SKU-1410",
+    "ean": "7898012242563",
+    "nome": "Arroz Tipo 1 Bom Grão 1kg",
+    "descricao": "Arroz Tipo 1 da marca Bom Grão, apresentação 1kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1411,
+    "sku": "SKU-1411",
+    "ean": "7895464633383",
+    "nome": "Feijão Carioca Aurora 2kg",
+    "descricao": "Feijão Carioca da marca Aurora, apresentação 2kg.",
+    "marca": "Aurora",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1412,
+    "sku": "SKU-1412",
+    "ean": "7893005882924",
+    "nome": "Arroz Tipo 1 Brilhante 1kg",
+    "descricao": null,
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1413,
+    "sku": "SKU-1413",
+    "ean": "7896272321601",
+    "nome": "Refrigerante Guaraná Serrana 2L",
+    "descricao": "Refrigerante Guaraná da marca Serrana, apresentação 2L.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1414,
+    "sku": "SKU-1414",
+    "ean": "7898137069334",
+    "nome": "Açúcar Refinado Serrana 5kg",
+    "descricao": "Açúcar Refinado da marca Serrana, apresentação 5kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1415,
+    "sku": "SKU-1415",
+    "ean": "7896987540404",
+    "nome": "Refrigerante Cola Ouro Fino 2L",
+    "descricao": "Refrigerante Cola da marca Ouro Fino, apresentação 2L.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1416,
+    "sku": "SKU-1416",
+    "ean": "7899636086508",
+    "nome": "Desinfetante Lavanda Nobre 500ml",
+    "descricao": "Desinfetante Lavanda da marca Nobre, apresentação 500ml.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1417,
+    "sku": "SKU-1417",
+    "ean": "7896745659192",
+    "nome": "Café Torrado e Moído Primor 500g",
+    "descricao": "Café Torrado e Moído da marca Primor, apresentação 500g.",
+    "marca": "Primor",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1418,
+    "sku": "SKU-1418",
+    "ean": "7891945045411",
+    "nome": "Feijão Preto Vale Verde 1kg",
+    "descricao": "Feijão Preto da marca Vale Verde, apresentação 1kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1419,
+    "sku": "SKU-1419",
+    "ean": "7896010890824",
+    "nome": "Sal Refinado São João 1kg",
+    "descricao": "Sal Refinado da marca São João, apresentação 1kg.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1420,
+    "sku": "SKU-1420",
+    "ean": "7897374381047",
+    "nome": "Água Mineral sem Gás Primor 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Primor, apresentação 1,5L.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1421,
+    "sku": "SKU-1421",
+    "ean": "7897018446793",
+    "nome": "Óleo de Soja Do Campo 900ml",
+    "descricao": "Óleo de Soja da marca Do Campo, apresentação 900ml.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1422,
+    "sku": "SKU-1422",
+    "ean": "7897862701289",
+    "nome": "Água Sanitária Pureza 1L",
+    "descricao": "Água Sanitária da marca Pureza, apresentação 1L.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1423,
+    "sku": "SKU-1423",
+    "ean": "7896343194047",
+    "nome": "Feijão Carioca Pureza 1kg",
+    "descricao": "Feijão Carioca da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1424,
+    "sku": "SKU-1424",
+    "ean": "7896640915016",
+    "nome": "Papel Higiênico Folha Dupla Estrela 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Estrela, apresentação 30m.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1425,
+    "sku": "SKU-1425",
+    "ean": "7894943575071",
+    "nome": "Queijo Muçarela Fatiado Aurora 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Aurora, apresentação 150g.",
+    "marca": "Aurora",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1426,
+    "sku": "SKU-1426",
+    "ean": "7895312693754",
+    "nome": "Refrigerante Guaraná Vale Verde 350ml",
+    "descricao": "Refrigerante Guaraná da marca Vale Verde, apresentação 350ml.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1427,
+    "sku": "SKU-1427",
+    "ean": "7899346693232",
+    "nome": "Café Torrado e Moído São João 250g",
+    "descricao": "Café Torrado e Moído da marca São João, apresentação 250g.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1428,
+    "sku": "SKU-1428",
+    "ean": "7895544600500",
+    "nome": "Refrigerante Guaraná Primor 2L",
+    "descricao": "Refrigerante Guaraná da marca Primor, apresentação 2L.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1429,
+    "sku": "SKU-1429",
+    "ean": "7891751372837",
+    "nome": "Leite Integral UHT Brilhante 1L",
+    "descricao": "Leite Integral UHT da marca Brilhante, apresentação 1L.",
+    "marca": "Brilhante",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1430,
+    "sku": "SKU-1430",
+    "ean": "7894821487019",
+    "nome": "Água Mineral sem Gás Aurora 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Aurora, apresentação 1,5L.",
+    "marca": "Aurora",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1431,
+    "sku": "SKU-1431",
+    "ean": "7891776073618",
+    "nome": "Esponja Multiuso Estrela unidade",
+    "descricao": "Esponja Multiuso da marca Estrela, apresentação unidade.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1432,
+    "sku": "SKU-1432",
+    "ean": "7897191271570",
+    "nome": "Sabão em Pó Ouro Fino 1,6kg",
+    "descricao": "Sabão em Pó da marca Ouro Fino, apresentação 1,6kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1433,
+    "sku": "SKU-1433",
+    "ean": "7893137991756",
+    "nome": "Sabão em Pó Do Campo 800g",
+    "descricao": "Sabão em Pó da marca Do Campo, apresentação 800g.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1434,
+    "sku": "SKU-1434",
+    "ean": "7897441507485",
+    "nome": "Refrigerante Guaraná Pureza 350ml",
+    "descricao": "Refrigerante Guaraná da marca Pureza, apresentação 350ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1435,
+    "sku": "SKU-1435",
+    "ean": "7891126485179",
+    "nome": "Feijão Preto Serrana 1kg",
+    "descricao": "Feijão Preto da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1436,
+    "sku": "SKU-1436",
+    "ean": "7894488552643",
+    "nome": "Limpador Multiuso Brilhante 500ml",
+    "descricao": "Limpador Multiuso da marca Brilhante, apresentação 500ml.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1437,
+    "sku": "SKU-1437",
+    "ean": "7893118448068",
+    "nome": "Shampoo Anticaspa Serrana 400ml",
+    "descricao": "Shampoo Anticaspa da marca Serrana, apresentação 400ml.",
+    "marca": "Serrana",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1438,
+    "sku": "SKU-1438",
+    "ean": "7898745215032",
+    "nome": "Farinha de Trigo Ouro Fino 5kg",
+    "descricao": "Farinha de Trigo da marca Ouro Fino, apresentação 5kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1439,
+    "sku": "SKU-1439",
+    "ean": "7896416564416",
+    "nome": "Farinha de Trigo Do Campo 1kg",
+    "descricao": "Farinha de Trigo da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1440,
+    "sku": "SKU-1440",
+    "ean": "7891616040783",
+    "nome": "Shampoo Anticaspa Nobre 400ml",
+    "descricao": "Shampoo Anticaspa da marca Nobre, apresentação 400ml.",
+    "marca": "Nobre",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1441,
+    "sku": "SKU-1441",
+    "ean": "7894483403591",
+    "nome": "Arroz Tipo 1 Estrela 5kg",
+    "descricao": "Arroz Tipo 1 da marca Estrela, apresentação 5kg.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1442,
+    "sku": "SKU-1442",
+    "ean": "7892144304371",
+    "nome": "Água Sanitária Primor 2L",
+    "descricao": "Água Sanitária da marca Primor, apresentação 2L.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1443,
+    "sku": "SKU-1443",
+    "ean": "7897180599923",
+    "nome": "Cerveja Pilsen São João 350ml",
+    "descricao": "Cerveja Pilsen da marca São João, apresentação 350ml.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1444,
+    "sku": "SKU-1444",
+    "ean": "7898745679016",
+    "nome": "Refrigerante Guaraná Ouro Fino 350ml",
+    "descricao": "Refrigerante Guaraná da marca Ouro Fino, apresentação 350ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1445,
+    "sku": "SKU-1445",
+    "ean": "7891892070645",
+    "nome": "Limpador Multiuso Estrela 500ml",
+    "descricao": "Limpador Multiuso da marca Estrela, apresentação 500ml.",
+    "marca": "Estrela",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1446,
+    "sku": "SKU-1446",
+    "ean": "7897182417677",
+    "nome": "Água Mineral sem Gás Serrana 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Serrana, apresentação 1,5L.",
+    "marca": "Serrana",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1447,
+    "sku": "SKU-1447",
+    "ean": "7895658670514",
+    "nome": "Sabonete em Barra Primor 90g",
+    "descricao": "Sabonete em Barra da marca Primor, apresentação 90g.",
+    "marca": "Primor",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1448,
+    "sku": "SKU-1448",
+    "ean": "7895100070549",
+    "nome": "Desinfetante Lavanda Pureza 2L",
+    "descricao": "Desinfetante Lavanda da marca Pureza, apresentação 2L.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1449,
+    "sku": "SKU-1449",
+    "ean": "7896540065710",
+    "nome": "Água Mineral sem Gás São João 1,5L",
+    "descricao": "Água Mineral sem Gás da marca São João, apresentação 1,5L.",
+    "marca": "São João",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1450,
+    "sku": "SKU-1450",
+    "ean": "7896987726065",
+    "nome": "Refrigerante Guaraná Nobre 2L",
+    "descricao": "Refrigerante Guaraná da marca Nobre, apresentação 2L.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1451,
+    "sku": "SKU-1451",
+    "ean": "7891739890679",
+    "nome": "Água Mineral sem Gás Pureza 500ml",
+    "descricao": "Água Mineral sem Gás da marca Pureza, apresentação 500ml.",
+    "marca": "Pureza",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1452,
+    "sku": "SKU-1452",
+    "ean": "7891902016092",
+    "nome": "Sabão em Pó Ouro Fino 800g",
+    "descricao": "Sabão em Pó da marca Ouro Fino, apresentação 800g.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1453,
+    "sku": "SKU-1453",
+    "ean": "7893535027792",
+    "nome": "Óleo de Soja Vale Verde 900ml",
+    "descricao": "Óleo de Soja da marca Vale Verde, apresentação 900ml.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1454,
+    "sku": "SKU-1454",
+    "ean": "7896009544739",
+    "nome": "Café Torrado e Moído Ouro Fino 500g",
+    "descricao": "Café Torrado e Moído da marca Ouro Fino, apresentação 500g.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1455,
+    "sku": "SKU-1455",
+    "ean": "7894305923322",
+    "nome": "Sal Refinado Do Campo 1kg",
+    "descricao": "Sal Refinado da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1456,
+    "sku": "SKU-1456",
+    "ean": "7897723310700",
+    "nome": "Água Mineral sem Gás Nobre 500ml",
+    "descricao": "Água Mineral sem Gás da marca Nobre, apresentação 500ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1457,
+    "sku": "SKU-1457",
+    "ean": "7893099544087",
+    "nome": "Leite Integral UHT Serrana 1L",
+    "descricao": "Leite Integral UHT da marca Serrana, apresentação 1L.",
+    "marca": "Serrana",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1458,
+    "sku": "SKU-1458",
+    "ean": "7897957377071",
+    "nome": "Limpador Multiuso Primor 500ml",
+    "descricao": "Limpador Multiuso da marca Primor, apresentação 500ml.",
+    "marca": "Primor",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1459,
+    "sku": "SKU-1459",
+    "ean": "7891777511859",
+    "nome": "Refrigerante Guaraná Ouro Fino 2L",
+    "descricao": "Refrigerante Guaraná da marca Ouro Fino, apresentação 2L.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1460,
+    "sku": "SKU-1460",
+    "ean": "7896029810767",
+    "nome": "Energético Estrela 250ml",
+    "descricao": "Energético da marca Estrela, apresentação 250ml.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1461,
+    "sku": "SKU-1461",
+    "ean": "7896674434944",
+    "nome": "Requeijão Cremoso Primor 200g",
+    "descricao": "Requeijão Cremoso da marca Primor, apresentação 200g.",
+    "marca": "Primor",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1462,
+    "sku": "SKU-1462",
+    "ean": "7896108422960",
+    "nome": "Água Sanitária Aurora 1L",
+    "descricao": "Água Sanitária da marca Aurora, apresentação 1L.",
+    "marca": "Aurora",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1463,
+    "sku": "SKU-1463",
+    "ean": "7898290378670",
+    "nome": "Açúcar Refinado Do Campo 5kg",
+    "descricao": "Açúcar Refinado da marca Do Campo, apresentação 5kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1464,
+    "sku": "SKU-1464",
+    "ean": "7892401235854",
+    "nome": "Arroz Tipo 1 Do Campo 5kg",
+    "descricao": "Arroz Tipo 1 da marca Do Campo, apresentação 5kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1465,
+    "sku": "SKU-1465",
+    "ean": "7894422054246",
+    "nome": "Arroz Tipo 1 Do Campo 1kg",
+    "descricao": "Arroz Tipo 1 da marca Do Campo, apresentação 1kg.",
+    "marca": "Do Campo",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1466,
+    "sku": "SKU-1466",
+    "ean": "7896406117828",
+    "nome": "Óleo de Soja Estrela 900ml",
+    "descricao": "Óleo de Soja da marca Estrela, apresentação 900ml.",
+    "marca": "Estrela",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1467,
+    "sku": "SKU-1467",
+    "ean": "7894684793881",
+    "nome": "Sabonete em Barra Estrela 90g",
+    "descricao": "Sabonete em Barra da marca Estrela, apresentação 90g.",
+    "marca": "Estrela",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1468,
+    "sku": "SKU-1468",
+    "ean": "7896527536040",
+    "nome": "Farinha de Trigo Ouro Fino 1kg",
+    "descricao": "Farinha de Trigo da marca Ouro Fino, apresentação 1kg.",
+    "marca": "Ouro Fino",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1469,
+    "sku": "SKU-1469",
+    "ean": "7896516101092",
+    "nome": "Café Torrado e Moído Brilhante 500g",
+    "descricao": "Café Torrado e Moído da marca Brilhante, apresentação 500g.",
+    "marca": "Brilhante",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1470,
+    "sku": "SKU-1470",
+    "ean": "7894940744148",
+    "nome": "Refrigerante Guaraná Estrela 350ml",
+    "descricao": "Refrigerante Guaraná da marca Estrela, apresentação 350ml.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1471,
+    "sku": "SKU-1471",
+    "ean": "7898007061351",
+    "nome": "Desodorante Aerossol Vale Verde 150ml",
+    "descricao": "Desodorante Aerossol da marca Vale Verde, apresentação 150ml.",
+    "marca": "Vale Verde",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1472,
+    "sku": "SKU-1472",
+    "ean": "7892389215780",
+    "nome": "Escova de Dentes Macia Do Campo unidade",
+    "descricao": "Escova de Dentes Macia da marca Do Campo, apresentação unidade.",
+    "marca": "Do Campo",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1473,
+    "sku": "SKU-1473",
+    "ean": "7893333549918",
+    "nome": "Limpador Multiuso Do Campo 500ml",
+    "descricao": "Limpador Multiuso da marca Do Campo, apresentação 500ml.",
+    "marca": "Do Campo",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1474,
+    "sku": "SKU-1474",
+    "ean": "7891478857014",
+    "nome": "Requeijão Cremoso Serrana 200g",
+    "descricao": "Requeijão Cremoso da marca Serrana, apresentação 200g.",
+    "marca": "Serrana",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1475,
+    "sku": "SKU-1475",
+    "ean": "7898653657878",
+    "nome": "Sabão em Pó São João 800g",
+    "descricao": "Sabão em Pó da marca São João, apresentação 800g.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1476,
+    "sku": "SKU-1476",
+    "ean": "7893931783825",
+    "nome": "Água Mineral sem Gás Do Campo 1,5L",
+    "descricao": "Água Mineral sem Gás da marca Do Campo, apresentação 1,5L.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1477,
+    "sku": "SKU-1477",
+    "ean": "7894577959777",
+    "nome": "Água Sanitária Brilhante 1L",
+    "descricao": "Água Sanitária da marca Brilhante, apresentação 1L.",
+    "marca": "Brilhante",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1478,
+    "sku": "SKU-1478",
+    "ean": "7894880517359",
+    "nome": "Limpador Multiuso Vale Verde 500ml",
+    "descricao": "Limpador Multiuso da marca Vale Verde, apresentação 500ml.",
+    "marca": "Vale Verde",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1479,
+    "sku": "SKU-1479",
+    "ean": "7892807902698",
+    "nome": "Cerveja Pilsen Do Campo 350ml",
+    "descricao": "Cerveja Pilsen da marca Do Campo, apresentação 350ml.",
+    "marca": "Do Campo",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1480,
+    "sku": "SKU-1480",
+    "ean": "7891066139519",
+    "nome": "Farinha de Trigo Vale Verde 5kg",
+    "descricao": "Farinha de Trigo da marca Vale Verde, apresentação 5kg.",
+    "marca": "Vale Verde",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1481,
+    "sku": "SKU-1481",
+    "ean": "7898867188624",
+    "nome": "Água Sanitária Ouro Fino 2L",
+    "descricao": "Água Sanitária da marca Ouro Fino, apresentação 2L.",
+    "marca": "Ouro Fino",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1482,
+    "sku": "SKU-1482",
+    "ean": "7899355843363",
+    "nome": "Refrigerante Cola Vale Verde 2L",
+    "descricao": "Refrigerante Cola da marca Vale Verde, apresentação 2L.",
+    "marca": "Vale Verde",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1483,
+    "sku": "SKU-1483",
+    "ean": "7896620373706",
+    "nome": "Cerveja Pilsen Nobre 350ml",
+    "descricao": "Cerveja Pilsen da marca Nobre, apresentação 350ml.",
+    "marca": "Nobre",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1484,
+    "sku": "SKU-1484",
+    "ean": "7897391184631",
+    "nome": "Macarrão Espaguete Pureza 1kg",
+    "descricao": "Macarrão Espaguete da marca Pureza, apresentação 1kg.",
+    "marca": "Pureza",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1485,
+    "sku": "SKU-1485",
+    "ean": "7891296702601",
+    "nome": "Cerveja Pilsen Primor 350ml",
+    "descricao": "Cerveja Pilsen da marca Primor, apresentação 350ml.",
+    "marca": "Primor",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1486,
+    "sku": "SKU-1486",
+    "ean": "7896802915937",
+    "nome": "Papel Higiênico Folha Dupla Brilhante 30m",
+    "descricao": "Papel Higiênico Folha Dupla da marca Brilhante, apresentação 30m.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1487,
+    "sku": "SKU-1487",
+    "ean": "7894203837014",
+    "nome": "Iogurte Natural Bom Grão 170g",
+    "descricao": "Iogurte Natural da marca Bom Grão, apresentação 170g.",
+    "marca": "Bom Grão",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1488,
+    "sku": "SKU-1488",
+    "ean": "7894594376967",
+    "nome": "Escova de Dentes Macia Brilhante unidade",
+    "descricao": "Escova de Dentes Macia da marca Brilhante, apresentação unidade.",
+    "marca": "Brilhante",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1489,
+    "sku": "SKU-1489",
+    "ean": "7894615642559",
+    "nome": "Água Sanitária São João 2L",
+    "descricao": "Água Sanitária da marca São João, apresentação 2L.",
+    "marca": "São João",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1490,
+    "sku": "SKU-1490",
+    "ean": "7894168217167",
+    "nome": "Refrigerante Guaraná Estrela 2L",
+    "descricao": "Refrigerante Guaraná da marca Estrela, apresentação 2L.",
+    "marca": "Estrela",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1491,
+    "sku": "SKU-1491",
+    "ean": "7897888115047",
+    "nome": "Sabão em Pó Nobre 800g",
+    "descricao": "Sabão em Pó da marca Nobre, apresentação 800g.",
+    "marca": "Nobre",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1492,
+    "sku": "SKU-1492",
+    "ean": "7892283470907",
+    "nome": "Detergente Líquido Pureza 500ml",
+    "descricao": "Detergente Líquido da marca Pureza, apresentação 500ml.",
+    "marca": "Pureza",
+    "categoria": "Limpeza",
+    "ativo": true
+  },
+  {
+    "id": 1493,
+    "sku": "SKU-1493",
+    "ean": "7893689470060",
+    "nome": "Açúcar Refinado Serrana 1kg",
+    "descricao": "Açúcar Refinado da marca Serrana, apresentação 1kg.",
+    "marca": "Serrana",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1494,
+    "sku": "SKU-1494",
+    "ean": "7895271313237",
+    "nome": "Shampoo Anticaspa São João 200ml",
+    "descricao": "Shampoo Anticaspa da marca São João, apresentação 200ml.",
+    "marca": "São João",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1495,
+    "sku": "SKU-1495",
+    "ean": "7899358060211",
+    "nome": "Queijo Muçarela Fatiado Do Campo 150g",
+    "descricao": "Queijo Muçarela Fatiado da marca Do Campo, apresentação 150g.",
+    "marca": "Do Campo",
+    "categoria": "Frios e Laticínios",
+    "ativo": true
+  },
+  {
+    "id": 1496,
+    "sku": "SKU-1496",
+    "ean": "7897277090486",
+    "nome": "Macarrão Espaguete São João 500g",
+    "descricao": "Macarrão Espaguete da marca São João, apresentação 500g.",
+    "marca": "São João",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1497,
+    "sku": "SKU-1497",
+    "ean": "7895344630745",
+    "nome": "Shampoo Anticaspa Pureza 200ml",
+    "descricao": "Shampoo Anticaspa da marca Pureza, apresentação 200ml.",
+    "marca": "Pureza",
+    "categoria": "Higiene",
+    "ativo": true
+  },
+  {
+    "id": 1498,
+    "sku": "SKU-1498",
+    "ean": "7893153708086",
+    "nome": "Água Mineral sem Gás Ouro Fino 500ml",
+    "descricao": "Água Mineral sem Gás da marca Ouro Fino, apresentação 500ml.",
+    "marca": "Ouro Fino",
+    "categoria": "Bebidas",
+    "ativo": true
+  },
+  {
+    "id": 1499,
+    "sku": "SKU-1499",
+    "ean": "7896881081398",
+    "nome": "Açúcar Refinado Bom Grão 5kg",
+    "descricao": "Açúcar Refinado da marca Bom Grão, apresentação 5kg.",
+    "marca": "Bom Grão",
+    "categoria": "Mercearia",
+    "ativo": true
+  },
+  {
+    "id": 1500,
+    "sku": "SKU-1500",
+    "ean": "7892408704586",
+    "nome": "Água Mineral sem Gás Bom Grão 500ml",
+    "descricao": null,
+    "marca": "Bom Grão",
+    "categoria": "Bebidas",
+    "ativo": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "produto_id": 1152,
+    "percentual_desconto": 20,
+    "inicio": "2026-11-12",
+    "fim": "2030-12-31"
+  },
+  {
+    "id": 2,
+    "produto_id": 1007,
+    "percentual_desconto": 10,
+    "inicio": "2026-09-14",
+    "fim": "2026-11-06"
+  },
+  {
+    "id": 3,
+    "produto_id": 1182,
+    "percentual_desconto": 5,
+    "inicio": "2030-01-01",
+    "fim": "2030-12-31"
+  }
+]

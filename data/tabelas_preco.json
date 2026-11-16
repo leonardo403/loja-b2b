@@ -1,0 +1,4054 @@
+[
+  {
+    "codigo": "PADRAO",
+    "descricao": "Tabela padrão",
+    "itens": [
+      {
+        "produto_id": 1001,
+        "preco": 3.07,
+        "preco_atacado": 2.76,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1002,
+        "preco": 10.91
+      },
+      {
+        "produto_id": 1003,
+        "preco": 9.26
+      },
+      {
+        "produto_id": 1004,
+        "preco": 10.7,
+        "preco_atacado": 9.63,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1005,
+        "preco": 18.84
+      },
+      {
+        "produto_id": 1006,
+        "preco": 5.19
+      },
+      {
+        "produto_id": 1007,
+        "preco": 5.95
+      },
+      {
+        "produto_id": 1008,
+        "preco": 13.77
+      },
+      {
+        "produto_id": 1009,
+        "preco": 8.96
+      },
+      {
+        "produto_id": 1010,
+        "preco": 34.95
+      },
+      {
+        "produto_id": 1011,
+        "preco": 10.42
+      },
+      {
+        "produto_id": 1012,
+        "preco": 7.7,
+        "preco_atacado": 6.93,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1013,
+        "preco": 6.27
+      },
+      {
+        "produto_id": 1014,
+        "preco": 2.68,
+        "preco_atacado": 2.41,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1015,
+        "preco": 9.61
+      },
+      {
+        "produto_id": 1016,
+        "preco": 25.79
+      },
+      {
+        "produto_id": 1017,
+        "preco": 5.32
+      },
+      {
+        "produto_id": 1018,
+        "preco": 10.35
+      },
+      {
+        "produto_id": 1019,
+        "preco": 6.82
+      },
+      {
+        "produto_id": 1020,
+        "preco": 11.71
+      },
+      {
+        "produto_id": 1021,
+        "preco": 2.44
+      },
+      {
+        "produto_id": 1022,
+        "preco": 3.61
+      },
+      {
+        "produto_id": 1023,
+        "preco": 4.83
+      },
+      {
+        "produto_id": 1024,
+        "preco": 5.38,
+        "preco_atacado": 4.84,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1025,
+        "preco": 3.03
+      },
+      {
+        "produto_id": 1026,
+        "preco": 18.95,
+        "preco_atacado": 17.05,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1027,
+        "preco": 7.26
+      },
+      {
+        "produto_id": 1028,
+        "preco": 6.0
+      },
+      {
+        "produto_id": 1029,
+        "preco": 7.02
+      },
+      {
+        "produto_id": 1030,
+        "preco": 6.49
+      },
+      {
+        "produto_id": 1031,
+        "preco": 11.86
+      },
+      {
+        "produto_id": 1032,
+        "preco": 11.23
+      },
+      {
+        "produto_id": 1033,
+        "preco": 9.98
+      },
+      {
+        "produto_id": 1034,
+        "preco": 6.98
+      },
+      {
+        "produto_id": 1035,
+        "preco": 6.84
+      },
+      {
+        "produto_id": 1036,
+        "preco": 3.03
+      },
+      {
+        "produto_id": 1037,
+        "preco": 3.64
+      },
+      {
+        "produto_id": 1038,
+        "preco": 15.32
+      },
+      {
+        "produto_id": 1039,
+        "preco": 31.06
+      },
+      {
+        "produto_id": 1040,
+        "preco": 6.05
+      },
+      {
+        "produto_id": 1041,
+        "preco": 24.78
+      },
+      {
+        "produto_id": 1042,
+        "preco": 33.89
+      },
+      {
+        "produto_id": 1043,
+        "preco": 3.83
+      },
+      {
+        "produto_id": 1044,
+        "preco": 4.5
+      },
+      {
+        "produto_id": 1045,
+        "preco": 12.87
+      },
+      {
+        "produto_id": 1046,
+        "preco": 7.45
+      },
+      {
+        "produto_id": 1047,
+        "preco": 32.06
+      },
+      {
+        "produto_id": 1048,
+        "preco": 5.94
+      },
+      {
+        "produto_id": 1049,
+        "preco": 5.45
+      },
+      {
+        "produto_id": 1050,
+        "preco": 6.47
+      },
+      {
+        "produto_id": 1051,
+        "preco": 3.31
+      },
+      {
+        "produto_id": 1052,
+        "preco": 16.62
+      },
+      {
+        "produto_id": 1053,
+        "preco": 6.81
+      },
+      {
+        "produto_id": 1054,
+        "preco": 12.58
+      },
+      {
+        "produto_id": 1055,
+        "preco": 3.56
+      },
+      {
+        "produto_id": 1056,
+        "preco": 8.66
+      },
+      {
+        "produto_id": 1057,
+        "preco": 12.74
+      },
+      {
+        "produto_id": 1058,
+        "preco": 5.76,
+        "preco_atacado": 5.18,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1059,
+        "preco": 6.45,
+        "preco_atacado": 5.81,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1060,
+        "preco": 4.74
+      },
+      {
+        "produto_id": 1061,
+        "preco": 7.46
+      },
+      {
+        "produto_id": 1062,
+        "preco": 7.56
+      },
+      {
+        "produto_id": 1063,
+        "preco": 10.72,
+        "preco_atacado": 9.65,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1064,
+        "preco": 17.2
+      },
+      {
+        "produto_id": 1065,
+        "preco": 12.07
+      },
+      {
+        "produto_id": 1066,
+        "preco": 4.03
+      },
+      {
+        "produto_id": 1067,
+        "preco": 32.61
+      },
+      {
+        "produto_id": 1068,
+        "preco": 10.54
+      },
+      {
+        "produto_id": 1069,
+        "preco": 7.8
+      },
+      {
+        "produto_id": 1070,
+        "preco": 10.28
+      },
+      {
+        "produto_id": 1071,
+        "preco": 11.13,
+        "preco_atacado": 10.02,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1072,
+        "preco": 13.14
+      },
+      {
+        "produto_id": 1073,
+        "preco": 13.81
+      },
+      {
+        "produto_id": 1074,
+        "preco": 2.57
+      },
+      {
+        "produto_id": 1075,
+        "preco": 17.41,
+        "preco_atacado": 15.67,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1076,
+        "preco": 4.92
+      },
+      {
+        "produto_id": 1077,
+        "preco": 5.42
+      },
+      {
+        "produto_id": 1078,
+        "preco": 2.28
+      },
+      {
+        "produto_id": 1079,
+        "preco": 18.0
+      },
+      {
+        "produto_id": 1080,
+        "preco": 4.76
+      },
+      {
+        "produto_id": 1081,
+        "preco": 3.89,
+        "preco_atacado": 3.5,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1082,
+        "preco": 8.86
+      },
+      {
+        "produto_id": 1083,
+        "preco": 34.63
+      },
+      {
+        "produto_id": 1084,
+        "preco": 3.83
+      },
+      {
+        "produto_id": 1085,
+        "preco": 15.31
+      },
+      {
+        "produto_id": 1086,
+        "preco": 4.84
+      },
+      {
+        "produto_id": 1087,
+        "preco": 6.99
+      },
+      {
+        "produto_id": 1088,
+        "preco": 19.02,
+        "preco_atacado": 17.12,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1089,
+        "preco": 6.46
+      },
+      {
+        "produto_id": 1090,
+        "preco": 2.47
+      },
+      {
+        "produto_id": 1091,
+        "preco": 6.74
+      },
+      {
+        "produto_id": 1092,
+        "preco": 3.99
+      },
+      {
+        "produto_id": 1093,
+        "preco": 20.08
+      },
+      {
+        "produto_id": 1094,
+        "preco": 6.04
+      },
+      {
+        "produto_id": 1095,
+        "preco": 12.33
+      },
+      {
+        "produto_id": 1096,
+        "preco": 8.3
+      },
+      {
+        "produto_id": 1097,
+        "preco": 7.38
+      },
+      {
+        "produto_id": 1098,
+        "preco": 5.96
+      },
+      {
+        "produto_id": 1099,
+        "preco": 7.29
+      },
+      {
+        "produto_id": 1100,
+        "preco": 9.98
+      },
+      {
+        "produto_id": 1101,
+        "preco": 3.15
+      },
+      {
+        "produto_id": 1102,
+        "preco": 16.2
+      },
+      {
+        "produto_id": 1103,
+        "preco": 32.79
+      },
+      {
+        "produto_id": 1104,
+        "preco": 8.08
+      },
+      {
+        "produto_id": 1105,
+        "preco": 12.31,
+        "preco_atacado": 11.08,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1106,
+        "preco": 3.24
+      },
+      {
+        "produto_id": 1107,
+        "preco": 3.78
+      },
+      {
+        "produto_id": 1108,
+        "preco": 2.88
+      },
+      {
+        "produto_id": 1109,
+        "preco": 11.61
+      },
+      {
+        "produto_id": 1110,
+        "preco": 8.23
+      },
+      {
+        "produto_id": 1111,
+        "preco": 5.41
+      },
+      {
+        "produto_id": 1112,
+        "preco": 3.64
+      },
+      {
+        "produto_id": 1113,
+        "preco": 5.51
+      },
+      {
+        "produto_id": 1114,
+        "preco": 3.34
+      },
+      {
+        "produto_id": 1115,
+        "preco": 8.51
+      },
+      {
+        "produto_id": 1116,
+        "preco": 2.79
+      },
+      {
+        "produto_id": 1117,
+        "preco": 13.4
+      },
+      {
+        "produto_id": 1118,
+        "preco": 12.38
+      },
+      {
+        "produto_id": 1119,
+        "preco": 13.05,
+        "preco_atacado": 11.75,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1120,
+        "preco": 4.12,
+        "preco_atacado": 3.71,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1121,
+        "preco": 7.14,
+        "preco_atacado": 6.43,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1122,
+        "preco": 11.59
+      },
+      {
+        "produto_id": 1123,
+        "preco": 4.17
+      },
+      {
+        "produto_id": 1124,
+        "preco": 3.22
+      },
+      {
+        "produto_id": 1125,
+        "preco": 8.13
+      },
+      {
+        "produto_id": 1126,
+        "preco": 29.34,
+        "preco_atacado": 26.41,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1127,
+        "preco": 28.53
+      },
+      {
+        "produto_id": 1128,
+        "preco": 26.29
+      },
+      {
+        "produto_id": 1129,
+        "preco": 12.94
+      },
+      {
+        "produto_id": 1130,
+        "preco": 3.24
+      },
+      {
+        "produto_id": 1131,
+        "preco": 8.43,
+        "preco_atacado": 7.59,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1132,
+        "preco": 3.3
+      },
+      {
+        "produto_id": 1133,
+        "preco": 12.13
+      },
+      {
+        "produto_id": 1134,
+        "preco": 25.15
+      },
+      {
+        "produto_id": 1135,
+        "preco": 5.13
+      },
+      {
+        "produto_id": 1136,
+        "preco": 12.49
+      },
+      {
+        "produto_id": 1137,
+        "preco": 33.64
+      },
+      {
+        "produto_id": 1138,
+        "preco": 14.54
+      },
+      {
+        "produto_id": 1139,
+        "preco": 6.58
+      },
+      {
+        "produto_id": 1140,
+        "preco": 9.61
+      },
+      {
+        "produto_id": 1141,
+        "preco": 4.14
+      },
+      {
+        "produto_id": 1142,
+        "preco": 4.43
+      },
+      {
+        "produto_id": 1143,
+        "preco": 13.7
+      },
+      {
+        "produto_id": 1144,
+        "preco": 10.71
+      },
+      {
+        "produto_id": 1145,
+        "preco": 3.59
+      },
+      {
+        "produto_id": 1146,
+        "preco": 11.81,
+        "preco_atacado": 10.63,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1147,
+        "preco": 8.3
+      },
+      {
+        "produto_id": 1148,
+        "preco": 8.6
+      },
+      {
+        "produto_id": 1149,
+        "preco": 13.24,
+        "preco_atacado": 11.92,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1150,
+        "preco": 4.08,
+        "preco_atacado": 3.67,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1151,
+        "preco": 7.81
+      },
+      {
+        "produto_id": 1152,
+        "preco": 16.35
+      },
+      {
+        "produto_id": 1153,
+        "preco": 9.4
+      },
+      {
+        "produto_id": 1154,
+        "preco": 6.4
+      },
+      {
+        "produto_id": 1155,
+        "preco": 3.54
+      },
+      {
+        "produto_id": 1156,
+        "preco": 11.52
+      },
+      {
+        "produto_id": 1157,
+        "preco": 18.19
+      },
+      {
+        "produto_id": 1158,
+        "preco": 13.88
+      },
+      {
+        "produto_id": 1159,
+        "preco": 24.71
+      },
+      {
+        "produto_id": 1160,
+        "preco": 3.42
+      },
+      {
+        "produto_id": 1161,
+        "preco": 8.17,
+        "preco_atacado": 7.35,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1162,
+        "preco": 2.32,
+        "preco_atacado": 2.09,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1163,
+        "preco": 3.68
+      },
+      {
+        "produto_id": 1164,
+        "preco": 13.21
+      },
+      {
+        "produto_id": 1165,
+        "preco": 9.0
+      },
+      {
+        "produto_id": 1166,
+        "preco": 3.09
+      },
+      {
+        "produto_id": 1167,
+        "preco": 30.85
+      },
+      {
+        "produto_id": 1168,
+        "preco": 10.53
+      },
+      {
+        "produto_id": 1169,
+        "preco": 7.3
+      },
+      {
+        "produto_id": 1170,
+        "preco": 5.67
+      },
+      {
+        "produto_id": 1171,
+        "preco": 2.88
+      },
+      {
+        "produto_id": 1172,
+        "preco": 2.71
+      },
+      {
+        "produto_id": 1173,
+        "preco": 14.94
+      },
+      {
+        "produto_id": 1174,
+        "preco": 7.87
+      },
+      {
+        "produto_id": 1175,
+        "preco": 12.51,
+        "preco_atacado": 11.26,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1176,
+        "preco": 7.79
+      },
+      {
+        "produto_id": 1177,
+        "preco": 23.16
+      },
+      {
+        "produto_id": 1178,
+        "preco": 4.11
+      },
+      {
+        "produto_id": 1179,
+        "preco": 28.87
+      },
+      {
+        "produto_id": 1180,
+        "preco": 4.54
+      },
+      {
+        "produto_id": 1181,
+        "preco": 13.18
+      },
+      {
+        "produto_id": 1182,
+        "preco": 8.48
+      },
+      {
+        "produto_id": 1183,
+        "preco": 4.68
+      },
+      {
+        "produto_id": 1184,
+        "preco": 4.25
+      },
+      {
+        "produto_id": 1185,
+        "preco": 4.91
+      },
+      {
+        "produto_id": 1186,
+        "preco": 7.44,
+        "preco_atacado": 6.7,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1187,
+        "preco": 6.97,
+        "preco_atacado": 6.27,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1188,
+        "preco": 3.15
+      },
+      {
+        "produto_id": 1189,
+        "preco": 14.72,
+        "preco_atacado": 13.25,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1190,
+        "preco": 10.59
+      },
+      {
+        "produto_id": 1191,
+        "preco": 13.25
+      },
+      {
+        "produto_id": 1192,
+        "preco": 6.94
+      },
+      {
+        "produto_id": 1193,
+        "preco": 3.02
+      },
+      {
+        "produto_id": 1194,
+        "preco": 15.12
+      },
+      {
+        "produto_id": 1195,
+        "preco": 7.69
+      },
+      {
+        "produto_id": 1196,
+        "preco": 8.43
+      },
+      {
+        "produto_id": 1197,
+        "preco": 6.39,
+        "preco_atacado": 5.75,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1198,
+        "preco": 3.26
+      },
+      {
+        "produto_id": 1199,
+        "preco": 11.19
+      },
+      {
+        "produto_id": 1200,
+        "preco": 2.64
+      },
+      {
+        "produto_id": 1201,
+        "preco": 7.37
+      },
+      {
+        "produto_id": 1202,
+        "preco": 6.33
+      },
+      {
+        "produto_id": 1203,
+        "preco": 28.91
+      },
+      {
+        "produto_id": 1204,
+        "preco": 21.01
+      },
+      {
+        "produto_id": 1205,
+        "preco": 13.99
+      },
+      {
+        "produto_id": 1206,
+        "preco": 6.11
+      },
+      {
+        "produto_id": 1207,
+        "preco": 2.62
+      },
+      {
+        "produto_id": 1208,
+        "preco": 17.2
+      },
+      {
+        "produto_id": 1209,
+        "preco": 8.92
+      },
+      {
+        "produto_id": 1210,
+        "preco": 11.2
+      },
+      {
+        "produto_id": 1211,
+        "preco": 11.49
+      },
+      {
+        "produto_id": 1212,
+        "preco": 15.63
+      },
+      {
+        "produto_id": 1213,
+        "preco": 8.7
+      },
+      {
+        "produto_id": 1214,
+        "preco": 8.32
+      },
+      {
+        "produto_id": 1215,
+        "preco": 7.1
+      },
+      {
+        "produto_id": 1216,
+        "preco": 9.6
+      },
+      {
+        "produto_id": 1217,
+        "preco": 4.63
+      },
+      {
+        "produto_id": 1218,
+        "preco": 9.45,
+        "preco_atacado": 8.5,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1219,
+        "preco": 4.79
+      },
+      {
+        "produto_id": 1220,
+        "preco": 6.9,
+        "preco_atacado": 6.21,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1221,
+        "preco": 9.13
+      },
+      {
+        "produto_id": 1222,
+        "preco": 6.19
+      },
+      {
+        "produto_id": 1223,
+        "preco": 6.1
+      },
+      {
+        "produto_id": 1224,
+        "preco": 4.65
+      },
+      {
+        "produto_id": 1225,
+        "preco": 22.61
+      },
+      {
+        "produto_id": 1226,
+        "preco": 6.7
+      },
+      {
+        "produto_id": 1227,
+        "preco": 11.22
+      },
+      {
+        "produto_id": 1228,
+        "preco": 5.93
+      },
+      {
+        "produto_id": 1229,
+        "preco": 4.29
+      },
+      {
+        "produto_id": 1230,
+        "preco": 6.03
+      },
+      {
+        "produto_id": 1231,
+        "preco": 2.43,
+        "preco_atacado": 2.19,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1232,
+        "preco": 6.09,
+        "preco_atacado": 5.48,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1233,
+        "preco": 8.07
+      },
+      {
+        "produto_id": 1234,
+        "preco": 6.18
+      },
+      {
+        "produto_id": 1235,
+        "preco": 8.12
+      },
+      {
+        "produto_id": 1236,
+        "preco": 13.58
+      },
+      {
+        "produto_id": 1237,
+        "preco": 10.68
+      },
+      {
+        "produto_id": 1238,
+        "preco": 9.65,
+        "preco_atacado": 8.69,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1239,
+        "preco": 19.39
+      },
+      {
+        "produto_id": 1240,
+        "preco": 33.04
+      },
+      {
+        "produto_id": 1241,
+        "preco": 11.5
+      },
+      {
+        "produto_id": 1242,
+        "preco": 2.89
+      },
+      {
+        "produto_id": 1243,
+        "preco": 8.91,
+        "preco_atacado": 8.02,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1244,
+        "preco": 3.47
+      },
+      {
+        "produto_id": 1245,
+        "preco": 4.91
+      },
+      {
+        "produto_id": 1246,
+        "preco": 6.48
+      },
+      {
+        "produto_id": 1247,
+        "preco": 26.9
+      },
+      {
+        "produto_id": 1248,
+        "preco": 26.53
+      },
+      {
+        "produto_id": 1249,
+        "preco": 3.38
+      },
+      {
+        "produto_id": 1250,
+        "preco": 2.51
+      },
+      {
+        "produto_id": 1251,
+        "preco": 7.86
+      },
+      {
+        "produto_id": 1252,
+        "preco": 13.35
+      },
+      {
+        "produto_id": 1253,
+        "preco": 3.11
+      },
+      {
+        "produto_id": 1254,
+        "preco": 31.46
+      },
+      {
+        "produto_id": 1255,
+        "preco": 3.46
+      },
+      {
+        "produto_id": 1256,
+        "preco": 2.29,
+        "preco_atacado": 2.06,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1257,
+        "preco": 12.27
+      },
+      {
+        "produto_id": 1258,
+        "preco": 4.71
+      },
+      {
+        "produto_id": 1259,
+        "preco": 11.74
+      },
+      {
+        "produto_id": 1260,
+        "preco": 11.15,
+        "preco_atacado": 10.04,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1261,
+        "preco": 7.39
+      },
+      {
+        "produto_id": 1262,
+        "preco": 14.85
+      },
+      {
+        "produto_id": 1263,
+        "preco": 4.29
+      },
+      {
+        "produto_id": 1264,
+        "preco": 24.04
+      },
+      {
+        "produto_id": 1265,
+        "preco": 13.81,
+        "preco_atacado": 12.43,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1266,
+        "preco": 6.74
+      },
+      {
+        "produto_id": 1267,
+        "preco": 5.88
+      },
+      {
+        "produto_id": 1268,
+        "preco": 18.98
+      },
+      {
+        "produto_id": 1269,
+        "preco": 9.28
+      },
+      {
+        "produto_id": 1270,
+        "preco": 35.42
+      },
+      {
+        "produto_id": 1271,
+        "preco": 16.69
+      },
+      {
+        "produto_id": 1272,
+        "preco": 14.11
+      },
+      {
+        "produto_id": 1273,
+        "preco": 2.86
+      },
+      {
+        "produto_id": 1274,
+        "preco": 10.89
+      },
+      {
+        "produto_id": 1275,
+        "preco": 2.48
+      },
+      {
+        "produto_id": 1276,
+        "preco": 10.93
+      },
+      {
+        "produto_id": 1277,
+        "preco": 11.91
+      },
+      {
+        "produto_id": 1278,
+        "preco": 8.29
+      },
+      {
+        "produto_id": 1279,
+        "preco": 15.86
+      },
+      {
+        "produto_id": 1280,
+        "preco": 17.9
+      },
+      {
+        "produto_id": 1281,
+        "preco": 7.09
+      },
+      {
+        "produto_id": 1282,
+        "preco": 8.48
+      },
+      {
+        "produto_id": 1283,
+        "preco": 8.11,
+        "preco_atacado": 7.3,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1284,
+        "preco": 9.24
+      },
+      {
+        "produto_id": 1285,
+        "preco": 6.11
+      },
+      {
+        "produto_id": 1286,
+        "preco": 4.81
+      },
+      {
+        "produto_id": 1287,
+        "preco": 3.78
+      },
+      {
+        "produto_id": 1288,
+        "preco": 9.74
+      },
+      {
+        "produto_id": 1289,
+        "preco": 6.11,
+        "preco_atacado": 5.5,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1290,
+        "preco": 9.1
+      },
+      {
+        "produto_id": 1291,
+        "preco": 11.6
+      },
+      {
+        "produto_id": 1292,
+        "preco": 5.91
+      },
+      {
+        "produto_id": 1293,
+        "preco": 27.39
+      },
+      {
+        "produto_id": 1294,
+        "preco": 7.68,
+        "preco_atacado": 6.91,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1295,
+        "preco": 8.61
+      },
+      {
+        "produto_id": 1296,
+        "preco": 9.91
+      },
+      {
+        "produto_id": 1297,
+        "preco": 7.63
+      },
+      {
+        "produto_id": 1298,
+        "preco": 3.7,
+        "preco_atacado": 3.33,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1299,
+        "preco": 10.44
+      },
+      {
+        "produto_id": 1300,
+        "preco": 2.48
+      },
+      {
+        "produto_id": 1301,
+        "preco": 3.51
+      },
+      {
+        "produto_id": 1302,
+        "preco": 15.08
+      },
+      {
+        "produto_id": 1303,
+        "preco": 11.22
+      },
+      {
+        "produto_id": 1304,
+        "preco": 6.1
+      },
+      {
+        "produto_id": 1305,
+        "preco": 2.61,
+        "preco_atacado": 2.35,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1306,
+        "preco": 10.56,
+        "preco_atacado": 9.5,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1307,
+        "preco": 4.67
+      },
+      {
+        "produto_id": 1308,
+        "preco": 10.87
+      },
+      {
+        "produto_id": 1309,
+        "preco": 12.53
+      },
+      {
+        "produto_id": 1310,
+        "preco": 6.46,
+        "preco_atacado": 5.81,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1311,
+        "preco": 12.6
+      },
+      {
+        "produto_id": 1312,
+        "preco": 17.95
+      },
+      {
+        "produto_id": 1313,
+        "preco": 6.35
+      },
+      {
+        "produto_id": 1314,
+        "preco": 7.03
+      },
+      {
+        "produto_id": 1315,
+        "preco": 6.81
+      },
+      {
+        "produto_id": 1316,
+        "preco": 13.3
+      },
+      {
+        "produto_id": 1317,
+        "preco": 13.83
+      },
+      {
+        "produto_id": 1318,
+        "preco": 8.13,
+        "preco_atacado": 7.32,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1319,
+        "preco": 8.2
+      },
+      {
+        "produto_id": 1320,
+        "preco": 4.38
+      },
+      {
+        "produto_id": 1321,
+        "preco": 28.49,
+        "preco_atacado": 25.64,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1322,
+        "preco": 7.41
+      },
+      {
+        "produto_id": 1323,
+        "preco": 6.44
+      },
+      {
+        "produto_id": 1324,
+        "preco": 3.65,
+        "preco_atacado": 3.29,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1325,
+        "preco": 11.81
+      },
+      {
+        "produto_id": 1326,
+        "preco": 2.46
+      },
+      {
+        "produto_id": 1327,
+        "preco": 5.1
+      },
+      {
+        "produto_id": 1328,
+        "preco": 8.17
+      },
+      {
+        "produto_id": 1329,
+        "preco": 13.69
+      },
+      {
+        "produto_id": 1330,
+        "preco": 3.53,
+        "preco_atacado": 3.18,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1331,
+        "preco": 2.7
+      },
+      {
+        "produto_id": 1332,
+        "preco": 8.59
+      },
+      {
+        "produto_id": 1333,
+        "preco": 2.72
+      },
+      {
+        "produto_id": 1334,
+        "preco": 14.83,
+        "preco_atacado": 13.35,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1335,
+        "preco": 23.13,
+        "preco_atacado": 20.82,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1336,
+        "preco": 9.78
+      },
+      {
+        "produto_id": 1337,
+        "preco": 13.92
+      },
+      {
+        "produto_id": 1338,
+        "preco": 7.31
+      },
+      {
+        "produto_id": 1339,
+        "preco": 12.66
+      },
+      {
+        "produto_id": 1340,
+        "preco": 6.46
+      },
+      {
+        "produto_id": 1341,
+        "preco": 19.9
+      },
+      {
+        "produto_id": 1342,
+        "preco": 16.42
+      },
+      {
+        "produto_id": 1343,
+        "preco": 9.76
+      },
+      {
+        "produto_id": 1344,
+        "preco": 26.54
+      },
+      {
+        "produto_id": 1345,
+        "preco": 8.81,
+        "preco_atacado": 7.93,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1346,
+        "preco": 8.09
+      },
+      {
+        "produto_id": 1347,
+        "preco": 35.23
+      },
+      {
+        "produto_id": 1348,
+        "preco": 10.82
+      },
+      {
+        "produto_id": 1349,
+        "preco": 14.34
+      },
+      {
+        "produto_id": 1350,
+        "preco": 10.01
+      },
+      {
+        "produto_id": 1351,
+        "preco": 33.53
+      },
+      {
+        "produto_id": 1352,
+        "preco": 6.59
+      },
+      {
+        "produto_id": 1353,
+        "preco": 9.75
+      },
+      {
+        "produto_id": 1354,
+        "preco": 3.45
+      },
+      {
+        "produto_id": 1355,
+        "preco": 6.78
+      },
+      {
+        "produto_id": 1356,
+        "preco": 11.52
+      },
+      {
+        "produto_id": 1357,
+        "preco": 21.11,
+        "preco_atacado": 19.0,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1358,
+        "preco": 7.71
+      },
+      {
+        "produto_id": 1359,
+        "preco": 21.03
+      },
+      {
+        "produto_id": 1360,
+        "preco": 3.12
+      },
+      {
+        "produto_id": 1361,
+        "preco": 4.99,
+        "preco_atacado": 4.49,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1362,
+        "preco": 6.29
+      },
+      {
+        "produto_id": 1363,
+        "preco": 33.03,
+        "preco_atacado": 29.73,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1364,
+        "preco": 2.89,
+        "preco_atacado": 2.6,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1365,
+        "preco": 8.07
+      },
+      {
+        "produto_id": 1366,
+        "preco": 2.62
+      },
+      {
+        "produto_id": 1367,
+        "preco": 24.4,
+        "preco_atacado": 21.96,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1368,
+        "preco": 8.05
+      },
+      {
+        "produto_id": 1369,
+        "preco": 4.62
+      },
+      {
+        "produto_id": 1370,
+        "preco": 36.2
+      },
+      {
+        "produto_id": 1371,
+        "preco": 12.14
+      },
+      {
+        "produto_id": 1372,
+        "preco": 9.96
+      },
+      {
+        "produto_id": 1373,
+        "preco": 10.28,
+        "preco_atacado": 9.25,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1374,
+        "preco": 2.51
+      },
+      {
+        "produto_id": 1375,
+        "preco": 2.7
+      },
+      {
+        "produto_id": 1376,
+        "preco": 4.64
+      },
+      {
+        "produto_id": 1377,
+        "preco": 7.65
+      },
+      {
+        "produto_id": 1378,
+        "preco": 5.86
+      },
+      {
+        "produto_id": 1379,
+        "preco": 6.72
+      },
+      {
+        "produto_id": 1380,
+        "preco": 8.72
+      },
+      {
+        "produto_id": 1381,
+        "preco": 12.83
+      },
+      {
+        "produto_id": 1382,
+        "preco": 4.92,
+        "preco_atacado": 4.43,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1383,
+        "preco": 8.25
+      },
+      {
+        "produto_id": 1384,
+        "preco": 27.66
+      },
+      {
+        "produto_id": 1385,
+        "preco": 11.23
+      },
+      {
+        "produto_id": 1386,
+        "preco": 8.44
+      },
+      {
+        "produto_id": 1387,
+        "preco": 12.72
+      },
+      {
+        "produto_id": 1388,
+        "preco": 8.84
+      },
+      {
+        "produto_id": 1389,
+        "preco": 8.38
+      },
+      {
+        "produto_id": 1390,
+        "preco": 21.45
+      },
+      {
+        "produto_id": 1391,
+        "preco": 9.75,
+        "preco_atacado": 8.78,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1392,
+        "preco": 23.24
+      },
+      {
+        "produto_id": 1393,
+        "preco": 6.12
+      },
+      {
+        "produto_id": 1394,
+        "preco": 5.95
+      },
+      {
+        "produto_id": 1395,
+        "preco": 11.63
+      },
+      {
+        "produto_id": 1396,
+        "preco": 13.63
+      },
+      {
+        "produto_id": 1397,
+        "preco": 34.23,
+        "preco_atacado": 30.81,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1398,
+        "preco": 4.97
+      },
+      {
+        "produto_id": 1399,
+        "preco": 11.52
+      },
+      {
+        "produto_id": 1400,
+        "preco": 34.91
+      },
+      {
+        "produto_id": 1401,
+        "preco": 9.05
+      },
+      {
+        "produto_id": 1402,
+        "preco": 6.56,
+        "preco_atacado": 5.9,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1403,
+        "preco": 6.22
+      },
+      {
+        "produto_id": 1404,
+        "preco": 13.76
+      },
+      {
+        "produto_id": 1405,
+        "preco": 13.06,
+        "preco_atacado": 11.75,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1406,
+        "preco": 14.49
+      },
+      {
+        "produto_id": 1407,
+        "preco": 17.55
+      },
+      {
+        "produto_id": 1408,
+        "preco": 9.11
+      },
+      {
+        "produto_id": 1409,
+        "preco": 3.67,
+        "preco_atacado": 3.3,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1410,
+        "preco": 5.72
+      },
+      {
+        "produto_id": 1411,
+        "preco": 12.51
+      },
+      {
+        "produto_id": 1412,
+        "preco": 7.79
+      },
+      {
+        "produto_id": 1413,
+        "preco": 8.41
+      },
+      {
+        "produto_id": 1414,
+        "preco": 32.1
+      },
+      {
+        "produto_id": 1415,
+        "preco": 9.04
+      },
+      {
+        "produto_id": 1416,
+        "preco": 13.69
+      },
+      {
+        "produto_id": 1417,
+        "preco": 14.67
+      },
+      {
+        "produto_id": 1418,
+        "preco": 5.75
+      },
+      {
+        "produto_id": 1419,
+        "preco": 5.53
+      },
+      {
+        "produto_id": 1420,
+        "preco": 3.38
+      },
+      {
+        "produto_id": 1421,
+        "preco": 6.92
+      },
+      {
+        "produto_id": 1422,
+        "preco": 6.67
+      },
+      {
+        "produto_id": 1423,
+        "preco": 7.7
+      },
+      {
+        "produto_id": 1424,
+        "preco": 2.27
+      },
+      {
+        "produto_id": 1425,
+        "preco": 11.24
+      },
+      {
+        "produto_id": 1426,
+        "preco": 4.54
+      },
+      {
+        "produto_id": 1427,
+        "preco": 9.03
+      },
+      {
+        "produto_id": 1428,
+        "preco": 9.11
+      },
+      {
+        "produto_id": 1429,
+        "preco": 7.96
+      },
+      {
+        "produto_id": 1430,
+        "preco": 3.59
+      },
+      {
+        "produto_id": 1431,
+        "preco": 4.57
+      },
+      {
+        "produto_id": 1432,
+        "preco": 25.27
+      },
+      {
+        "produto_id": 1433,
+        "preco": 13.73
+      },
+      {
+        "produto_id": 1434,
+        "preco": 3.04,
+        "preco_atacado": 2.74,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1435,
+        "preco": 7.21,
+        "preco_atacado": 6.49,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1436,
+        "preco": 12.54
+      },
+      {
+        "produto_id": 1437,
+        "preco": 23.41
+      },
+      {
+        "produto_id": 1438,
+        "preco": 35.5,
+        "preco_atacado": 31.95,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1439,
+        "preco": 8.25
+      },
+      {
+        "produto_id": 1440,
+        "preco": 23.71
+      },
+      {
+        "produto_id": 1441,
+        "preco": 31.75
+      },
+      {
+        "produto_id": 1442,
+        "preco": 8.69
+      },
+      {
+        "produto_id": 1443,
+        "preco": 2.93
+      },
+      {
+        "produto_id": 1444,
+        "preco": 3.69
+      },
+      {
+        "produto_id": 1445,
+        "preco": 9.63
+      },
+      {
+        "produto_id": 1446,
+        "preco": 3.18
+      },
+      {
+        "produto_id": 1447,
+        "preco": 3.47,
+        "preco_atacado": 3.12,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1448,
+        "preco": 7.7
+      },
+      {
+        "produto_id": 1449,
+        "preco": 3.95,
+        "preco_atacado": 3.56,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1450,
+        "preco": 9.59
+      },
+      {
+        "produto_id": 1451,
+        "preco": 8.8,
+        "preco_atacado": 7.92,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1452,
+        "preco": 13.43
+      },
+      {
+        "produto_id": 1453,
+        "preco": 7.21
+      },
+      {
+        "produto_id": 1454,
+        "preco": 19.41
+      },
+      {
+        "produto_id": 1455,
+        "preco": 7.81
+      },
+      {
+        "produto_id": 1456,
+        "preco": 9.03
+      },
+      {
+        "produto_id": 1457,
+        "preco": 8.72
+      },
+      {
+        "produto_id": 1458,
+        "preco": 10.23
+      },
+      {
+        "produto_id": 1459,
+        "preco": 8.01
+      },
+      {
+        "produto_id": 1460,
+        "preco": 8.76
+      },
+      {
+        "produto_id": 1461,
+        "preco": 11.34
+      },
+      {
+        "produto_id": 1462,
+        "preco": 7.99,
+        "preco_atacado": 7.19,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1463,
+        "preco": 22.32
+      },
+      {
+        "produto_id": 1464,
+        "preco": 24.19
+      },
+      {
+        "produto_id": 1465,
+        "preco": 6.35
+      },
+      {
+        "produto_id": 1466,
+        "preco": 9.8,
+        "preco_atacado": 8.82,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1467,
+        "preco": 2.41
+      },
+      {
+        "produto_id": 1468,
+        "preco": 5.08
+      },
+      {
+        "produto_id": 1469,
+        "preco": 11.47
+      },
+      {
+        "produto_id": 1470,
+        "preco": 4.35
+      },
+      {
+        "produto_id": 1471,
+        "preco": 11.43
+      },
+      {
+        "produto_id": 1472,
+        "preco": 4.91
+      },
+      {
+        "produto_id": 1473,
+        "preco": 13.43
+      },
+      {
+        "produto_id": 1474,
+        "preco": 15.21
+      },
+      {
+        "produto_id": 1475,
+        "preco": 15.38
+      },
+      {
+        "produto_id": 1476,
+        "preco": 3.17
+      },
+      {
+        "produto_id": 1477,
+        "preco": 7.93
+      },
+      {
+        "produto_id": 1478,
+        "preco": 13.38
+      },
+      {
+        "produto_id": 1479,
+        "preco": 4.08
+      },
+      {
+        "produto_id": 1480,
+        "preco": 35.14
+      },
+      {
+        "produto_id": 1481,
+        "preco": 7.54
+      },
+      {
+        "produto_id": 1482,
+        "preco": 11.05
+      },
+      {
+        "produto_id": 1483,
+        "preco": 4.77
+      },
+      {
+        "produto_id": 1484,
+        "preco": 5.03,
+        "preco_atacado": 4.53,
+        "qtd_minima_atacado": 10
+      },
+      {
+        "produto_id": 1485,
+        "preco": 4.36
+      },
+      {
+        "produto_id": 1486,
+        "preco": 3.0
+      },
+      {
+        "produto_id": 1487,
+        "preco": 4.57
+      },
+      {
+        "produto_id": 1488,
+        "preco": 5.25
+      },
+      {
+        "produto_id": 1489,
+        "preco": 12.32
+      },
+      {
+        "produto_id": 1490,
+        "preco": 10.17
+      },
+      {
+        "produto_id": 1491,
+        "preco": 11.64
+      },
+      {
+        "produto_id": 1492,
+        "preco": 9.5,
+        "preco_atacado": 8.55,
+        "qtd_minima_atacado": 50
+      },
+      {
+        "produto_id": 1493,
+        "preco": 5.6
+      },
+      {
+        "produto_id": 1494,
+        "preco": 13.94
+      },
+      {
+        "produto_id": 1495,
+        "preco": 10.51
+      },
+      {
+        "produto_id": 1496,
+        "preco": 12.39,
+        "preco_atacado": 11.15,
+        "qtd_minima_atacado": 20
+      },
+      {
+        "produto_id": 1497,
+        "preco": 14.39
+      },
+      {
+        "produto_id": 1498,
+        "preco": 11.49
+      },
+      {
+        "produto_id": 1499,
+        "preco": 32.23
+      },
+      {
+        "produto_id": 1500,
+        "preco": 11.13,
+        "preco_atacado": 10.02,
+        "qtd_minima_atacado": 10
+      }
+    ]
+  },
+  {
+    "codigo": "ATACADISTA",
+    "descricao": "Tabela para atacadistas",
+    "itens": [
+      {
+        "produto_id": 1001,
+        "preco": 2.82
+      },
+      {
+        "produto_id": 1002,
+        "preco": 10.04
+      },
+      {
+        "produto_id": 1003,
+        "preco": 8.52
+      },
+      {
+        "produto_id": 1004,
+        "preco": 9.84
+      },
+      {
+        "produto_id": 1005,
+        "preco": 17.33
+      },
+      {
+        "produto_id": 1006,
+        "preco": 4.77
+      },
+      {
+        "produto_id": 1007,
+        "preco": 5.47
+      },
+      {
+        "produto_id": 1008,
+        "preco": 12.67
+      },
+      {
+        "produto_id": 1009,
+        "preco": 8.24
+      },
+      {
+        "produto_id": 1010,
+        "preco": 32.15
+      },
+      {
+        "produto_id": 1011,
+        "preco": 9.59
+      },
+      {
+        "produto_id": 1012,
+        "preco": 7.08
+      },
+      {
+        "produto_id": 1013,
+        "preco": 5.77
+      },
+      {
+        "produto_id": 1014,
+        "preco": 2.47
+      },
+      {
+        "produto_id": 1015,
+        "preco": 8.84
+      },
+      {
+        "produto_id": 1016,
+        "preco": 23.73
+      },
+      {
+        "produto_id": 1017,
+        "preco": 4.89
+      },
+      {
+        "produto_id": 1018,
+        "preco": 9.52
+      },
+      {
+        "produto_id": 1019,
+        "preco": 6.27
+      },
+      {
+        "produto_id": 1020,
+        "preco": 10.77
+      },
+      {
+        "produto_id": 1021,
+        "preco": 2.24
+      },
+      {
+        "produto_id": 1022,
+        "preco": 3.32
+      },
+      {
+        "produto_id": 1023,
+        "preco": 4.44
+      },
+      {
+        "produto_id": 1024,
+        "preco": 4.95
+      },
+      {
+        "produto_id": 1025,
+        "preco": 2.79
+      },
+      {
+        "produto_id": 1026,
+        "preco": 17.43
+      },
+      {
+        "produto_id": 1027,
+        "preco": 6.68
+      },
+      {
+        "produto_id": 1028,
+        "preco": 5.52
+      },
+      {
+        "produto_id": 1030,
+        "preco": 5.97
+      },
+      {
+        "produto_id": 1031,
+        "preco": 10.91
+      },
+      {
+        "produto_id": 1032,
+        "preco": 10.33
+      },
+      {
+        "produto_id": 1033,
+        "preco": 9.18
+      },
+      {
+        "produto_id": 1034,
+        "preco": 6.42
+      },
+      {
+        "produto_id": 1035,
+        "preco": 6.29
+      },
+      {
+        "produto_id": 1036,
+        "preco": 2.79
+      },
+      {
+        "produto_id": 1037,
+        "preco": 3.35
+      },
+      {
+        "produto_id": 1038,
+        "preco": 14.09
+      },
+      {
+        "produto_id": 1039,
+        "preco": 28.58
+      },
+      {
+        "produto_id": 1040,
+        "preco": 5.57
+      },
+      {
+        "produto_id": 1041,
+        "preco": 22.8
+      },
+      {
+        "produto_id": 1042,
+        "preco": 31.18
+      },
+      {
+        "produto_id": 1043,
+        "preco": 3.52
+      },
+      {
+        "produto_id": 1044,
+        "preco": 4.14
+      },
+      {
+        "produto_id": 1045,
+        "preco": 11.84
+      },
+      {
+        "produto_id": 1046,
+        "preco": 6.85
+      },
+      {
+        "produto_id": 1047,
+        "preco": 29.5
+      },
+      {
+        "produto_id": 1048,
+        "preco": 5.46
+      },
+      {
+        "produto_id": 1049,
+        "preco": 5.01
+      },
+      {
+        "produto_id": 1050,
+        "preco": 5.95
+      },
+      {
+        "produto_id": 1051,
+        "preco": 3.05
+      },
+      {
+        "produto_id": 1052,
+        "preco": 15.29
+      },
+      {
+        "produto_id": 1053,
+        "preco": 6.27
+      },
+      {
+        "produto_id": 1054,
+        "preco": 11.57
+      },
+      {
+        "produto_id": 1055,
+        "preco": 3.28
+      },
+      {
+        "produto_id": 1056,
+        "preco": 7.97
+      },
+      {
+        "produto_id": 1057,
+        "preco": 11.72
+      },
+      {
+        "produto_id": 1058,
+        "preco": 5.3
+      },
+      {
+        "produto_id": 1059,
+        "preco": 5.93
+      },
+      {
+        "produto_id": 1060,
+        "preco": 4.36
+      },
+      {
+        "produto_id": 1061,
+        "preco": 6.86
+      },
+      {
+        "produto_id": 1062,
+        "preco": 6.96
+      },
+      {
+        "produto_id": 1063,
+        "preco": 9.86
+      },
+      {
+        "produto_id": 1064,
+        "preco": 15.82
+      },
+      {
+        "produto_id": 1065,
+        "preco": 11.1
+      },
+      {
+        "produto_id": 1066,
+        "preco": 3.71
+      },
+      {
+        "produto_id": 1067,
+        "preco": 30.0
+      },
+      {
+        "produto_id": 1068,
+        "preco": 9.7
+      },
+      {
+        "produto_id": 1069,
+        "preco": 7.18
+      },
+      {
+        "produto_id": 1070,
+        "preco": 9.46
+      },
+      {
+        "produto_id": 1072,
+        "preco": 12.09
+      },
+      {
+        "produto_id": 1074,
+        "preco": 2.36
+      },
+      {
+        "produto_id": 1075,
+        "preco": 16.02
+      },
+      {
+        "produto_id": 1076,
+        "preco": 4.53
+      },
+      {
+        "produto_id": 1077,
+        "preco": 4.99
+      },
+      {
+        "produto_id": 1078,
+        "preco": 2.1
+      },
+      {
+        "produto_id": 1079,
+        "preco": 16.56
+      },
+      {
+        "produto_id": 1080,
+        "preco": 4.38
+      },
+      {
+        "produto_id": 1081,
+        "preco": 3.58
+      },
+      {
+        "produto_id": 1082,
+        "preco": 8.15
+      },
+      {
+        "produto_id": 1083,
+        "preco": 31.86
+      },
+      {
+        "produto_id": 1084,
+        "preco": 3.52
+      },
+      {
+        "produto_id": 1085,
+        "preco": 14.09
+      },
+      {
+        "produto_id": 1086,
+        "preco": 4.45
+      },
+      {
+        "produto_id": 1087,
+        "preco": 6.43
+      },
+      {
+        "produto_id": 1088,
+        "preco": 17.5
+      },
+      {
+        "produto_id": 1089,
+        "preco": 5.94
+      },
+      {
+        "produto_id": 1090,
+        "preco": 2.27
+      },
+      {
+        "produto_id": 1091,
+        "preco": 6.2
+      },
+      {
+        "produto_id": 1092,
+        "preco": 3.67
+      },
+      {
+        "produto_id": 1093,
+        "preco": 18.47
+      },
+      {
+        "produto_id": 1094,
+        "preco": 5.56
+      },
+      {
+        "produto_id": 1095,
+        "preco": 11.34
+      },
+      {
+        "produto_id": 1096,
+        "preco": 7.64
+      },
+      {
+        "produto_id": 1097,
+        "preco": 6.79
+      },
+      {
+        "produto_id": 1098,
+        "preco": 5.48
+      },
+      {
+        "produto_id": 1099,
+        "preco": 6.71
+      },
+      {
+        "produto_id": 1100,
+        "preco": 9.18
+      },
+      {
+        "produto_id": 1101,
+        "preco": 2.9
+      },
+      {
+        "produto_id": 1102,
+        "preco": 14.9
+      },
+      {
+        "produto_id": 1105,
+        "preco": 11.33
+      },
+      {
+        "produto_id": 1106,
+        "preco": 2.98
+      },
+      {
+        "produto_id": 1107,
+        "preco": 3.48
+      },
+      {
+        "produto_id": 1108,
+        "preco": 2.65
+      },
+      {
+        "produto_id": 1109,
+        "preco": 10.68
+      },
+      {
+        "produto_id": 1110,
+        "preco": 7.57
+      },
+      {
+        "produto_id": 1111,
+        "preco": 4.98
+      },
+      {
+        "produto_id": 1112,
+        "preco": 3.35
+      },
+      {
+        "produto_id": 1113,
+        "preco": 5.07
+      },
+      {
+        "produto_id": 1114,
+        "preco": 3.07
+      },
+      {
+        "produto_id": 1115,
+        "preco": 7.83
+      },
+      {
+        "produto_id": 1116,
+        "preco": 2.57
+      },
+      {
+        "produto_id": 1117,
+        "preco": 12.33
+      },
+      {
+        "produto_id": 1118,
+        "preco": 11.39
+      },
+      {
+        "produto_id": 1119,
+        "preco": 12.01
+      },
+      {
+        "produto_id": 1120,
+        "preco": 3.79
+      },
+      {
+        "produto_id": 1121,
+        "preco": 6.57
+      },
+      {
+        "produto_id": 1122,
+        "preco": 10.66
+      },
+      {
+        "produto_id": 1123,
+        "preco": 3.84
+      },
+      {
+        "produto_id": 1124,
+        "preco": 2.96
+      },
+      {
+        "produto_id": 1125,
+        "preco": 7.48
+      },
+      {
+        "produto_id": 1126,
+        "preco": 26.99
+      },
+      {
+        "produto_id": 1127,
+        "preco": 26.25
+      },
+      {
+        "produto_id": 1128,
+        "preco": 24.19
+      },
+      {
+        "produto_id": 1129,
+        "preco": 11.9
+      },
+      {
+        "produto_id": 1130,
+        "preco": 2.98
+      },
+      {
+        "produto_id": 1131,
+        "preco": 7.76
+      },
+      {
+        "produto_id": 1132,
+        "preco": 3.04
+      },
+      {
+        "produto_id": 1133,
+        "preco": 11.16
+      },
+      {
+        "produto_id": 1134,
+        "preco": 23.14
+      },
+      {
+        "produto_id": 1135,
+        "preco": 4.72
+      },
+      {
+        "produto_id": 1136,
+        "preco": 11.49
+      },
+      {
+        "produto_id": 1137,
+        "preco": 30.95
+      },
+      {
+        "produto_id": 1138,
+        "preco": 13.38
+      },
+      {
+        "produto_id": 1139,
+        "preco": 6.05
+      },
+      {
+        "produto_id": 1140,
+        "preco": 8.84
+      },
+      {
+        "produto_id": 1141,
+        "preco": 3.81
+      },
+      {
+        "produto_id": 1142,
+        "preco": 4.08
+      },
+      {
+        "produto_id": 1143,
+        "preco": 12.6
+      },
+      {
+        "produto_id": 1144,
+        "preco": 9.85
+      },
+      {
+        "produto_id": 1145,
+        "preco": 3.3
+      },
+      {
+        "produto_id": 1146,
+        "preco": 10.87
+      },
+      {
+        "produto_id": 1147,
+        "preco": 7.64
+      },
+      {
+        "produto_id": 1148,
+        "preco": 7.91
+      },
+      {
+        "produto_id": 1149,
+        "preco": 12.18
+      },
+      {
+        "produto_id": 1150,
+        "preco": 3.75
+      },
+      {
+        "produto_id": 1151,
+        "preco": 7.19
+      },
+      {
+        "produto_id": 1152,
+        "preco": 15.04
+      },
+      {
+        "produto_id": 1154,
+        "preco": 5.89
+      },
+      {
+        "produto_id": 1155,
+        "preco": 3.26
+      },
+      {
+        "produto_id": 1156,
+        "preco": 10.6
+      },
+      {
+        "produto_id": 1157,
+        "preco": 16.73
+      },
+      {
+        "produto_id": 1158,
+        "preco": 12.77
+      },
+      {
+        "produto_id": 1159,
+        "preco": 22.73
+      },
+      {
+        "produto_id": 1160,
+        "preco": 3.15
+      },
+      {
+        "produto_id": 1161,
+        "preco": 7.52
+      },
+      {
+        "produto_id": 1162,
+        "preco": 2.13
+      },
+      {
+        "produto_id": 1164,
+        "preco": 12.15
+      },
+      {
+        "produto_id": 1165,
+        "preco": 8.28
+      },
+      {
+        "produto_id": 1166,
+        "preco": 2.84
+      },
+      {
+        "produto_id": 1167,
+        "preco": 28.38
+      },
+      {
+        "produto_id": 1168,
+        "preco": 9.69
+      },
+      {
+        "produto_id": 1169,
+        "preco": 6.72
+      },
+      {
+        "produto_id": 1170,
+        "preco": 5.22
+      },
+      {
+        "produto_id": 1171,
+        "preco": 2.65
+      },
+      {
+        "produto_id": 1172,
+        "preco": 2.49
+      },
+      {
+        "produto_id": 1174,
+        "preco": 7.24
+      },
+      {
+        "produto_id": 1175,
+        "preco": 11.51
+      },
+      {
+        "produto_id": 1176,
+        "preco": 7.17
+      },
+      {
+        "produto_id": 1178,
+        "preco": 3.78
+      },
+      {
+        "produto_id": 1179,
+        "preco": 26.56
+      },
+      {
+        "produto_id": 1180,
+        "preco": 4.18
+      },
+      {
+        "produto_id": 1181,
+        "preco": 12.13
+      },
+      {
+        "produto_id": 1182,
+        "preco": 7.8
+      },
+      {
+        "produto_id": 1183,
+        "preco": 4.31
+      },
+      {
+        "produto_id": 1184,
+        "preco": 3.91
+      },
+      {
+        "produto_id": 1185,
+        "preco": 4.52
+      },
+      {
+        "produto_id": 1186,
+        "preco": 6.84
+      },
+      {
+        "produto_id": 1187,
+        "preco": 6.41
+      },
+      {
+        "produto_id": 1188,
+        "preco": 2.9
+      },
+      {
+        "produto_id": 1189,
+        "preco": 13.54
+      },
+      {
+        "produto_id": 1191,
+        "preco": 12.19
+      },
+      {
+        "produto_id": 1192,
+        "preco": 6.38
+      },
+      {
+        "produto_id": 1193,
+        "preco": 2.78
+      },
+      {
+        "produto_id": 1194,
+        "preco": 13.91
+      },
+      {
+        "produto_id": 1195,
+        "preco": 7.07
+      },
+      {
+        "produto_id": 1196,
+        "preco": 7.76
+      },
+      {
+        "produto_id": 1197,
+        "preco": 5.88
+      },
+      {
+        "produto_id": 1198,
+        "preco": 3.0
+      },
+      {
+        "produto_id": 1199,
+        "preco": 10.29
+      },
+      {
+        "produto_id": 1200,
+        "preco": 2.43
+      },
+      {
+        "produto_id": 1201,
+        "preco": 6.78
+      },
+      {
+        "produto_id": 1202,
+        "preco": 5.82
+      },
+      {
+        "produto_id": 1203,
+        "preco": 26.6
+      },
+      {
+        "produto_id": 1204,
+        "preco": 19.33
+      },
+      {
+        "produto_id": 1205,
+        "preco": 12.87
+      },
+      {
+        "produto_id": 1206,
+        "preco": 5.62
+      },
+      {
+        "produto_id": 1207,
+        "preco": 2.41
+      },
+      {
+        "produto_id": 1208,
+        "preco": 15.82
+      },
+      {
+        "produto_id": 1209,
+        "preco": 8.21
+      },
+      {
+        "produto_id": 1210,
+        "preco": 10.3
+      },
+      {
+        "produto_id": 1211,
+        "preco": 10.57
+      },
+      {
+        "produto_id": 1212,
+        "preco": 14.38
+      },
+      {
+        "produto_id": 1213,
+        "preco": 8.0
+      },
+      {
+        "produto_id": 1214,
+        "preco": 7.65
+      },
+      {
+        "produto_id": 1215,
+        "preco": 6.53
+      },
+      {
+        "produto_id": 1216,
+        "preco": 8.83
+      },
+      {
+        "produto_id": 1217,
+        "preco": 4.26
+      },
+      {
+        "produto_id": 1218,
+        "preco": 8.69
+      },
+      {
+        "produto_id": 1219,
+        "preco": 4.41
+      },
+      {
+        "produto_id": 1220,
+        "preco": 6.35
+      },
+      {
+        "produto_id": 1221,
+        "preco": 8.4
+      },
+      {
+        "produto_id": 1223,
+        "preco": 5.61
+      },
+      {
+        "produto_id": 1224,
+        "preco": 4.28
+      },
+      {
+        "produto_id": 1225,
+        "preco": 20.8
+      },
+      {
+        "produto_id": 1226,
+        "preco": 6.16
+      },
+      {
+        "produto_id": 1227,
+        "preco": 10.32
+      },
+      {
+        "produto_id": 1228,
+        "preco": 5.46
+      },
+      {
+        "produto_id": 1229,
+        "preco": 3.95
+      },
+      {
+        "produto_id": 1230,
+        "preco": 5.55
+      },
+      {
+        "produto_id": 1231,
+        "preco": 2.24
+      },
+      {
+        "produto_id": 1232,
+        "preco": 5.6
+      },
+      {
+        "produto_id": 1233,
+        "preco": 7.42
+      },
+      {
+        "produto_id": 1234,
+        "preco": 5.69
+      },
+      {
+        "produto_id": 1235,
+        "preco": 7.47
+      },
+      {
+        "produto_id": 1236,
+        "preco": 12.49
+      },
+      {
+        "produto_id": 1237,
+        "preco": 9.83
+      },
+      {
+        "produto_id": 1238,
+        "preco": 8.88
+      },
+      {
+        "produto_id": 1239,
+        "preco": 17.84
+      },
+      {
+        "produto_id": 1240,
+        "preco": 30.4
+      },
+      {
+        "produto_id": 1241,
+        "preco": 10.58
+      },
+      {
+        "produto_id": 1243,
+        "preco": 8.2
+      },
+      {
+        "produto_id": 1244,
+        "preco": 3.19
+      },
+      {
+        "produto_id": 1245,
+        "preco": 4.52
+      },
+      {
+        "produto_id": 1246,
+        "preco": 5.96
+      },
+      {
+        "produto_id": 1247,
+        "preco": 24.75
+      },
+      {
+        "produto_id": 1248,
+        "preco": 24.41
+      },
+      {
+        "produto_id": 1249,
+        "preco": 3.11
+      },
+      {
+        "produto_id": 1251,
+        "preco": 7.23
+      },
+      {
+        "produto_id": 1252,
+        "preco": 12.28
+      },
+      {
+        "produto_id": 1253,
+        "preco": 2.86
+      },
+      {
+        "produto_id": 1255,
+        "preco": 3.18
+      },
+      {
+        "produto_id": 1256,
+        "preco": 2.11
+      },
+      {
+        "produto_id": 1258,
+        "preco": 4.33
+      },
+      {
+        "produto_id": 1259,
+        "preco": 10.8
+      },
+      {
+        "produto_id": 1260,
+        "preco": 10.26
+      },
+      {
+        "produto_id": 1261,
+        "preco": 6.8
+      },
+      {
+        "produto_id": 1262,
+        "preco": 13.66
+      },
+      {
+        "produto_id": 1263,
+        "preco": 3.95
+      },
+      {
+        "produto_id": 1264,
+        "preco": 22.12
+      },
+      {
+        "produto_id": 1266,
+        "preco": 6.2
+      },
+      {
+        "produto_id": 1267,
+        "preco": 5.41
+      },
+      {
+        "produto_id": 1268,
+        "preco": 17.46
+      },
+      {
+        "produto_id": 1269,
+        "preco": 8.54
+      },
+      {
+        "produto_id": 1270,
+        "preco": 32.59
+      },
+      {
+        "produto_id": 1271,
+        "preco": 15.35
+      },
+      {
+        "produto_id": 1272,
+        "preco": 12.98
+      },
+      {
+        "produto_id": 1273,
+        "preco": 2.63
+      },
+      {
+        "produto_id": 1274,
+        "preco": 10.02
+      },
+      {
+        "produto_id": 1275,
+        "preco": 2.28
+      },
+      {
+        "produto_id": 1276,
+        "preco": 10.06
+      },
+      {
+        "produto_id": 1277,
+        "preco": 10.96
+      },
+      {
+        "produto_id": 1278,
+        "preco": 7.63
+      },
+      {
+        "produto_id": 1279,
+        "preco": 14.59
+      },
+      {
+        "produto_id": 1280,
+        "preco": 16.47
+      },
+      {
+        "produto_id": 1281,
+        "preco": 6.52
+      },
+      {
+        "produto_id": 1282,
+        "preco": 7.8
+      },
+      {
+        "produto_id": 1284,
+        "preco": 8.5
+      },
+      {
+        "produto_id": 1285,
+        "preco": 5.62
+      },
+      {
+        "produto_id": 1286,
+        "preco": 4.43
+      },
+      {
+        "produto_id": 1287,
+        "preco": 3.48
+      },
+      {
+        "produto_id": 1288,
+        "preco": 8.96
+      },
+      {
+        "produto_id": 1289,
+        "preco": 5.62
+      },
+      {
+        "produto_id": 1290,
+        "preco": 8.37
+      },
+      {
+        "produto_id": 1291,
+        "preco": 10.67
+      },
+      {
+        "produto_id": 1293,
+        "preco": 25.2
+      },
+      {
+        "produto_id": 1294,
+        "preco": 7.07
+      },
+      {
+        "produto_id": 1295,
+        "preco": 7.92
+      },
+      {
+        "produto_id": 1296,
+        "preco": 9.12
+      },
+      {
+        "produto_id": 1297,
+        "preco": 7.02
+      },
+      {
+        "produto_id": 1298,
+        "preco": 3.4
+      },
+      {
+        "produto_id": 1299,
+        "preco": 9.6
+      },
+      {
+        "produto_id": 1300,
+        "preco": 2.28
+      },
+      {
+        "produto_id": 1301,
+        "preco": 3.23
+      },
+      {
+        "produto_id": 1302,
+        "preco": 13.87
+      },
+      {
+        "produto_id": 1303,
+        "preco": 10.32
+      },
+      {
+        "produto_id": 1304,
+        "preco": 5.61
+      },
+      {
+        "produto_id": 1306,
+        "preco": 9.72
+      },
+      {
+        "produto_id": 1307,
+        "preco": 4.3
+      },
+      {
+        "produto_id": 1309,
+        "preco": 11.53
+      },
+      {
+        "produto_id": 1310,
+        "preco": 5.94
+      },
+      {
+        "produto_id": 1311,
+        "preco": 11.59
+      },
+      {
+        "produto_id": 1312,
+        "preco": 16.51
+      },
+      {
+        "produto_id": 1313,
+        "preco": 5.84
+      },
+      {
+        "produto_id": 1314,
+        "preco": 6.47
+      },
+      {
+        "produto_id": 1315,
+        "preco": 6.27
+      },
+      {
+        "produto_id": 1316,
+        "preco": 12.24
+      },
+      {
+        "produto_id": 1317,
+        "preco": 12.72
+      },
+      {
+        "produto_id": 1318,
+        "preco": 7.48
+      },
+      {
+        "produto_id": 1319,
+        "preco": 7.54
+      },
+      {
+        "produto_id": 1320,
+        "preco": 4.03
+      },
+      {
+        "produto_id": 1321,
+        "preco": 26.21
+      },
+      {
+        "produto_id": 1322,
+        "preco": 6.82
+      },
+      {
+        "produto_id": 1323,
+        "preco": 5.92
+      },
+      {
+        "produto_id": 1324,
+        "preco": 3.36
+      },
+      {
+        "produto_id": 1325,
+        "preco": 10.87
+      },
+      {
+        "produto_id": 1326,
+        "preco": 2.26
+      },
+      {
+        "produto_id": 1327,
+        "preco": 4.69
+      },
+      {
+        "produto_id": 1328,
+        "preco": 7.52
+      },
+      {
+        "produto_id": 1329,
+        "preco": 12.59
+      },
+      {
+        "produto_id": 1330,
+        "preco": 3.25
+      },
+      {
+        "produto_id": 1331,
+        "preco": 2.48
+      },
+      {
+        "produto_id": 1332,
+        "preco": 7.9
+      },
+      {
+        "produto_id": 1333,
+        "preco": 2.5
+      },
+      {
+        "produto_id": 1334,
+        "preco": 13.64
+      },
+      {
+        "produto_id": 1335,
+        "preco": 21.28
+      },
+      {
+        "produto_id": 1336,
+        "preco": 9.0
+      },
+      {
+        "produto_id": 1337,
+        "preco": 12.81
+      },
+      {
+        "produto_id": 1338,
+        "preco": 6.73
+      },
+      {
+        "produto_id": 1339,
+        "preco": 11.65
+      },
+      {
+        "produto_id": 1340,
+        "preco": 5.94
+      },
+      {
+        "produto_id": 1341,
+        "preco": 18.31
+      },
+      {
+        "produto_id": 1342,
+        "preco": 15.11
+      },
+      {
+        "produto_id": 1343,
+        "preco": 8.98
+      },
+      {
+        "produto_id": 1344,
+        "preco": 24.42
+      },
+      {
+        "produto_id": 1345,
+        "preco": 8.11
+      },
+      {
+        "produto_id": 1346,
+        "preco": 7.44
+      },
+      {
+        "produto_id": 1347,
+        "preco": 32.41
+      },
+      {
+        "produto_id": 1348,
+        "preco": 9.95
+      },
+      {
+        "produto_id": 1349,
+        "preco": 13.19
+      },
+      {
+        "produto_id": 1350,
+        "preco": 9.21
+      },
+      {
+        "produto_id": 1351,
+        "preco": 30.85
+      },
+      {
+        "produto_id": 1352,
+        "preco": 6.06
+      },
+      {
+        "produto_id": 1353,
+        "preco": 8.97
+      },
+      {
+        "produto_id": 1354,
+        "preco": 3.17
+      },
+      {
+        "produto_id": 1355,
+        "preco": 6.24
+      },
+      {
+        "produto_id": 1356,
+        "preco": 10.6
+      },
+      {
+        "produto_id": 1357,
+        "preco": 19.42
+      },
+      {
+        "produto_id": 1358,
+        "preco": 7.09
+      },
+      {
+        "produto_id": 1359,
+        "preco": 19.35
+      },
+      {
+        "produto_id": 1360,
+        "preco": 2.87
+      },
+      {
+        "produto_id": 1361,
+        "preco": 4.59
+      },
+      {
+        "produto_id": 1362,
+        "preco": 5.79
+      },
+      {
+        "produto_id": 1363,
+        "preco": 30.39
+      },
+      {
+        "produto_id": 1364,
+        "preco": 2.66
+      },
+      {
+        "produto_id": 1365,
+        "preco": 7.42
+      },
+      {
+        "produto_id": 1366,
+        "preco": 2.41
+      },
+      {
+        "produto_id": 1367,
+        "preco": 22.45
+      },
+      {
+        "produto_id": 1368,
+        "preco": 7.41
+      },
+      {
+        "produto_id": 1369,
+        "preco": 4.25
+      },
+      {
+        "produto_id": 1370,
+        "preco": 33.3
+      },
+      {
+        "produto_id": 1371,
+        "preco": 11.17
+      },
+      {
+        "produto_id": 1372,
+        "preco": 9.16
+      },
+      {
+        "produto_id": 1373,
+        "preco": 9.46
+      },
+      {
+        "produto_id": 1374,
+        "preco": 2.31
+      },
+      {
+        "produto_id": 1375,
+        "preco": 2.48
+      },
+      {
+        "produto_id": 1376,
+        "preco": 4.27
+      },
+      {
+        "produto_id": 1379,
+        "preco": 6.18
+      },
+      {
+        "produto_id": 1380,
+        "preco": 8.02
+      },
+      {
+        "produto_id": 1381,
+        "preco": 11.8
+      },
+      {
+        "produto_id": 1382,
+        "preco": 4.53
+      },
+      {
+        "produto_id": 1383,
+        "preco": 7.59
+      },
+      {
+        "produto_id": 1384,
+        "preco": 25.45
+      },
+      {
+        "produto_id": 1385,
+        "preco": 10.33
+      },
+      {
+        "produto_id": 1386,
+        "preco": 7.76
+      },
+      {
+        "produto_id": 1387,
+        "preco": 11.7
+      },
+      {
+        "produto_id": 1388,
+        "preco": 8.13
+      },
+      {
+        "produto_id": 1389,
+        "preco": 7.71
+      },
+      {
+        "produto_id": 1390,
+        "preco": 19.73
+      },
+      {
+        "produto_id": 1391,
+        "preco": 8.97
+      },
+      {
+        "produto_id": 1392,
+        "preco": 21.38
+      },
+      {
+        "produto_id": 1393,
+        "preco": 5.63
+      },
+      {
+        "produto_id": 1394,
+        "preco": 5.47
+      },
+      {
+        "produto_id": 1395,
+        "preco": 10.7
+      },
+      {
+        "produto_id": 1396,
+        "preco": 12.54
+      },
+      {
+        "produto_id": 1397,
+        "preco": 31.49
+      },
+      {
+        "produto_id": 1398,
+        "preco": 4.57
+      },
+      {
+        "produto_id": 1399,
+        "preco": 10.6
+      },
+      {
+        "produto_id": 1400,
+        "preco": 32.12
+      },
+      {
+        "produto_id": 1401,
+        "preco": 8.33
+      },
+      {
+        "produto_id": 1402,
+        "preco": 6.04
+      },
+      {
+        "produto_id": 1403,
+        "preco": 5.72
+      },
+      {
+        "produto_id": 1404,
+        "preco": 12.66
+      },
+      {
+        "produto_id": 1405,
+        "preco": 12.02
+      },
+      {
+        "produto_id": 1406,
+        "preco": 13.33
+      },
+      {
+        "produto_id": 1407,
+        "preco": 16.15
+      },
+      {
+        "produto_id": 1409,
+        "preco": 3.38
+      },
+      {
+        "produto_id": 1410,
+        "preco": 5.26
+      },
+      {
+        "produto_id": 1411,
+        "preco": 11.51
+      },
+      {
+        "produto_id": 1412,
+        "preco": 7.17
+      },
+      {
+        "produto_id": 1413,
+        "preco": 7.74
+      },
+      {
+        "produto_id": 1414,
+        "preco": 29.53
+      },
+      {
+        "produto_id": 1415,
+        "preco": 8.32
+      },
+      {
+        "produto_id": 1416,
+        "preco": 12.59
+      },
+      {
+        "produto_id": 1417,
+        "preco": 13.5
+      },
+      {
+        "produto_id": 1418,
+        "preco": 5.29
+      },
+      {
+        "produto_id": 1419,
+        "preco": 5.09
+      },
+      {
+        "produto_id": 1420,
+        "preco": 3.11
+      },
+      {
+        "produto_id": 1421,
+        "preco": 6.37
+      },
+      {
+        "produto_id": 1422,
+        "preco": 6.14
+      },
+      {
+        "produto_id": 1423,
+        "preco": 7.08
+      },
+      {
+        "produto_id": 1424,
+        "preco": 2.09
+      },
+      {
+        "produto_id": 1425,
+        "preco": 10.34
+      },
+      {
+        "produto_id": 1426,
+        "preco": 4.18
+      },
+      {
+        "produto_id": 1427,
+        "preco": 8.31
+      },
+      {
+        "produto_id": 1428,
+        "preco": 8.38
+      },
+      {
+        "produto_id": 1429,
+        "preco": 7.32
+      },
+      {
+        "produto_id": 1430,
+        "preco": 3.3
+      },
+      {
+        "produto_id": 1431,
+        "preco": 4.2
+      },
+      {
+        "produto_id": 1432,
+        "preco": 23.25
+      },
+      {
+        "produto_id": 1433,
+        "preco": 12.63
+      },
+      {
+        "produto_id": 1435,
+        "preco": 6.63
+      },
+      {
+        "produto_id": 1436,
+        "preco": 11.54
+      },
+      {
+        "produto_id": 1437,
+        "preco": 21.54
+      },
+      {
+        "produto_id": 1438,
+        "preco": 32.66
+      },
+      {
+        "produto_id": 1439,
+        "preco": 7.59
+      },
+      {
+        "produto_id": 1440,
+        "preco": 21.81
+      },
+      {
+        "produto_id": 1441,
+        "preco": 29.21
+      },
+      {
+        "produto_id": 1442,
+        "preco": 7.99
+      },
+      {
+        "produto_id": 1443,
+        "preco": 2.7
+      },
+      {
+        "produto_id": 1444,
+        "preco": 3.39
+      },
+      {
+        "produto_id": 1445,
+        "preco": 8.86
+      },
+      {
+        "produto_id": 1446,
+        "preco": 2.93
+      },
+      {
+        "produto_id": 1447,
+        "preco": 3.19
+      },
+      {
+        "produto_id": 1448,
+        "preco": 7.08
+      },
+      {
+        "produto_id": 1449,
+        "preco": 3.63
+      },
+      {
+        "produto_id": 1450,
+        "preco": 8.82
+      },
+      {
+        "produto_id": 1451,
+        "preco": 8.1
+      },
+      {
+        "produto_id": 1452,
+        "preco": 12.36
+      },
+      {
+        "produto_id": 1453,
+        "preco": 6.63
+      },
+      {
+        "produto_id": 1454,
+        "preco": 17.86
+      },
+      {
+        "produto_id": 1455,
+        "preco": 7.19
+      },
+      {
+        "produto_id": 1456,
+        "preco": 8.31
+      },
+      {
+        "produto_id": 1457,
+        "preco": 8.02
+      },
+      {
+        "produto_id": 1458,
+        "preco": 9.41
+      },
+      {
+        "produto_id": 1460,
+        "preco": 8.06
+      },
+      {
+        "produto_id": 1461,
+        "preco": 10.43
+      },
+      {
+        "produto_id": 1462,
+        "preco": 7.35
+      },
+      {
+        "produto_id": 1463,
+        "preco": 20.53
+      },
+      {
+        "produto_id": 1464,
+        "preco": 22.25
+      },
+      {
+        "produto_id": 1465,
+        "preco": 5.84
+      },
+      {
+        "produto_id": 1466,
+        "preco": 9.02
+      },
+      {
+        "produto_id": 1467,
+        "preco": 2.22
+      },
+      {
+        "produto_id": 1468,
+        "preco": 4.67
+      },
+      {
+        "produto_id": 1469,
+        "preco": 10.55
+      },
+      {
+        "produto_id": 1470,
+        "preco": 4.0
+      },
+      {
+        "produto_id": 1471,
+        "preco": 10.52
+      },
+      {
+        "produto_id": 1472,
+        "preco": 4.52
+      },
+      {
+        "produto_id": 1473,
+        "preco": 12.36
+      },
+      {
+        "produto_id": 1474,
+        "preco": 13.99
+      },
+      {
+        "produto_id": 1475,
+        "preco": 14.15
+      },
+      {
+        "produto_id": 1476,
+        "preco": 2.92
+      },
+      {
+        "produto_id": 1477,
+        "preco": 7.3
+      },
+      {
+        "produto_id": 1478,
+        "preco": 12.31
+      },
+      {
+        "produto_id": 1479,
+        "preco": 3.75
+      },
+      {
+        "produto_id": 1480,
+        "preco": 32.33
+      },
+      {
+        "produto_id": 1481,
+        "preco": 6.94
+      },
+      {
+        "produto_id": 1483,
+        "preco": 4.39
+      },
+      {
+        "produto_id": 1484,
+        "preco": 4.63
+      },
+      {
+        "produto_id": 1485,
+        "preco": 4.01
+      },
+      {
+        "produto_id": 1486,
+        "preco": 2.76
+      },
+      {
+        "produto_id": 1487,
+        "preco": 4.2
+      },
+      {
+        "produto_id": 1488,
+        "preco": 4.83
+      },
+      {
+        "produto_id": 1489,
+        "preco": 11.33
+      },
+      {
+        "produto_id": 1490,
+        "preco": 9.36
+      },
+      {
+        "produto_id": 1491,
+        "preco": 10.71
+      },
+      {
+        "produto_id": 1492,
+        "preco": 8.74
+      },
+      {
+        "produto_id": 1493,
+        "preco": 5.15
+      },
+      {
+        "produto_id": 1495,
+        "preco": 9.67
+      },
+      {
+        "produto_id": 1496,
+        "preco": 11.4
+      },
+      {
+        "produto_id": 1497,
+        "preco": 13.24
+      },
+      {
+        "produto_id": 1498,
+        "preco": 10.57
+      },
+      {
+        "produto_id": 1500,
+        "preco": 10.24
+      }
+    ]
+  }
+]

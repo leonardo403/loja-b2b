@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "PIX",
+    "descricao": "PIX à vista",
+    "valor_minimo": 0,
+    "acrescimo_percentual": 0,
+    "a_prazo": false
+  },
+  {
+    "codigo": "BOL28",
+    "descricao": "Boleto 28 dias",
+    "valor_minimo": 300.0,
+    "acrescimo_percentual": 0,
+    "a_prazo": true
+  },
+  {
+    "codigo": "BOL2856",
+    "descricao": "Boleto 28/56 dias",
+    "valor_minimo": 1000.0,
+    "acrescimo_percentual": 2.5,
+    "a_prazo": true
+  }
+]

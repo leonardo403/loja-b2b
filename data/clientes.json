@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "cnpj": "12.345.678/0001-90",
+    "razao_social": "Mercado Bom Preço Ltda",
+    "nome_fantasia": "Bom Preço",
+    "cidade": "Maringá",
+    "uf": "PR",
+    "tabela_preco": "PADRAO",
+    "limite_credito": 15000.0,
+    "limite_utilizado": 3200.0,
+    "bloqueado": false
+  },
+  {
+    "id": 2,
+    "cnpj": "98.765.432/0001-10",
+    "razao_social": "Atacadão Central Distribuidora S.A.",
+    "nome_fantasia": "Atacadão Central",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "tabela_preco": "ATACADISTA",
+    "limite_credito": 80000.0,
+    "limite_utilizado": 78500.0,
+    "bloqueado": false
+  },
+  {
+    "id": 3,
+    "cnpj": "11.222.333/0001-44",
+    "razao_social": "Empório São Jorge ME",
+    "nome_fantasia": "Empório São Jorge",
+    "cidade": "Cascavel",
+    "uf": "PR",
+    "tabela_preco": "PADRAO",
+    "limite_credito": 5000.0,
+    "limite_utilizado": 0.0,
+    "bloqueado": true,
+    "motivo_bloqueio": "Títulos vencidos há mais de 30 dias"
+  }
+]
