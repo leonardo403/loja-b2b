@@ -1,0 +1,63 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: loja-b2b-mysql
+    environment:
+      MYSQL_DATABASE: loja_b2b
+      MYSQL_USER: loja
+      MYSQL_PASSWORD: loja
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "loja"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build:
+      context: ./backend
+    container_name: loja-b2b-backend
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      APP_ENV: local
+      APP_DEBUG: "true"
+      APP_URL: http://localhost:8002
+      DB_CONNECTION: mysql
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_DATABASE: loja_b2b
+      DB_USERNAME: loja
+      DB_PASSWORD: loja
+      DATA_PATH: /var/www/data
+      FRONTEND_URL: http://localhost:5173
+    ports:
+      - "8002:8000"
+    volumes:
+      - ./backend:/var/www/html
+      - ./data:/var/www/data:ro
+      - backend_vendor:/var/www/html/vendor
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: loja-b2b-frontend
+    depends_on:
+      - backend
+    environment:
+      VITE_PROXY_TARGET: http://backend:8000
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - frontend_node_modules:/app/node_modules
+
+volumes:
+  mysql_data:
+  backend_vendor:
+  frontend_node_modules:

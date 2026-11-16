@@ -20,8 +20,9 @@ docker compose up --build
 ```
 
 - Loja: http://localhost:5173
-- API: http://localhost:8001/api
-- MySQL: localhost:3306 (`loja_b2b` / `loja` / `loja`)
+- API: http://localhost:8002/api
+- Telescope (monitoramento): http://localhost:8002/telescope
+- MySQL: localhost:3307 (`loja_b2b` / `loja` / `loja`)
 
 Na primeira subida o backend instala dependências, gera a chave, aguarda o MySQL,
 executa as migrations e importa os JSONs de `data/`.
@@ -40,7 +41,7 @@ composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate:fresh --seed
-php artisan serve --host=127.0.0.1 --port=8001
+php artisan serve --host=127.0.0.1 --port=8002
 
 # Frontend (outro terminal)
 cd frontend
@@ -48,8 +49,12 @@ npm install
 npm run dev
 ```
 
-Vite faz proxy de `/api` para `http://localhost:8001` (configurável em
+Vite faz proxy de `/api` para `http://localhost:8002` (configurável em
 `VITE_PROXY_TARGET`).
+
+O [Laravel Telescope](https://laravel.com/docs/telescope) fica disponível em
+http://localhost:8002/telescope para monitorar requisições, queries, jobs, logs e
+exceções durante o desenvolvimento. Em produção, defina `TELESCOPE_ENABLED=false`.
 
 ## Contas de demonstração
 
