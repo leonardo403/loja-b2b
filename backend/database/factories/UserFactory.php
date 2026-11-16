@@ -2,6 +2,8 @@
 
 namespace Database\Factories;
 
+use App\Enums\UserRole;
+use App\Models\Customer;
 use App\Models\User;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Facades\Hash;
@@ -40,6 +42,22 @@ class UserFactory extends Factory
     {
         return $this->state(fn (array $attributes) => [
             'email_verified_at' => null,
+        ]);
+    }
+
+    public function admin(): static
+    {
+        return $this->state(fn () => [
+            'role' => UserRole::Admin,
+            'customer_id' => null,
+        ]);
+    }
+
+    public function customer(?Customer $customer = null): static
+    {
+        return $this->state(fn () => [
+            'role' => UserRole::Customer,
+            'customer_id' => $customer?->id,
         ]);
     }
 }

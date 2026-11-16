@@ -165,9 +165,11 @@ class OrderService
                 throw new BusinessException('Pedidos cancelados não podem ser reabertos.');
             }
 
-            if ($status === OrderStatus::Canceled
-                && $locked->status !== OrderStatus::Canceled
-                && $locked->status->canBeCanceled()) {
+            if ($status === OrderStatus::Canceled && $locked->status !== OrderStatus::Canceled) {
+                if (! $locked->status->canBeCanceled()) {
+                    throw new BusinessException('Apenas pedidos aguardando ou confirmados podem ser cancelados.');
+                }
+
                 foreach ($locked->items as $item) {
                     $this->stocks->increment($item->product_id, $item->quantity);
                 }
