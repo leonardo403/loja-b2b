@@ -124,3 +124,14 @@ php artisan test
 npm run build      # type-check + build de produção
 npm run dev
 ```
+
+## Referências rápidas
+
+- `README.md` — como rodar o projeto.
+- `backend/routes/api.php` — todas as rotas.
+- `backend/app/Services/` — regras de negócio.
+- `backend/app/Repositories/` — consultas.
+- `backend/app/DTO/` — contratos de resposta.
+- `frontend/src/services/` — chamadas HTTP.
+- `frontend/src/stores/` — estado global.
+- `frontend/src/router/index.ts` — navegação e permissões.
